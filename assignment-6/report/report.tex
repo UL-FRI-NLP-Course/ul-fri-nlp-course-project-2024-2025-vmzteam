@@ -31,23 +31,23 @@
 %----------------------------------------------------------------------------------------
 
 % Header
-\JournalInfo{FRI Natural language processing course 2021}
+\JournalInfo{FRI Natural language processing course 2025}
 
 % Interim or final report
 \Archive{Project report} 
 %\Archive{Final report} 
 
 % Article title
-\PaperTitle{Natural language processing course Latex Template} 
+\PaperTitle{Automatic generation of Slovenian traffic news for RTV Slovenija} 
 
 % Authors (student competitors) and their info
-\Authors{John Doe, Jane Doe, and Mike Smith}
+\Authors{Vid Kobal, Matija Tomažič, and Žan Luka Nusdorfer}
 
 % Advisors
 \affiliation{\textit{Advisors: Slavko Žitnik}}
 
 % Keywords
-\Keywords{Keyword1, Keyword2, Keyword3 ...}
+\Keywords{prompt engineering, text generation, traffic news, Slovenian language}
 \newcommand{\keywordname}{Keywords}
 
 
@@ -56,7 +56,7 @@
 %----------------------------------------------------------------------------------------
 
 \Abstract{
-The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here. The abstract goes here.
+This report describes the process of fine-tuning an existing LLM to generate compact and understandable traffic reports. The goal of this report was to use different prompt engineering techniques to automate the report generation task. 
 }
 
 %----------------------------------------------------------------------------------------
@@ -77,9 +77,16 @@ The abstract goes here. The abstract goes here. The abstract goes here. The abst
 %----------------------------------------------------------------------------------------
 
 \section*{Introduction}
-	These latex files are intended to serve as a the template for the NLP course at FRI.  The template is adapted from the FRI Data Science Project Competition. template  If you find mistakes in the template or have problems using it, please consult Jure Demšar (\href{mailto:jure.demsar@fri.uni-lj.si}{jure.demsar@fri.uni-lj.si}).
-	
-	In the Introduction section you should write about the relevance of your work (what is the purpose of the project, what will we solve) and about related work (what solutions for the problem already exist). Where appropriate, reference scientific work conducted by other researchers. For example, the work done by Demšar et al. \cite{Demsar2016BalancedMixture} is very important for our project. The abbreviation et al. is for et alia, which in latin means and others, we use this abbreviation when there are more than two authors of the work we are citing. If there are two authors (or if there is a single author) we just write down their surnames. For example, the work done by Demšar and Lebar Bajec \cite{Demsar2017LinguisticEvolution} is also important for successful completion of our project.
+In an effort to modernize and streamline the process of generating traffic news reports for RTV Slovenija, this project explores the application of a Large Language Model (LLM) to automate the creation of Slovenian traffic news. The primary objective is to leverage an existing LLM, fine-tune it for the specific task, and apply prompt engineering techniques to generate concise and accurate traffic reports based on data provided by the promet.si portal. These reports will be used by radio presenters at RTV Slovenija to deliver timely updates to the public.
+
+Currently, the process of traffic news generation is carried out manually by student workers who review data and compile reports every 30 minutes. This approach, while effective, is labor-intensive and prone to inconsistencies. By integrating an automated system, the project aims to enhance efficiency, maintain accuracy, and reduce reliance on manual labor while adhering to the established guidelines and standards for news formatting.
+
+To ensure the effectiveness of the solution, evaluation criteria will be defined, focusing on aspects such as the identification of significant traffic events, accuracy in road naming, appropriate filtering, and optimal text length. The performance of the automated system will be assessed through both automatic metrics, including precision, recall, and F1 score, as well as human evaluations conducted by domain experts.
+
+Ultimately, this project aims to deliver a robust and efficient solution for automatic traffic news generation, improving the workflow at RTV Slovenija while maintaining high standards of accuracy and reliability in news reporting.
+
+\section*{Existing solution and related work}
+
 
 
 %------------------------------------------------
