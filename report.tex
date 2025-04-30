@@ -156,8 +156,9 @@ The data we will use for training and evaluation is sourced from the promet.si p
 \section*{Evaluation}
 To evaluate the performance of the different approaches, we will use a combination of automatic and human evaluation metrics.
 For automated evaluation, we decided to use BLEU (bilingual evaluation understudy), which compares the machine generated text to one or more reference texts and produces a score between 0 and 1, with values closer to 1 representing more similar texts.
+Another automatic evaluation metric we will be using is BERTScore, which uses BERT embeddings to measure the similarity between the generated text and reference texts.
 Additionally, we will use manual evaluation, where human evaluators will assess the generated traffic reports based on criteria such as relevance, clarity, and adherence to editorial guidelines.
-We will use automatic evaluation metrics on all generated reports, and then select a small subset of the best reports for human evaluation, to better understand the correlation between the two evaluation methods.
+We will use automatic evaluation metrics on all generated reports, and then select a small subset of the reports for human evaluation, to better understand the correlation between the evaluation methods.
 \bibliographystyle{unsrt}
 \bibliography{report}
 
