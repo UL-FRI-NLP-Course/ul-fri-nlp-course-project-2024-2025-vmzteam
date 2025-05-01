@@ -99,6 +99,66 @@ Practical guidance for prompt engineering is provided by Prompting Guide AI (\ur
 
 In conclusion, our project builds upon this body of research in table-to-text generation, fine-tuning methods, and prompt engineering. By integrating structured data processing, efficient LLM adaptation, and strategic prompt design, we aim to deliver automated and reliable compliant traffic news that meets the standards of RTV Slovenija for relevance, clarity, and factual accuracy.
 
+\section*{Methods}
+The simplest way to tackle this challenge is through prompt engineering, which has been shown to significantly enhance the performance of LLMs.
+To improve the quality of our traffic reports, we will leverage various prompt engineering techniques such as few-shot prompting, which provides examples to guide the model’s responses; chain-of-thought prompting, which encourages step-by-step reasoning for better accuracy; and prompt chaining, where multiple prompts are linked together to refine and build upon previous outputs.
+These techniques help ensure more accurate, detailed, and contextually relevant traffic reports.
+
+\subsection{Zero-shot prompting}
+Zero-shot prompting is a technique where we provide the model with a task description and ask it to generate a response without any examples.
+This strategy relies on the model being adequately trained and being exposed to large amounts of data, which allows it to generalize and understand the task at hand.
+
+TODO: example?
+
+
+\subsection*{Few-shot prompting}
+Few-shot prompting involves providing the model with a few examples of the desired input-output format before asking it to generate a response.
+It helps the model understand the pattern of the expected output.
+
+For example, we want to classify statements as \textbf{Positive}, \textbf{Negative}, or \textbf{Neutral}.
+We provide the LLM with the required task and some examples:
+\begin{center}
+    \texttt{Task: Classify sentences as Positive, Negative, or Neutral.\newline
+    Example 1: 'I hate being in Thailand.' - Negative,\newline
+    Example 2: 'I like it when my sister visits.' - Positive}
+\end{center}
+Then we provide a new sentence that we want to classify:
+\begin{center}
+    \texttt{Now classify the following sentence: 'I enjoy long walks.'}
+\end{center}
+The LLM is more likely to classify the sentence correctly, since it has been trained by examples.
+This method is very useful for classification, translation, and text generation.
+
+\subsection*{Chain-of-thought prompting (CoT)}
+Chain-of-thought prompting is a technique that encourages the model to break down its reasoning process step by step.
+By asking the model to explain its thought process, we provide an intermediate reasoning step to guide model's responses, potentially leading to better results.
+
+TODO: example?
+
+
+\subsection{Prompt chaining}
+Prompt chaining is a technique where we link multiple prompts together to refine and build upon the model's previous outputs.
+This approach allows us to create a more structured and coherent response by guiding the model through a series of related tasks or questions.
+In our case we can first ask the model to generate a list of relevant traffic events, and then ask it to summarize those events into a report.
+TODO: pregledat tazadnji stavek, če bomo sploh tako delali
+
+
+\subsection{LLM fine-tuning}
+Another way we can tackle this problem is by fine-tuning an existing LLM model.
+This approach allows us to adapt the model to our specific task and domain, in our case generating traffic reports, by training it on a smaller dataset of Slovenian traffic reports, helping the model learn the specific language patterns, terminology, and style used in this context.
+We will use the LoRA (Low-Rank Adaptation) method, which is a parameter-efficient fine-tuning technique.
+It works by injecting a low-rank trainable matrix into each layer of the pre-trained model, allowing us to fine-tune only a small number of parameters while keeping the rest of the model frozen.
+Empirical studies have shown that LoRA can achieve comparable performance to full fine-tuning while significantly reducing the number of trainable parameters and computational resources required.
+
+\subsection{Data preparation}
+The data we will use for training and evaluation is sourced from the promet.si portal, which is the main source of traffic information in Slovenia, and will be used as input data and also RTV Slovenija's traffic news archive and formatting guidelines, which will server as expected output data and guidelines for prompting.
+
+\section*{Evaluation}
+To evaluate the performance of the different approaches, we will use a combination of automatic and human evaluation metrics.
+For automated evaluation, we decided to use BLEU (bilingual evaluation understudy), which compares the machine generated text to one or more reference texts and produces a score between 0 and 1, with values closer to 1 representing more similar texts.
+Another automatic evaluation metric we will be using is BERTScore, which uses BERT embeddings to measure the similarity between the generated text and reference texts.
+Additionally, we will use manual evaluation, where human evaluators will assess the generated traffic reports based on criteria such as relevance, clarity, and adherence to editorial guidelines.
+We will use automatic evaluation metrics on all generated reports, and then select a small subset of the reports for human evaluation, to better understand the correlation between the evaluation methods.
 \bibliographystyle{unsrt}
 \bibliography{report}
 
