@@ -108,7 +108,7 @@ These techniques help ensure more accurate, detailed, and contextually relevant 
 Zero-shot prompting is a technique where we provide the model with a task description and ask it to generate a response without any examples.
 This strategy relies on the model being adequately trained and being exposed to large amounts of data, which allows it to generalize and understand the task at hand.
 
-TODO: example?
+%TODO: example?
 
 
 \subsection*{Few-shot prompting}
@@ -133,15 +133,16 @@ This method is very useful for classification, translation, and text generation.
 Chain-of-thought prompting is a technique that encourages the model to break down its reasoning process step by step.
 By asking the model to explain its thought process, we provide an intermediate reasoning step to guide model's responses, potentially leading to better results.
 
-TODO: example?
+%TODO: example?
 
 
 \subsection{Prompt chaining}
 Prompt chaining is a technique where we link multiple prompts together to refine and build upon the model's previous outputs.
 This approach allows us to create a more structured and coherent response by guiding the model through a series of related tasks or questions.
 In our case we can first ask the model to generate a list of relevant traffic events, and then ask it to summarize those events into a report.
-TODO: pregledat tazadnji stavek, če bomo sploh tako delali
+%TODO: pregledat tazadnji stavek, če bomo sploh tako delali
 
+\subsection{Self-consistency prompting} Self-consistency prompting involves generating multiple outputs for the same prompt and selecting the most appropriate one. This helps reduce variability in model responses and improves reliability. It is especially useful with models like GaMS 9B, which may produce inconsistent results across runs.
 
 \subsection{LLM fine-tuning}
 Another way we can tackle this problem is by fine-tuning an existing LLM model.
@@ -154,11 +155,7 @@ Empirical studies have shown that LoRA can achieve comparable performance to ful
 The data we will use for training and evaluation is sourced from the promet.si portal, which is the main source of traffic information in Slovenia, and will be used as input data and also RTV Slovenija's traffic news archive and formatting guidelines, which will server as expected output data and guidelines for prompting.
 
 \section*{Evaluation}
-To evaluate the performance of the different approaches, we will use a combination of automatic and human evaluation metrics.
-For automated evaluation, we decided to use BLEU (bilingual evaluation understudy), which compares the machine generated text to one or more reference texts and produces a score between 0 and 1, with values closer to 1 representing more similar texts.
-Another automatic evaluation metric we will be using is BERTScore, which uses BERT embeddings to measure the similarity between the generated text and reference texts.
-Additionally, we will use manual evaluation, where human evaluators will assess the generated traffic reports based on criteria such as relevance, clarity, and adherence to editorial guidelines.
-We will use automatic evaluation metrics on all generated reports, and then select a small subset of the reports for human evaluation, to better understand the correlation between the evaluation methods.
+To evaluate the performance of the different approaches, we will use a combination of automatic and human evaluation metrics. For automated evaluation, we decided to use BLEU (bilingual evaluation understudy), which compares the machine-generated text to one or more reference texts and produces a score between 0 and 1, with values closer to 1 representing more similar texts. Another automatic evaluation metric we will be using is BERTScore, which uses BERT embeddings to measure the semantic similarity between generated and reference texts. We will also use ROUGE-L, which evaluates the longest common subsequence between generated and reference outputs. Additionally, we will use manual evaluation, where human evaluators will assess the generated traffic reports based on criteria such as relevance, clarity, and adherence to editorial guidelines. We will use automatic evaluation metrics on all generated reports, and then select a small subset of the reports for human evaluation, to better understand the correlation between the evaluation methods.
 \bibliographystyle{unsrt}
 \bibliography{report}
 
