@@ -1,8 +1,8 @@
 import csv
 import datetime
+import json
 import os
 import ollama
-from similarity_calculator import calculate_bleu, bert_similarity, compute_tfidf_cosine_similarity
 
 import html2text
 
@@ -15,7 +15,7 @@ LANGUAGE_MODEL = "hf.co/tknez/GaMS-9B-Instruct-GGUF:Q6_K"
 TARGET_TIME = datetime.datetime.strptime("2024-03-30 08:00", "%Y-%m-%d %H:%M")
 TIME_WINDOW = 120  # minutes
 
-MAIN_PROMPT = """THIS IS A TEST PROMPT"""
+MAIN_PROMPT = """Test"""
 
 RELEVANT_FIELDS = [
 "ContentNesreceSLO",
@@ -73,6 +73,8 @@ def send_prompt(instruction_prompt : str, input_query : str) -> str:
 def save_to_file(target_dir : str, content : str, date : datetime.datetime) -> None:
     """Saves the content to a file."""
     try:
+        os.makedirs(target_dir, exist_ok=True)
+
         file_path = os.path.join(target_dir, f"llm_report_{date.strftime('%d_%m_%Y')}_{date.strftime('%H_%M')}.rtf")
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(content)
@@ -89,16 +91,32 @@ def calculate_similarities(text1 : str, text2 : str):
     """
 
 
+def generate_llm_reports_for_matching_files(file_path : str) -> None:
+    with open(file_path, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+        for item in data:
+            report_name = item.get("output")
+            # ../outputs\report_31_01_2024_08_15.rtf
+            report_date = datetime.datetime.strptime(report_name.split("report_")[1].replace(".rtf", ""), "%d_%m_%Y_%H_%M")
+
+            relevant_lines = read_relevant_lines("../podatki.csv", report_date, TIME_WINDOW)
+
+            llm_response = send_prompt(MAIN_PROMPT, str(relevant_lines))
+
+            save_to_file("../llm_outputs", llm_response, report_date)
+
 
 if __name__ == "__main__":
     # Define the path to the test_data folder
     test_data_folder = r"C:\Users\zanlu\Documents\FRI\MAG\ONJ\ul-fri-nlp-course-project-2024-2025-vmzteam\llm_outputs"
 
     # Read relevant lines from the CSV file
-    relevant_lines = read_relevant_lines("../podatki.csv", TARGET_TIME, TIME_WINDOW)
-    print("relevant_lines", relevant_lines)
+    #relevant_lines = read_relevant_lines("../podatki.csv", TARGET_TIME, TIME_WINDOW)
+    #print("relevant_lines", relevant_lines)
 
-    llm_response = send_prompt(MAIN_PROMPT, str(relevant_lines))
+    #llm_response = send_prompt(MAIN_PROMPT, str(relevant_lines))
 
     # Save the LLM response to a file
-    save_to_file(test_data_folder, llm_response, TARGET_TIME)
+    #save_to_file(test_data_folder, llm_response, TARGET_TIME)
+
+    generate_llm_reports_for_matching_files("useful_matches.json")
