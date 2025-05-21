@@ -7,6 +7,9 @@ from bert_score import BERTScorer
 import html2text
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
 html_converter = html2text.HTML2Text()
 html_converter.ignore_links = True
 html_converter.ignore_images = True
@@ -106,14 +109,11 @@ def concatenate_prompt(relevant_lines : list) -> str:
                         vsebina = vsebina + line_content + "\n"
             if vsebina:
                 prompt += f"{default_title}:\n{vsebina}\n\n"
-    print("prompt", prompt)
     return prompt
 
 
 def send_prompt(instruction_prompt : str, input_query : str) -> str:
     """Sends a prompt to the LLM and returns the response."""
-    input_query = concatenate_prompt(input_query)
-
     stream = ollama.chat(
         model=LANGUAGE_MODEL,
         messages=[
@@ -160,6 +160,27 @@ def calculate_similarities(text1 : str, text2 : str):
     return bleu_score, bert_sim
 
 
+def deduplicate_block_text(text_block, threshold=0.9):
+    lines = [line.strip() for line in text_block.split("\n") if line.strip()]
+    if len(lines) <= 1:
+        return "\n".join(lines)
+
+    vectorizer = TfidfVectorizer()
+    tfidf_matrix = vectorizer.fit_transform(lines)
+    sim_matrix = cosine_similarity(tfidf_matrix)
+
+    # poišči podvojene vrstice
+    seen = set()
+    keep = []
+    for i in range(len(lines)):
+        if i in seen:
+            continue
+        keep.append(lines[i])
+        for j in range(i + 1, len(lines)):
+            if sim_matrix[i, j] > threshold:
+                seen.add(j)
+    return "\n".join(keep)
+
 def generate_llm_reports_for_matching_files(file_path : str) -> None:
     # Open the CSV file for writing similarity scores
     with open("similarity_scores.csv", "w", newline='', encoding="utf-8") as csvfile:
@@ -174,7 +195,11 @@ def generate_llm_reports_for_matching_files(file_path : str) -> None:
 
                 relevant_lines = read_relevant_lines("../podatki.csv", report_date, TIME_WINDOW)
 
-                llm_response = send_prompt(MAIN_PROMPT, relevant_lines)
+                updated_lines = concatenate_prompt(relevant_lines)
+
+                updated_lines = deduplicate_block_text(updated_lines)
+                print(updated_lines)
+                llm_response = send_prompt(MAIN_PROMPT, updated_lines)
 
                 bleu_score, bert_sim = calculate_similarities(item.get("output_text"), llm_response)
 
