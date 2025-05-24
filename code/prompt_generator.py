@@ -19,10 +19,6 @@ LANGUAGE_MODEL = "hf.co/tknez/GaMS-9B-Instruct-GGUF:F16"
 TARGET_TIME = datetime.datetime.strptime("2024-03-30 08:00", "%Y-%m-%d %H:%M")
 TIME_WINDOW = 60  # minutes
 
-MAIN_PROMPT = """S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
-Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
-
-Podatki:"""
 
 RELEVANT_FIELDS = [
 "ContentNesreceSLO",
@@ -117,7 +113,7 @@ def send_prompt(instruction_prompt : str, input_query : str) -> str:
     stream = ollama.chat(
         model=LANGUAGE_MODEL,
         messages=[
-            {'role': 'user', 'content': MAIN_PROMPT + input_query},
+            {'role': 'user', 'content': instruction_prompt + input_query},
         ],
         stream=True,
     )
@@ -132,21 +128,24 @@ def send_prompt(instruction_prompt : str, input_query : str) -> str:
 
     return response
 
-def save_to_file(target_dir : str, content : str, date : datetime.datetime) -> None:
+def save_to_file(target_dir : str, content : str, date : datetime.datetime, prompting_technique: str) -> None:
     """Saves the content to a file."""
     try:
         os.makedirs(target_dir, exist_ok=True)
 
-        file_path = os.path.join(target_dir, f"llm_report_{date.strftime('%d_%m_%Y')}_{date.strftime('%H_%M')}.rtf")
+        file_name = f"llm_report_{prompting_technique}_{date.strftime('%d_%m_%Y')}_{date.strftime('%H_%M')}.rtf"
+
+        file_path = os.path.join(target_dir, file_name)
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(content)
             print("File saved successfully:", file_path)
+        
+        return file_name
 
     except Exception as e:
         print(f"Error saving file {file_path}: {e}")
 
 
-# TODO - implementtion
 def calculate_similarities(text1 : str, text2 : str):
     """
     Calculate the similarity between two texts using different methods from similarity_calculator.py.
@@ -185,7 +184,7 @@ def generate_llm_reports_for_matching_files(file_path : str) -> None:
     # Open the CSV file for writing similarity scores
     with open("similarity_scores.csv", "w", newline='', encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(["report_date", "bleu_score", "bert_precision", "bert_recall", "bert_f1"])
+        writer.writerow(["report_file_name", "prompting_technique", "bleu_score", "bert_precision", "bert_recall", "bert_f1"])
 
         with open(file_path, 'r', encoding='utf-8') as file:
             data = json.load(file)
@@ -198,22 +197,28 @@ def generate_llm_reports_for_matching_files(file_path : str) -> None:
                 updated_lines = concatenate_prompt(relevant_lines)
 
                 updated_lines = deduplicate_block_text(updated_lines)
-                print(updated_lines)
-                llm_response = send_prompt(MAIN_PROMPT, updated_lines)
 
-                bleu_score, bert_sim = calculate_similarities(item.get("output_text"), llm_response)
+                with open("prompts.json", 'r', encoding='utf-8') as file:
+                    data = json.load(file)
 
-                print("Similarity scores:", bleu_score, bert_sim)
-                save_to_file("../llm_outputs", "\n\n".join([llm_response, item.get("output_text")]), report_date)
+                for key, prompt in data.items():
+                    print(f"Processing {key} with prompt: {prompt}")
+                    llm_response = send_prompt(prompt, updated_lines)
 
-                # Write the scores and date to the CSV
-                writer.writerow([
-                    report_date.strftime("%Y-%m-%d %H:%M"),
-                    bleu_score,
-                    bert_sim[0],  # precision
-                    bert_sim[1],  # recall
-                    bert_sim[2],  # f1
-                ])
+                    bleu_score, bert_sim = calculate_similarities(item.get("output_text"), llm_response)
+
+                    print("Similarity scores:", bleu_score, bert_sim)
+                    file_name = save_to_file("../llm_outputs", "-----------\n".join([llm_response, item.get("output_text")]), report_date, key)
+
+                    # Write the scores and date to the CSV
+                    writer.writerow([
+                        file_name,
+                        key, # prompting technique
+                        bleu_score,
+                        bert_sim[0],  # precision
+                        bert_sim[1],  # recall
+                        bert_sim[2],  # f1
+                    ])
 
 
 if __name__ == "__main__":
