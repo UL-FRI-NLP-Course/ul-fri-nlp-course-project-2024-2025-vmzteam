@@ -1,0 +1,48 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+
+Podatki:
+
+Nesreče:
+Na štajerski avtocesti je zaprt prehitevalni pas med priključkoma Krtina in Domžale proti Ljubljani. Nastaja zastoj.
+Na štajerski avtocesti je zaprt prehitevalni pas med priključkoma Krtina in Domžale proti Ljubljani. Nastal je zastoj, zamuda 25 - 30 minut.
+Na štajerski avtocesti je zaprt prehitevalni pas med priključkoma Krtina in Domžale proti Ljubljani. Nastal je zastoj, zamuda 20 minut.
+
+Zastoji:
+Promet je povečan in upočasnjen v smeri večjih mest zaradi jutranje prometne konice. Zastoji že nastajajo proti Ljubljani iz smeri Štajerske, Dolenjske in Kočevja.
+
+Ovire:
+Na mariborski vzhodni obvoznici je zaradi pnevmatike na vozišču oviran promet med priključkom Rogoza in razcepom Slivnica proti Ljubljani.
+Srne na vozišču ovirajo promet na bivši hitri cesti med priključkoma Pesnica in Maribor center proti Mariboru.
+
+Delo na cesti:
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo, 10. 1., med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.  
+  
+Na hitri cesti Koper - Izola je zaprt vozni pas skozi predor Markovec proti Izoli.
+
+V Ljubljani na Dunajski cesti zaradi rušenja železniškega nadvoza pri glavni železniški postaji promet poteka po dveh pasovih proti centru in proti obvoznici. V času prometnih konic pričakujemo zastoje. 
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Primorska avtocesta je zaprta zaradi burje med priključkoma Kastelec in Kozina proti Ljubljani. Promet je preusmerjen na regionalno cesto Kastelec - Kozina.  
+  
+Burja:
+\- Na vipavski hitri cesti med razcepom Nanos in priključkom Selo ter na regionalni cesti Razdrto - Podnanos - Manče - Vipava prepoved za počitniške prikolice, hladilnike in vozila s ponjavami, 2. stopnja.  
+\- Na regionalni cesti Vipava - Ajdovščina prepoved za počitniške prikolice, hladilnike in vozila s ponjavami do 8 ton, 1. stopnja.  
+  
+Cesta čez prelaz Vršič je zaradi snega zaprta.
+
+Odgovor:
+Na štajerski avtocesti je proti Ljubljani med Krtino in Domžalami prišlo do nesreče, kjer so zaprli prehitevalni
+pas. Nastal je zastoj, zamuda znaša 20 minut. Na vzhodni obvoznici v Mariboru je zaradi pnevmatike na vozišču
+oviran promet proti Ljubljani. Promet je povečan in upočasnjen zaradi jutranje konice. Zastoji nastajajo iz smeri
+Štajerske, Dolenjske in Kočevja. Srne so ovirale promet med Pesnico in Mariborom. Delavci bodo na gorenjski
+avtocesti v sredo delali v predoru Karavanka, kjer bo promet potekal izmenično enosmerno. Na hitri cesti Koper -
+Izola je proti Izoli zaprt vozni pas skozi predor Markovec. V Ljubljani na Dunajski cesti zaradi rušenja nadvoza
+pričakujemo zastoje. Primorska avtocesta je med Kastelecom in Kozino zaprta zaradi burje, preusmeritev na
+regionalno cesto. Burja 2. stopnje velja na hitri cesti Vipava - Selo in na regionalni cesti Razdrto - Podnanos -
+Manče - Vipava ter 1. stopnja na regionalni cesti Vipava - Ajdovščina. Cesta čez prelaz Vršič je zaradi snega
+zaprta.

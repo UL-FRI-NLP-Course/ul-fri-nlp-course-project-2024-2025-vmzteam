@@ -1,0 +1,39 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+
+Podatki:
+
+Zastoji:
+Zastoj tovornih vozil na gorenjski avtocesti pred predorom Karavanke proti Avstriji, 1 km.
+
+Na vzhodni ljubljanski obvoznici med Zadobrovo in Zaloško proti Malencam.
+
+Ovire:
+Okvare vozil:  
+\- na štajerski avtocesti na pospeševalno-zaviralnem pasu med priključkoma Sneberje in Šentjakob proti Celju;  
+\- na štajerski avtocesti med Dramljami in Pletovarjem proti Mariboru;  
+\- na glavni cesti Ravne - Dravograd, pri Ravnah na Koroškem, promet poteka izmenično enosmerno.
+Okvari vozil:  
+\- na štajerski avtocesti med Dramljami in Pletovarjem proti Mariboru;  
+\- na glavni cesti Ravne - Dravograd, pri Ravnah na Koroškem, promet poteka izmenično enosmerno.
+Okvare vozil:  
+\- na štajerski avtocesti med Dramljami in Pletovarjem proti Mariboru;  
+\- na glavni cesti Ravne - Dravograd, pri Ravnah na Koroškem, promet poteka izmenično enosmerno.
+
+Delo na cesti:
+Cesta Ruše - Puščava bo zaradi obnove mostu pri Fali zaprta do 19. januarja 2024. Obvoz je po cesti Ruše - Selnica ob Dravi - Činžat - Fala in obratno. 
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Odgovor:
+Zaradi zastoj tovornih vozil na gorenjski avtocesti pred predorom Karavanke proti Avstriji, 1 km in zaradi okvare
+vozil ter izmeničenega enosmernega prometa na glavni cesti Ravne - Dravograd pri Ravnah na Koroškem se promet
+upočasnjuje. Na štajerski avtocesti med Dramljami in Pletovarjem proti Mariboru je prav tako okvara vozila, zato
+bodite previdni. Cesta Ruše - Puščava bo zaradi obnove mostu pri Fali zaprta do 19. januarja 2024. Obvoz je po
+cesti Ruše - Selnica ob Dravi - Činžat - Fala in obratno. Na cestah velja zmerna previdnost, saj so temperature
+nizke, na nekaterih delih celo pod lediščem. Verige priporočamo za vožnjo čez Vršič.

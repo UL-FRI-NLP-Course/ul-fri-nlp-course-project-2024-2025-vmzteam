@@ -1,0 +1,35 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+
+Podatki:
+
+Nesreče:
+Na regionalni cesti Razdrto - Vipava več prevrnjenih tovornih vozil močno ovira promet. Vozniki tovornih vozil, upoštevajte omejitve zaradi močnih sunkov burje!
+
+Delo na cesti:
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo, 10. 1., med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.  
+  
+Na hitri cesti Koper - Izola je zaprt vozni pas skozi predor Markovec proti Izoli.
+
+Na hitri cesti Koper - Izola bo, predvidoma od 10. 1. do 20. 1. 2024, med Semedelo in priključkom Koper Slavček proti Ljubljani, zaprt na počivališču Koper bencinski servis.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Primorska avtocesta je zaprta zaradi burje med priključkoma Kastelec in Kozina proti Ljubljani. Promet je preusmerjen na regionalno cesto Kastelec - Kozina.  
+  
+Burja:  
+\- Na vipavski hitri cesti med razcepom Nanos in priključkom Selo ter na regionalni cesti Razdrto - Vipava prepoved za počitniške prikolice, hladilnike in vozila s ponjavami, 2. stopnja.  
+\- Na regionalni cesti Vipava - Ajdovščina je prepoved za počitniške prikolice, hladilnike in vozila s ponjavami do 8 ton, 1. stopnja.  
+  
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Odgovor:
+Zaradi močnega vetra na Primorskem so zaprte nekatere ceste in avtocesta proti Ljubljani med priključkoma Kastelec
+in Kozina, kjer je promet preusmerjen na regionalno cesto Kastelec - Kozina. Na gorenjski avtocesti bo v predoru
+Karavanke zaradi del v sredo izmenično enosmerni promet s čakanjem. Zaprt je tudi vozni pas skozi predor Markovec
+proti Izoli in bencinski servis na počivališču Koper Slavček med Semedelo in priključkom Koper. Zaradi burje so
+prepovedi za težja vozila v Vipavski dolini in na regionalni cesti Razdrto - Vipava, kjer je prišlo do več
+prevrnjenih tovornih vozil. Verige bodo potrebne tudi čez Vršič.

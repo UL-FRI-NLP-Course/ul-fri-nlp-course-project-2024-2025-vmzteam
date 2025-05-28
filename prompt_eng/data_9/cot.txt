@@ -1,0 +1,115 @@
+Analiziraj spodnje prometne podatke in nato napiši prometno poročilo za radijsko branje.
+
+Postopek:
+1. Najprej analiziraj:
+   - Kje so popolne zapore in prometne nesreče.
+   - Kje so največji zastoji.
+   - Kje so ovire na cesti (okvare, predmeti, živali, itd.).
+   - Kakšne so vremenske razmere.
+
+2. Pri analizi upoštevaj naslednja pravila prometnega poročanja:
+   - Najprej poročaj o popolnih zaporah in nesrečah.
+   - Nato poročaj o zastojih.
+   - Nato o manjših ovirah (npr. okvare vozil, predmeti, živali).
+   - Nato o vremenskih razmerah in vplivu na ceste.
+   
+   - Oblikuj povedi v strukturi:
+     [Cesta in smer] + [razlog] + [posledica in odsek].
+     Primer: "Na primorski avtocesti proti Kopru je zaradi prometne nesreče zaprt vozni pas med razcepom Gabrk in priključkom Divača."
+
+   - Za ceste in smeri uporabljaj ustaljena imena:
+     - "primorska avtocesta" (Ljubljana–Koper),
+     - "dolenjska avtocesta" (Ljubljana–Obrežje),
+     - "gorenjska avtocesta" (Ljubljana–Karavanke),
+     - "štajerska avtocesta" (Ljubljana–Maribor),
+     - "pomurska avtocesta" (Maribor–Lendava),
+     - "podravska avtocesta" (Maribor–Gruškovje).
+
+   - Uporabljaj končne destinacije:
+     - proti Avstriji (ne proti Šentilju),
+     - proti Hrvaški, Obrežju, Gruškovju,
+     - proti Madžarski.
+   
+   - Na ljubljanski obvoznici loči:
+     - vzhodna obvoznica: Malence–Zadobrova,
+     - zahodna obvoznica: Koseze–Kozarje,
+     - severna obvoznica: Koseze–Zadobrova,
+     - južna obvoznica: Kozarje–Malence.
+
+   - Posebnosti:
+     - "Mariborska vzhodna obvoznica" (ne štajerska avtocesta),
+     - "proti Italiji" na razcepu Gabrk–Fernetiči,
+     - ne uporabljaj lokalnih imen mest (npr. "proti Ptuju" zamenjaj s "proti Gruškovju").
+
+   - Pri predorih in počivališčih:
+     - Vedno navedi širši odsek (npr. "med priključkoma").
+     - Za "vkopi" uporabljaj izraz "predor" (razen galerije Moste).
+
+   - Pri obvozih:
+     - Jasno navedi obvozne poti ("po vzporedni regionalni cesti" ali konkretno).
+
+   - V jeziku:
+     - "pas za počasna vozila" (ne "počasni pas"),
+     - "izmenično enosmerni promet" (ne "polovična zapora"),
+     - "zaprta je avtocesta proti ..." (ne "zaprta polovica").
+
+   - Zaključi vsako poročilo z vljudnim pozdravom, npr.:
+     "Toliko za zdaj, vozite varno in srečno na poti!"
+
+3. Šele nato, na podlagi analize in zgornjih pravil, napiši končno radijsko prometno poročilo.
+
+Podatki:
+
+Datum: 1/10/24 15:30
+
+Nesreče:
+**Na štajerski avtocesti** sta zaprta vozni in prehitevalni pas pred priključkom Ljubljana Sneberje proti Celje. Zaprt je tudi prehitevalni pas na razcepu Zadobrova iz smeri severne obvoznice. Nastaja zastoj, sega na vzhodni obvoznici mimo Bizovika ter na severni do Tomačevega.
+**Na štajerski avtocesti sta zaprta vozni in prehitevalni pas pred priključkom Ljubljana Sneberje proti Celje**. Zaprt je tudi prehitevalni pas na razcepu Zadobrova iz smeri severne obvoznice. Nastaja zastoj, sega na vzhodni obvoznici mimo Bizovika ter na severni do Tomačevega.
+
+Zastoji:
+**Zaradi popoldanske prometne konice** je promet močno povečan na cestah iz mestnih središč ter na mestnih obvoznicah. Nastajajo zastoji.
+
+Ovire:
+Na pomurski avtocesti je pred Gančani proti Murski Soboti zaradi okvare tovornega vozila zaprt vozni pas.
+
+Na cesti Tomačevo - Trzin je v križišču Zasavske in Štajerske ceste, proti Trzinu, zaprt en pas zaradi okvare vozila.
+Na pomurski avtocesti je pred Gančani proti Murski Soboti zaradi okvare tovornega vozila zaprt vozni pas.
+
+Delo na cesti:
+Na hitri cesti Koper - Izola je, med Semedelo in priključkom Koper Slavček proti Ljubljani na počivališču Koper zaprt bencinski servis.
+
+Več o delovnih zaporah v prometni napovedi.
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del danes do 16. ure promet potekal izmenično enosmerno s čakanjem pred predorom.
+
+Na hitri cesti Koper - Izola je, med Semedelo in priključkom Koper Slavček proti Ljubljani na počivališču Koper zaprt bencinski servis.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Poročilo:
+Pozdravljeni, [vstavite ime radia ali časovnico] poslušalci! Dobro jutro, dober dan in dobrodošli v našem jutranjem
+prometnem poročilu.
+
+Najprej vas želimo obvestiti o popolnih zaporah in nesrečah na cestah. Na štajerski avtocesti sta zaprta vozni in
+prehitevalni pas pred priključkom Ljubljana Sneberje proti Celje. Zaprt je tudi prehitevalni pas na razcepu Zadobrova iz
+smeri severne obvoznice. Zaradi tega nastaja zastoj, ki seže na vzhodni obvoznici mimo Bizovika ter na severni do
+Tomačevega.
+
+Preidimo na zastoje. Zaradi popoldanske prometne konice je promet močno povečan na cestah iz mestnih središč in na
+mestnih obvoznicah, kar povzroča nastanek zastojev.
+
+Nadaljujemo z manjšimi ovirami. Na pomurski avtocesti je pred Gančani proti Murski Soboti zaradi okvare tovornega vozila
+zaprt vozni pas. Prav tako je na cesti Tomačevo - Trzin v križišču Zasavske in Štajerske ceste, proti Trzinu, zaprt en
+pas zaradi okvare vozila.
+
+Preidimo še na dela na cestah. Na hitri cesti Koper - Izola je med Semedelo in priključkom Koper Slavček proti Ljubljani
+na počivališču Koper zaprt bencinski servis. Več o delovnih zaporah si lahko preberete v prometni napovedi.
+
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del danes do 16. ure promet potekal izmenično enosmerno s čakanjem
+pred predorom.
+
+In še vremenske razmere: Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Toliko o prometnih razmerah ta trenutek. Vodite varno in srečno na poti!

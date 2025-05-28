@@ -1,0 +1,89 @@
+Analiziraj spodnje prometne podatke in nato napiši prometno poročilo za radijsko branje.
+
+Postopek:
+1. Najprej analiziraj:
+   - Kje so popolne zapore in prometne nesreče.
+   - Kje so največji zastoji.
+   - Kje so ovire na cesti (okvare, predmeti, živali, itd.).
+   - Kakšne so vremenske razmere.
+
+2. Pri analizi upoštevaj naslednja pravila prometnega poročanja:
+   - Najprej poročaj o popolnih zaporah in nesrečah.
+   - Nato poročaj o zastojih.
+   - Nato o manjših ovirah (npr. okvare vozil, predmeti, živali).
+   - Nato o vremenskih razmerah in vplivu na ceste.
+   
+   - Oblikuj povedi v strukturi:
+     [Cesta in smer] + [razlog] + [posledica in odsek].
+     Primer: "Na primorski avtocesti proti Kopru je zaradi prometne nesreče zaprt vozni pas med razcepom Gabrk in priključkom Divača."
+
+   - Za ceste in smeri uporabljaj ustaljena imena:
+     - "primorska avtocesta" (Ljubljana–Koper),
+     - "dolenjska avtocesta" (Ljubljana–Obrežje),
+     - "gorenjska avtocesta" (Ljubljana–Karavanke),
+     - "štajerska avtocesta" (Ljubljana–Maribor),
+     - "pomurska avtocesta" (Maribor–Lendava),
+     - "podravska avtocesta" (Maribor–Gruškovje).
+
+   - Uporabljaj končne destinacije:
+     - proti Avstriji (ne proti Šentilju),
+     - proti Hrvaški, Obrežju, Gruškovju,
+     - proti Madžarski.
+   
+   - Na ljubljanski obvoznici loči:
+     - vzhodna obvoznica: Malence–Zadobrova,
+     - zahodna obvoznica: Koseze–Kozarje,
+     - severna obvoznica: Koseze–Zadobrova,
+     - južna obvoznica: Kozarje–Malence.
+
+   - Posebnosti:
+     - "Mariborska vzhodna obvoznica" (ne štajerska avtocesta),
+     - "proti Italiji" na razcepu Gabrk–Fernetiči,
+     - ne uporabljaj lokalnih imen mest (npr. "proti Ptuju" zamenjaj s "proti Gruškovju").
+
+   - Pri predorih in počivališčih:
+     - Vedno navedi širši odsek (npr. "med priključkoma").
+     - Za "vkopi" uporabljaj izraz "predor" (razen galerije Moste).
+
+   - Pri obvozih:
+     - Jasno navedi obvozne poti ("po vzporedni regionalni cesti" ali konkretno).
+
+   - V jeziku:
+     - "pas za počasna vozila" (ne "počasni pas"),
+     - "izmenično enosmerni promet" (ne "polovična zapora"),
+     - "zaprta je avtocesta proti ..." (ne "zaprta polovica").
+
+   - Zaključi vsako poročilo z vljudnim pozdravom, npr.:
+     "Toliko za zdaj, vozite varno in srečno na poti!"
+
+3. Šele nato, na podlagi analize in zgornjih pravil, napiši končno radijsko prometno poročilo.
+
+Podatki:
+
+Datum: 1/26/24 08:30
+
+Zastoji:
+Na primorski hitri cesti med Bertoki in Koprom proti Izoli, skozi delovno zaporo.
+
+Ovire:
+Regionalna cesta **Preddvor - Sp. Jezersko -****Jezerski Vrh****** je zaradi podora kamenja zaprta pri Spodnjih Fužinah. Obvoz je možen preko Ljubelja.
+
+Delo na cesti:
+Zaradi sanacije nadvozov na primorski avtocesti med Vrhniko in Brezovico proti Ljubljani bosta v soboto in nedeljo, 27. in 28. 1. 2024, zaprta vozni in odstavni pas med 7. in 17. uro.
+
+V soboto, 27. 1. 2024, bo zaradi izgradnje galerije Šklendrovec zaprta cesta Litija - Zagorje od 7.30 do 17. ure.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Poročilo:
+Dobro jutro in hvala, da ste z nami! Začenjamo s pomembnim obvestilom za voznike na primorski avtocesti proti Kopru.
+Zaradi popravila nadvozov med Vrhniko in Brezovico bosta v soboto in nedeljo zaprta vozni in odstavni pas, kar lahko
+pričakujemo da povzroči zastoje. Vozniki naj se pripravijo na daljši čas potovanja in izberejo alternativne poti.
+
+Na primorski hitri cesti med Bertoki in Koprom proti Izoli je zaradi delovne zapore že nastal zastoj, kar dodatno
+opozarja voznike, da načrtujejo svoj čas odhoda skrbno. Za tiste, ki potujete iz Preddvora v Sp. Jezersko - Jezerski
+Vrh, bodite pozorni na podor kamenja pri Spodnjih Fužinah, kjer je cesta zaprta. Obvoz je možen preko Ljubelja.
+
+Zaradi izgradnje galerije Šklendrovec bo jutri od 7:30 do 17 ure zaprta tudi cesta Litija - Zagorje. Za vse te
+informacije in več o delovnih zaporah spremljajte našo spletno stran ali se obrnite na nas, če potrebujete dodatne
+informacije. Vozniku želimo srečno pot!

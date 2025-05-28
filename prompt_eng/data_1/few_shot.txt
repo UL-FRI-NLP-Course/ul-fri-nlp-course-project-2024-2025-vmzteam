@@ -1,0 +1,70 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+Spodaj sta navedena primera podatkov ter iz njih generirana besedila.
+
+Podatki:
+Datum: 1/1/22 10:02
+Nesreče:
+Zaradi gorečega vozila je zaprt vozni pas na gorenjski avtocesti med priključkomBrezjein predorom Ljubno proti Ljubljani.
+Vreme:
+Ponekod po Sloveniji megla v pasovih zmanjšuje vidljivost. Prilagodite hitrost!
+
+Besedilo:
+Prometne informacije 1.1.2022 10:02 2. program
+
+Na gorenjski avtocesti je zaradi gorečega vozila zaprt vozni pas med priključkom Brezje in predorom Ljubno v smeri proti Ljubljani. Na tem odseku pričakujte zastoje, zato vozite še posebej previdno in upoštevajte navodila reševalnih služb.
+
+Poleg tega megla v pasovih ponekod po Sloveniji zmanjšuje vidljivost, zato prilagodite hitrost in povečajte varnostno razdaljo.
+
+Podatki:
+Datum: 1/10/22 16:49
+
+Nesreče:
+Cesta Litija - Zagorje je zaprta pri Spodnjem Logu.
+
+Ovire:
+Predmet na vozišču na gorenjski avtocesti med priključkoma Naklo in Kranj zahod proti Ljubljani.
+
+Dela:
+V noči na sredo, od 20. ure zvečer do 5. ure zjutraj, bo promet skozi predor Karavanke urejen izmenično enosmerno.
+
+Vreme:
+Cesta čez prelaz Vršič je zaprta.
+
+Besedilo:
+Prometne informacije 1.10.2022 16:49 2. program
+
+Podatki o prometu.
+
+Cesta Litija–Zagorje je pri Spodnjem Logu zaradi nesreče zaprta. Voznikom svetujemo, da uporabijo obvozne poti.
+
+Na gorenjski avtocesti proti Ljubljani je med priključkoma Naklo in Kranj zahod na vozišču predmet – vozite previdno.
+
+Vremenske razmere vplivajo tudi na prevoznost cest: cesta čez prelaz Vršič je zaprta, zato pred odhodom preverite razmere na poti.
+
+Naj vas opozorimo še na napovedana nočna dela – v noči na sredo bo med 20. uro zvečer in 5. uro zjutraj promet skozi predor Karavanke potekal izmenično enosmerno.
+
+
+Novi podatki za generiranje besedila:
+
+Datum: 1/11/24 05:30
+
+Zastoji:
+Promet se zaradi jutranje prometne konice povečuje na cestah, ki vodijo v mestna središča ter na mestnih obvoznicah.
+
+Ovire:
+Na dolenjski avtocesti je med predorom Leščevje in priključkom Trebnje zahod proti Ljubljani oviran promet zaradi okvare avtobusa.
+
+Delo na cesti:
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Odgovor:
+Prometne informacije 1.11.2024, 5:30, 2. program. Zaradi jutranje prometne konice se povečuje promet na cestah, ki
+vodijo v mestna središča in na obvoznicah. Na dolenjski avtocesti je med predorom Leščevje in priključkom Trebnje
+zahod proti Ljubljani oviran promet zaradi okvare avtobusa. Več o delovnih zaporah preverite v dnevni prometni
+napovedi. Cesta čez Vršič je prevozna samo za osebna vozila z nameščenimi verigami.

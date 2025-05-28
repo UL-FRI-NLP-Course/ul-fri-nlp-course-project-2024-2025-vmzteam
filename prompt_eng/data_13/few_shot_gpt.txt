@@ -1,0 +1,91 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+Spodaj sta navedena primera podatkov ter iz njih generirana besedila.
+
+Podatki:
+Datum: 1/31/24 14:00
+
+Nesreče:
+Na štajerski avtocesti:  
+\- Zaprt prehitevalni pas za razcepom Zadobrova proti Mariboru. Nastaja zastoj.  
+\- Oviran promet za priključkom Šentjakob proti Mariboru.  
+\- Oviran promet med Domžalami in Šentjakobom proti Ljubljani.
+Na štajerski avtocesti:  
+\- Zaprt prehitevalni pas za razcepom Zadobrova proti Mariboru. Nastaja zastoj.  
+\- Oviran promet za priključkom Šentjakob proti Mariboru.  
+\- Oviran promet med Domžalami in Šentjakobom proti Ljubljani.
+
+Na cesti Kranj - Škofja Loka je pri Svetem Duhu pomet urejen izmenično enosmerno.
+Na štajerski avtocesti je zaprt prehitevalni pas za razcepom Zadobrova in oviran promet za priključkom Šentjakob proti Mariboru. Nastaja zastoj.
+
+Ovire:
+Okvara tovornega vozila, oviran promet:  
+\- Na dolenjski avtocesti med priključkoma Mirna Peč in Trebnje vzhod proti Ljubljani.
+Okvara tovornega vozila, oviran promet:  
+\- Na dolenjski avtocesti med priključkoma Mirna Peč in Trebnje vzhod proti Ljubljani. 
+
+Na vipavski hitri cesti je zaradi pnevmatike na vozišču oviran promet pred počivališčem Šempas proti Vrtojbi, Italiji.
+
+Delo na cesti:
+Danes in jutri bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 31. 1. 2024 ob 14.00, 1. in 2. program
+
+Na štajerski avtocesti je za razcepom Zadobrova proti Mariboru zaprt prehitevalni pas. Nastaja zastoj.
+
+Promet je oviran tudi za priključkom Šentjakob proti Mariboru ter med Domžalami in Šentjakobom proti Ljubljani.
+
+Na cesti Kranj–Škofja Loka je pri Svetem Duhu zaradi pometanja vozišča promet urejen izmenično enosmerno.
+
+Na dolenjski avtocesti je med priključkoma Mirna Peč in Trebnje vzhod proti Ljubljani promet oviran zaradi okvare tovornega vozila.
+
+Na vipavski hitri cesti je pred počivališčem Šempas proti Vrtojbi promet oviran zaradi pnevmatike na vozišču.
+
+Danes in jutri bodo na gorenjski avtocesti med 8. in 16. uro v predoru Karavanke potekala dela. Promet bo urejen izmenično enosmerno, s čakanjem pred predorom.
+
+Podatki:
+Datum: 1/31/24 13:00
+
+Ovire:
+Okvara tovornega vozila, oviran promet:  
+\- na primorski avtocesti med priključkom Divača in razcepom Gabrk proti Ljubljani,  
+\- na dolenjski avtocesti med priključkoma Mirna Peč in Trebnje vzhod proti Ljubljani.
+Okvara tovornega vozila, oviran promet:  
+\- Na dolenjski avtocesti med priključkoma Mirna Peč in Trebnje vzhod proti Ljubljani. 
+
+Na vipavski hitri cesti je zaradi pnevmatike na vozišču oviran promet pred počivališčem Šempas proti Vrtojbi, Italiji.
+
+Delo na cesti:
+Danes in jutri bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 31. 1. 2024 ob 13.00, 1. in 2. program
+
+Promet je oviran zaradi okvare tovornega vozila: – na primorski avtocesti med priključkom Divača in razcepom Gabrk proti Ljubljani,
+– ter na dolenjski avtocesti med priključkoma Mirna Peč in Trebnje vzhod proti Ljubljani.
+
+Na vipavski hitri cesti je pred počivališčem Šempas proti Vrtojbi promet oviran zaradi pnevmatike na vozišču.
+
+Danes in jutri bodo na gorenjski avtocesti med 8. in 16. uro v predoru Karavanke potekala dela. Promet bo urejen izmenično enosmerno, s čakanjem pred predorom.
+
+Novi podatki za generiranje besedila:
+Datum: 1/17/24 10:30
+
+Zastoji:
+Zastoji so pred Vučjo vasjo proti Mariboru zaradi preusmeritve prometa na vzporedno regionalno cesto.
+
+Delo na cesti:
+Glavna cesta Litija - Zagorje bo pri Šklendrovcu zaprta to soboto med 7:30 in 17. uro. 
+
+Cesta Ruše - Puščava bo zaradi obnove mostu pri Fali zaprta do 19. januarja 2024. Obvoz je po cesti Ruše - Selnica ob Dravi - Činžat - Fala in obratno.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Odgovor:
+Prometne informacije, danes 17. januarja 2024 ob 10:30, 1. in 2. program Zastoji so pred Vučjo vasjo proti Mariboru
+zaradi preusmeritve prometa na vzporedno regionalno cesto. Glavna cesta Litija - Zagorje bo pri Šklendrovcu zaprta to
+soboto med 7:30 in 17. uro. Cesta Ruše – Puščava je zaradi obnove mostu pri Fali zaprta do 19. januarja 2024. Obvoz je po
+cesti Ruše - Selnica ob Dravi - Činžat - Fala in obratno. Več o delovnih zaporah v prometni napovedi.

@@ -1,0 +1,140 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+Spodaj sta navedena primera podatkov ter iz njih generirana besedila.
+
+Podatki:
+Datum: 1/31/24 10:00
+
+Nesreče:
+Na podravski avtocesti je oviran promet od Dražencev proti koncu avtoceste pri Ptuju.
+
+Ovire:
+Na dolenjski avtocesti vozite previdno med Grosupljim in Šmarjem Sap, pešec na odstavnem pasu.
+
+Delo na cesti:
+Danes in jutri bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 31. 1. 2024 ob 10.00, 1. in 2. program
+
+Na podravski avtocesti je promet oviran od Dražencev proti koncu avtoceste pri Ptuju zaradi prometne nesreče.
+
+Na dolenjski avtocesti med Grosupljem in Šmarjem Sap voznike opozarjamo na pešca na odstavnem pasu. Vozite previdno.
+
+Na gorenjski avtocesti bodo danes in jutri med 8. in 16. uro v predoru Karavanke potekala dela. Promet bo urejen izmenično enosmerno, s čakanjem pred predorom.
+
+Podatki:
+Datum: 1/31/24 08:00
+
+Nesreče:
+Na ljubljanski obvoznici je zaprt razcep Kozarje iz smeri Viča proti Brdu. Nastaja zastoj.
+
+Promet je oviran tudi na izvozu Brdo proti Kosezam. 
+
+Cesta Dravograd - Maribor je zaprta pri Muti. Obvoz je po lokalnih cestah skozi Muto.
+Na ljubljanski obvoznici **na razcepu Kozarje iz smeri Viča proti Brdu** promet poteka po enem prometnem pasu. Nastaja zastoj.  
+Promet je zaradi druge nesreče **oviran na izvozu Brdo** proti Kosezam. Nastaja zastoj.
+
+Na cesti Dravograd - Maribor je pri Muti promet urejen izmenično enosmerno.
+Na ljubljanski obvoznici **je zaprt razcep Kozarje iz smeri Viča proti Brdu**. Nastaja zastoj.  
+Promet je zaradi druge nesreče **oviran na izvozu Brdo** proti Kosezam. Nastaja zastoj.
+
+Na cesti Dravograd - Maribor je pri Muti promet urejen izmenično enosmerno.
+Na ljubljanski obvoznici **je zaprt razcep Kozarje iz smeri Viča proti Brdu**. Nastaja zastoj.  
+Promet je zaradi druge nesreče **oviran na izvozu Brdo** proti Kosezam. Nastaja zastoj.
+
+Cesta Dravograd - Maribor je zaprta pri Muti. Obvoz je po lokalnih cestah skozi Muto.
+
+Zastoji:
+Na štajerski avtocesti od Domžal proti Ljubljani.
+
+Na dolenjski avtocesti od Grosuplja proti Ljubljani. 
+
+Na cestah Trzin - Ljubljana, Medno - Ljubljana, Ig - Ljubljana in Škofljica - Ljubljana.
+
+Delo na cesti:
+Danes in jutri bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 31. 1. 2024 ob 8.00, 1. in 2. program
+
+Na ljubljanski obvoznici je zaprt razcep Kozarje iz smeri Viča proti Brdu. Promet poteka po enem pasu, nastaja zastoj. Zaradi druge nesreče je oviran tudi promet na izvozu Brdo proti Kosezam.
+
+Na cesti Dravograd–Maribor je pri Muti promet urejen izmenično enosmerno.
+
+Zastoji so na štajerski avtocesti od Domžal proti Ljubljani, na dolenjski avtocesti od Grosuplja proti Ljubljani ter na cestah Trzin–Ljubljana, Medno–Ljubljana, Ig–Ljubljana in Škofljica–Ljubljana.
+
+Danes in jutri bodo na gorenjski avtocesti med 8. in 16. uro v predoru Karavanke potekala dela. Promet bo urejen izmenično enosmerno, s čakanjem pred predorom.
+
+Novi podatki za generiranje besedila:
+Datum: 1/19/24 06:30
+
+Nesreče:
+Na štajerski avtocesti zaradi zdrsov tovornih vozil:  
+\- med priključkom Dramlje in predorom Pletovarje zaprt vozni pas proti Mariboru;  
+\- zaprta sta vozni in prehitevalni pas med priključkom Slovenska Bistrica jug in počivališčem Tepanje proti Ljubljani.  
+  
+Na gorenjski avtocesti je zaprt prehitevalni pas pred priključkom Šmartno proti Ljubljani.  
+  
+Na štajerski avtocesti je oviran promet pred priključkom Žalec proti Mariboru.
+Na štajerski avtocesti zaradi zdrsov tovornih vozil:  
+\- med priključkom Dramlje in predorom Pletovarje zaprt vozni pas proti Mariboru;  
+\- zaprta sta vozni in prehitevalni pas med priključkom Slovenska Bistrica jug in počivališčem Tepanje proti Ljubljani.  
+  
+Na gorenjski avtocesti je zaprt prehitevalni pas pred priključkom Šmartno proti Ljubljani.
+Na Štajerski avtocesta zaradi zdrsov tovornih vozil:  
+\- med priključkom Dramlje in predorom Pletovarje zaprt vozni pas proti Mariboru;  
+\- zaprta sta vozni in prehitevalni pas med priključkom Slovenska Bistrica jug in počivališčem Tepanje proti Ljubljani.  
+  
+Cesta Velenje - Slovenj Gradec je zaprta pri Hudi Luknji.
+Na štajerski avtocesti zaradi zdrsov tovornih vozil:  
+\- med priključkom Dramlje in predorom Pletovarje zaprt vozni pas proti Mariboru;  
+\- zaprta sta vozni in prehitevalni pas med priključkom Slovenska Bistrica jug in počivališčem Tepanje proti Ljubljani.  
+  
+Na gorenjski avtocesti je oviran promet pred priključkom Šmartno proti Ljubljani.
+Na Štajerski avtocesta zaradi zdrsov tovornih vozil:  
+\- med priključkom Dramlje in predorom Pletovarje zaprt vozni pas proti Mariboru;  
+\- zaprta sta vozni in prehitevalni pas med priključkom Slovenska Bistrica jug in počivališčem Tepanje proti Ljubljani.  
+  
+Na gorenjski avtocesti je oviran promet pred priključkom Šmartno proti Ljubljani.
+
+Delo na cesti:
+Na primorski avtocesti med Vrhniko in Brezovico proti Ljubljani bo v soboto, 20. 1. in v nedeljo, 21. 1., med 7. in 17. uro, promet potekal po enem pasu. Možni so zastoji.
+
+Cesta Ruše - Puščava bo zaradi obnove mostu pri Fali zaprta do 19. januarja 2024. Obvoz je po cesti Ruše - Selnica ob Dravi - Činžat - Fala in obratno.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+V večjem delu Slovenije in višjeležečih predelih močno sneži. Na cestah so plužne in posipne skupine, promet poteka počasneje. Na pot se odpravite prej kot običajno ter ne brez obvezne zimske opreme. Največ težav je možnih na avtocestnih vzponih ter na Primorskem, kjer bodo dodatne težave zaradi močnih sunkov burje. Vozniki tovornih vozil lahko ponekod pričakujejo tudi izločanje.
+
+Splošno:
+Zaradi zimskih razmer velja prepoved za tovorna vozila nad 7,5 tone:  
+\- na cestah Novo mesto _ Metlika, Soteska - Črmošnjice - Črnomelj;  
+\- na cesti Velenje - Slovenj Gradec.
+Zaradi zimskih razmer velja prepoved za tovorna vozila nad 7,5 tone:  
+\- na cestah Novo mesto _ Metlika, Soteska - Črmošnjice - Črnomelj in Jugorje pri Metliki - Štrekljevec - Ručetna vas;  
+\- na cesti Velenje - Mislinja.
+Zaradi zimskih razmer velja prepoved za tovorna vozila nad 7,5 tone:  
+\- na cestah Novo mesto _ Metlika, Soteska - Črmošnjice - Črnomelj;  
+\-
+Zaradi zimskih razmer velja prepoved za tovorna vozila nad 7,5 tone:  
+\- na cestah Novo mesto _ Metlika, Soteska - Črmošnjice - Črnomelj in Jugorje pri Metliki - Štrekljevec - Ručetna vas;  
+\- na cesti Velenje - Slovenj Gradec.
+
+Odgovor:
+Prometna napoved za soboto, 20. januarja 2024
+
+Na primorski avtocesti med Vrhniko in Brezovico proti Ljubljani bo v soboto, 20. 1., in v nedeljo, 21. 1., med 7. in 17.
+uro promet potekal po enem pasu. Možni so zastoji.
+
+Cesta Ruše - Puščava bo zaradi obnove mostu pri Fali zaprta do 19. januarja 2024. Obvoz je po cesti Ruše - Selnica ob
+Dravi - Činžat - Fala in obratno. Več o delovnih zaporah v prometni napovedi.
+
+Zaradi zimskih razmer velja prepoved za tovorna vozila nad 7,5 tone:
+- na cestah Novo mesto _ Metlika, Soteska - Črmošnjice - Črnomelj in Jugorje pri Metliki - Štrekljevec - Ručetna vas;
+- na cesti Velenje - Slovenj Gradec.
+
+Previdno na vožnjo!

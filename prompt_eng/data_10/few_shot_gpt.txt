@@ -1,0 +1,118 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+Spodaj sta navedena primera podatkov ter iz njih generirana besedila.
+
+Podatki:
+Datum: 2/1/24 09:00
+
+Zastoji:
+Na južni ljubljanski obvoznici v razcepu Malence proti Šmarju-Sap, zamuda do 15 minut.
+
+Ovire:
+Na primorski avtocesti v predoru Kastelec proti Ljubljani vozilo v okvari, zaprt vozni pas.
+Na primorski avtocesti v predoru Kastelec proti Ljubljani vozilo v okvari, zaprt vozni pas.
+
+Predmet na vozišču ovira promet na pomurski avtocesti med Marjeto in Letališčem Maribor proti Mariboru.
+
+Delo na cesti:
+**Danes bodo na gorenjski avtocesti v predoru Karavanke potekala dela do 16. ure. Promet poteka izmenično enosmerno s čakanjem pred predorom.**
+
+Na primorski avtocesti med Brezovico in Vrhniko bo v soboto, 3. 2. in nedeljo 4. 2., med 7. in 17. uro promet potekal po enem prometnem pasu.
+
+Na cesti Litija - Zagorje pri Šklendrovcu bo v soboto, 3. 2. med 7.30 in 17. uro popolna zapora. 
+
+Besedilo:
+Prometne informacije 1. 2. 2024 ob 9.00, 1. in 2. program
+
+Na južni ljubljanski obvoznici v razcepu Malence proti Šmarju Sapu je zastoj, zamuda znaša do 15 minut.
+
+Na primorski avtocesti je v predoru Kastelec proti Ljubljani zaprt vozni pas zaradi okvare vozila.
+
+Na pomurski avtocesti med Marjeto in letališčem Maribor proti Mariboru promet ovira predmet na vozišču.
+
+Na gorenjski avtocesti bodo danes do 16. ure potekala dela v predoru Karavanke. Promet poteka izmenično enosmerno, s čakanjem pred predorom.
+
+V soboto in nedeljo, 3. in 4. februarja, bo med 7. in 17. uro na primorski avtocesti med Brezovico in Vrhniko proti Kopru promet potekal po enem pasu.
+
+V soboto med 7.30 in 17. uro bo popolna zapora ceste Litija–Zagorje pri Šklendrovcu.
+
+Podatki:
+Datum: 2/1/24 06:00
+
+Nesreče:
+Na primorski avtocesti med Brezovico in Kozarjami proti Ljubljani je oviran promet na odstavnem pasu.
+Na primorski avtocesti med Brezovico in Kozarjami proti Ljubljani je oviran promet na odstavnem pasu. Nastaja zastoj, zamuda 10 minut.
+
+V Ljubljani na Dolenjski cesti proti centru je močno oviran promet. Nastaja zastoj.
+Na primorski avtocesti med Brezovico in Kozarjami proti Ljubljani je oviran promet na odstavnem pasu.
+
+V Ljubljani na Dolenjski cesti proti centru je močno oviran promet. Nastaja zastoj.
+Na primorski avtocesti med Brezovico in Kozarjami proti Ljubljani je oviran promet na odstavnem pasu.
+
+V Ljubljani na Dolenjski cesti proti centru je močno oviran promet.
+
+Zastoji:
+Zaradi jutranje prometne konice nastajajo zastoji na cestah, ki vodijo v mestna središča ter na mestnih obvoznicah.
+Zaradi jutranje prometne konice nastajajo zastoji na cestah, ki vodijo v mestna središča ter na mestnih obvoznicah. Predvesm na vpadnicah v Ljubljano.
+
+Ovire:
+Okvare vozil:  
+\- Na vipavski hitri cesti med Vipavo in Nanosom proti Razdrtem je zaprt vozni pas.  
+\- Na štajerski avtocesti na izvozu Trojane iz smeri Ljubljane.
+Okvare vozil:  
+\- Na vipavski hitri cesti med Vipavo in Nanosom proti Razdrtem je zaprt vozni pas.  
+\- Na dolenjski avtocesti med Grosupljem in Višnjo Goro proti Obrežju je zaprt en prometni pas. **Nastaja zastoj.**  
+\- Na štajerski avtocesti na izvozu Trojane iz smeri Ljubljane.
+Okvare vozil:  
+\- Na vipavski hitri cesti med Vipavo in Nanosom proti Razdrtem je zaprt vozni pas.  
+\- Na štajerski avtocesti na izvozu in na uvozu Trojane iz smeri Ljubljane.
+Okvare vozil:  
+\- Na vipavski hitri cesti med Vipavo in Nanosom proti Razdrtem je zaprt vozni pas.  
+\- Na dolenjski avtocesti med Grosupljem in Višnjo Goro proti Obrežju je zaprt en prometni pas.  
+\- Na štajerski avtocesti na izvozu Trojane iz smeri Ljubljane.
+
+Delo na cesti:
+Danes bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 1. 2. 2024 ob 6.00, 1. in 2. program
+
+Na primorski avtocesti je med Brezovico in Kozarjami proti Ljubljani promet oviran na odstavnem pasu. Nastaja zastoj, zamuda znaša približno 10 minut.
+
+V Ljubljani je na Dolenjski cesti proti središču mesta promet močno oviran, nastaja zastoj.
+
+Zaradi jutranje prometne konice so zastoji na cestah, ki vodijo v mestna središča in na mestnih obvoznicah, predvsem na vpadnicah v Ljubljano.
+
+Zaradi okvare vozila je na vipavski hitri cesti med Vipavo in Nanosom proti Razdrtem zaprt vozni pas.
+
+Na dolenjski avtocesti je med Grosupljem in Višnjo Goro proti Obrežju zaprt en prometni pas, nastaja zastoj.
+
+Na štajerski avtocesti je promet oviran na izvozu Trojane iz smeri Ljubljane.
+
+Danes bodo na gorenjski avtocesti med 8. in 16. uro v predoru Karavanke potekala dela. Promet bo potekal izmenično enosmerno, s čakanjem pred predorom.
+
+Novi podatki za generiranje besedila:
+Datum: 1/12/24 05:30
+
+Zastoji:
+Promet je povečan na cestah proti večjim mestom in na mestnih vpadnicah.
+
+Ovire:
+Okvara vozila na dolenjski avtocesti za Ivančno Gorico proti Ljubljani.
+
+Delo na cesti:
+Cesta Litija - Zagorje bo pri Šklendrovcu zaprta v soboto, 13. 1., med 7.30 in 17. uro.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Odgovor:
+Prometne informacije 12. januarja 2024 ob 5.30, 1. in 2. program Promet je povečan na cestah proti večjim mestom in na
+mestnih vpadnicah zaradi jutranje prometne konice. Okvara vozila ovira promet na dolenjski avtocesti za Ivančno Gorico
+proti Ljubljani. Cesta Litija - Zagorje bo pri Šklendrovcu zaprta v soboto, 13. januarja, med 7.30 in 17. uro. Več o
+delovnih zaporah lahko slišite v prometni napovedi. Na cesti čez prelaz Vršič je potrebna previdnost zaradi zimskih
+razmer; cesta je prevozna samo za osebna vozila z nameščenimi verigami.

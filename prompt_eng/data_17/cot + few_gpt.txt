@@ -1,0 +1,169 @@
+Analiziraj spodnje prometne podatke in nato napiši prometno poročilo za radijsko branje.
+
+Postopek:
+1. Najprej analiziraj:
+   - Kje so popolne zapore in prometne nesreče.
+   - Kje so največji zastoji.
+   - Kje so ovire na cesti (okvare, predmeti, živali, itd.).
+   - Kakšne so vremenske razmere.
+
+2. Pri analizi upoštevaj naslednja pravila prometnega poročanja:
+   - Najprej poročaj o popolnih zaporah in nesrečah.
+   - Nato poročaj o zastojih.
+   - Nato o manjših ovirah (npr. okvare vozil, predmeti, živali).
+   - Nato o vremenskih razmerah in vplivu na ceste.
+   
+   - Oblikuj povedi v strukturi:
+     [Cesta in smer] + [razlog] + [posledica in odsek].
+     Primer: "Na primorski avtocesti proti Kopru je zaradi prometne nesreče zaprt vozni pas med razcepom Gabrk in priključkom Divača."
+
+   - Za ceste in smeri uporabljaj ustaljena imena:
+     - "primorska avtocesta" (Ljubljana–Koper),
+     - "dolenjska avtocesta" (Ljubljana–Obrežje),
+     - "gorenjska avtocesta" (Ljubljana–Karavanke),
+     - "štajerska avtocesta" (Ljubljana–Maribor),
+     - "pomurska avtocesta" (Maribor–Lendava),
+     - "podravska avtocesta" (Maribor–Gruškovje).
+
+   - Uporabljaj končne destinacije:
+     - proti Avstriji (ne proti Šentilju),
+     - proti Hrvaški, Obrežju, Gruškovju,
+     - proti Madžarski.
+   
+   - Na ljubljanski obvoznici loči:
+     - vzhodna obvoznica: Malence–Zadobrova,
+     - zahodna obvoznica: Koseze–Kozarje,
+     - severna obvoznica: Koseze–Zadobrova,
+     - južna obvoznica: Kozarje–Malence.
+
+   - Posebnosti:
+     - "Mariborska vzhodna obvoznica" (ne štajerska avtocesta),
+     - "proti Italiji" na razcepu Gabrk–Fernetiči,
+     - ne uporabljaj lokalnih imen mest (npr. "proti Ptuju" zamenjaj s "proti Gruškovju").
+
+   - Pri predorih in počivališčih:
+     - Vedno navedi širši odsek (npr. "med priključkoma").
+     - Za "vkopi" uporabljaj izraz "predor" (razen galerije Moste).
+
+   - Pri obvozih:
+     - Jasno navedi obvozne poti ("po vzporedni regionalni cesti" ali konkretno).
+
+   - V jeziku:
+     - "pas za počasna vozila" (ne "počasni pas"),
+     - "izmenično enosmerni promet" (ne "polovična zapora"),
+     - "zaprta je avtocesta proti ..." (ne "zaprta polovica").
+
+   - Zaključi vsako poročilo z vljudnim pozdravom, npr.:
+     "Toliko za zdaj, vozite varno in srečno na poti!"
+
+3. Šele nato, na podlagi analize in zgornjih pravil, napiši končno radijsko prometno poročilo.
+
+Primer 1:
+Podatki:
+Datum: 1/30/24 14:30
+
+Zastoji:
+Zaradi popoldanske prometne konice je promet povečan na mestnih obvoznicah in cestah, ki vodijo iz mestnih središč.
+
+Na štajerski avtocesti pred predorom Jasovnik proti Ljubljani, zaradi del.
+
+Ovire:
+Na vipavski hitri cesti je zaradi okvare tovornega vozila oviran promet med priključkoma Šempeter in Vogrsko iz smeri Vrtojbe.
+
+Na primorski avtocesti je zaradi okvare vozila oviran promet pred priključkom Razdrto proti Ljubljani.
+
+Delo na cesti:
+Danes, v sredo in četrtek bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo potekal izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 30. 1. 2024 ob 14.30, 1. in 2. program
+
+Zaradi popoldanske prometne konice je promet povečan na mestnih obvoznicah in cestah, ki vodijo iz mestnih središč.
+
+Zastoj nastaja tudi na štajerski avtocesti pred predorom Jasovnik proti Ljubljani zaradi del.
+
+Na vipavski hitri cesti je med priključkoma Šempeter in Vogrsko iz smeri Vrtojbe promet oviran zaradi okvare tovornega vozila.
+
+Na primorski avtocesti je pred priključkom Razdrto proti Ljubljani promet oviran zaradi okvare vozila.
+
+Danes, v sredo in četrtek, bodo na gorenjski avtocesti med 8. in 16. uro v predoru Karavanke potekala dela. Promet bo urejen izmenično enosmerno, s čakanjem pred predorom.
+
+Primer 2:
+Podatki:
+Datum: 1/30/24 11:00
+
+Zastoji:
+Na primorski avtocesti pred Gabrkom proti Kopru.
+
+Na obalni hitri cesti pa med Serminom in Bertoki proti Kopru, zamuda 10 minut.
+
+Ovire:
+Primorska avtocesta, okvara vozila:  
+\- pred Črnim Kalom proti Ljubljani zaprt počasni pas;  
+\- med Gabrkom in Senožečami proti Ljubljani zaprt počasni pas. 
+
+Na dolenjski avtocesti je oviran promet zaradi povožene živali pred počivališčem Čatež proti Obrežju.
+Primorska avtocesta, okvara vozila:  
+\- pred črnim Kalom proti Ljubljani zaprt počasni pas;  
+\- med Gabrkom in Senožečami proti Ljubljani zaprt počasni pas. 
+
+Na dolenjski avtocesti je oviran promet zaradi povožene živali pred počivališčem Čatež proti Obrežju.
+
+Delo na cesti:
+Danes, v sredo in četrtek bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo potekal izmenično enosmerno s čakanjem pred predorom. 
+
+Danes bo med 11. in 13. uro zaprt predor Sten iz smeri Poljan proti Škofji Loki, promet bo potekal po vzporednih lokalnih cestah. Proti Gorenji vasi bo predor odprt. 
+
+Besedilo:
+Prometne informacije 30. 1. 2024 ob 11.00, 1. in 2. program
+
+Zastoji so na primorski avtocesti pred Gabrkom proti Kopru ter na obalni hitri cesti med Serminom in Bertoki proti Kopru, kjer je zamuda okoli 10 minut.
+
+Na primorski avtocesti je zaprt počasni pas zaradi okvarjenih vozil: – pred Črnim Kalom proti Ljubljani
+– ter med Gabrkom in Senožečami proti Ljubljani.
+
+Na dolenjski avtocesti je pred počivališčem Čatež proti Obrežju promet oviran zaradi povožene živali.
+
+Na gorenjski avtocesti bodo danes, v sredo in četrtek, med 8. in 16. uro v predoru Karavanke potekala dela. Promet bo potekal izmenično enosmerno, s čakanjem pred predorom.
+
+Danes med 11. in 13. uro bo zaprt predor Sten iz smeri Poljan proti Škofji Loki. Promet bo preusmerjen na vzporedne lokalne ceste. V smeri proti Gorenji vasi bo predor odprt.
+
+Novi podatki za generiranje besedila:
+
+Datum: 1/23/24 14:30
+
+Nesreče:
+Na cesti Škofja Loka - Gorenja vas je pri Poljanah nad Škofjo Loko promet urejen izmenično enosmerno.
+
+Zastoji:
+Zaradi popoldanske prometne konice je promet povečan na cestah, ki vodijo iz mestnih središč in na mestnih obvoznicah.
+
+Ovire:
+Na cesti Trojane - Zagorje je pri Spodnjih Izlakah zaradi odstranjevanja podrtih dreves promet urejen izmenično enosmerno. 
+
+Na štajerski avtocesti je zaradi okvare tovornega vozila promet oviran pred uvozom Blagovica proti Ljubljani.
+Na cesti Trojane - Zagorje je pri Spodnjih Izlakah zaradi odstranjevanja podrtih dreves promet urejen izmenično enosmerno.
+Na cesti Trojane - Zagorje je pri Spodnjih Izlakah zaradi odstranjevanja podrtih dreves promet urejen izmenično enosmerno. 
+
+Na gorenjski avtocesti je zaradi ovire na vozišču oviran promet na izvozu Radovljica proti Ljubljani. 
+
+Na štajerski avtocesti je zaradi okvare tovornega vozila promet oviran pred uvozom Blagovica proti Ljubljani.
+
+Delo na cesti:
+Več o delovnih zaporah v prometni napovedi.
+
+Splošno:
+Na cesti Ajdovščina - Col - Črni Vrh - Godovič zaradi zimskih razmer velja prepoved za priklopnike in polpriklopnike.
+
+Poročilo:
+Prometne informacije 23.1.2024 ob 15. uri, na sporedu Radia Slovenija, program A-1 in Val 202.
+
+Zaradi popoldanske prometne konice je povečan promet na cestah, ki vodijo iz mestnih središč in na mestnih obvoznicah. Na
+cesti Škofja Loka - Gorenja vas pri Poljanah nad Škofjo Loko promet urejajo izmenično enosmerno zaradi nesreče.
+
+Na štajerski avtocesti je pred uvozom Blagovica proti Ljubljani oviran promet zaradi okvare tovornega vozila, na
+gorenjski avtocesti pa je na izvozu Radovljica proti Ljubljani vozišče poškodovano. Na cesti Trojane - Zagorje pri
+Spodnjih Izlakah se odstranjujejo podrta drevesa in promet poteka izmenično enosmerno, prav tako na cesti Ajdovščina -
+Col - Črni Vrh - Godovič zaradi zimskih razmer velja prepoved prometa za priklopnike in polpriklopnike.
+
+Več o delovnih zaporah v prometni napovedi ob 16-ih, ko bomo ponovno na sporedu Radia Slovenija – program A1 in Val 202.

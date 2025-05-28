@@ -1,0 +1,153 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+Spodaj sta navedena primera podatkov ter iz njih generirana besedila.
+
+Podatki:
+Datum: 1/31/24 15:30
+
+Zastoji:
+Zaradi popoldanske prometne konice je promet povečan na mestnih obvoznicah in cestah, ki vodijo iz mestnih središč.
+
+Na ljubljanski severni obvoznici med Šiško in Zadobrovo proti Štajerski ter med Tomačevim in Šiško proti Kosezam.
+
+Na ljubljanski vzhodni obvoznici med Malencami in Zadobrovo proti Štajerski.
+
+Na ljubljanski južni obvoznici in dolenjski avtocesti med priključkoma Ljubljana Rudnik in Šmarje Sap proti Novemu mestu.
+
+Na hitri cesti Koper - Izola pred predorom Markovec proti Izoli.
+
+Na hitri cesti Koper - Škofije pred Bertoki proti Ljubljani.
+
+Ovire:
+Na primorski avtocesti je zaradi okvare tovornega vozila oviran promet med Logatcem in Vrhniko proti Ljubljani.
+
+Delo na cesti:
+V četrtek bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 31. 1. 2024 ob 15.30, 1. in 2. program
+
+Zaradi popoldanske prometne konice je promet povečan na mestnih obvoznicah in cestah, ki vodijo iz mestnih središč.
+
+Zastoji so: – na ljubljanski severni obvoznici med Šiško in Zadobrovo proti Štajerski ter med Tomačevim in Šiško proti Kosezam,
+– na vzhodni obvoznici med Malencami in Zadobrovo proti Štajerski,
+– na južni obvoznici in dolenjski avtocesti med priključkoma Ljubljana Rudnik in Šmarje Sap proti Novemu mestu,
+– na hitri cesti Koper–Izola pred predorom Markovec proti Izoli,
+– in na hitri cesti Koper–Škofije pred Bertoki proti Ljubljani.
+
+Na primorski avtocesti je med Logatcem in Vrhniko proti Ljubljani promet oviran zaradi okvare tovornega vozila.
+
+V četrtek bodo na gorenjski avtocesti med 8. in 16. uro v predoru Karavanke potekala dela. Promet bo urejen izmenično enosmerno, s čakanjem pred predorom.
+
+Podatki:
+Datum: 1/31/24 14:30
+
+Nesreče:
+Na štajerski avtocesti:  
+\- Zaprt prehitevalni pas za razcepom Zadobrova proti Mariboru. Nastal je zastoj, sega na ljubljansko vzhodno obvoznico do Bizovika in na ljubljansko severno obvoznico do Tomačevega.  
+\- Oviran promet za priključkom Šentjakob proti Mariboru.
+
+Na cesti Kranj - Škofja Loka je pri Svetem Duhu pomet urejen izmenično enosmerno.
+Na štajerski avtocesti:  
+\- Zaprt prehitevalni pas za razcepom Zadobrova proti Mariboru. Nastal je zastoj, sega na ljubljansko vzhodno obvoznico do predora Golovec in na ljubljansko severno obvoznico do rondoja Tomačevo.  
+\- Oviran promet za priključkom Šentjakob proti Mariboru.
+
+Na podravski avtocesti je oviran promet med priključkoma Lancova vas in Podlehnik proti Gruškovju.
+
+Na cesti Kranj - Škofja Loka je pri Svetem Duhu pomet urejen izmenično enosmerno.
+Na štajerski avtocesti:  
+\- Zaprt prehitevalni pas za razcepom Zadobrova proti Mariboru. Nastal je zastoj, sega na ljubljansko vzhodno obvoznico do predora Golovec in na ljubljansko severno obvoznico do rondoja Tomačevo.  
+\- Oviran promet za priključkom Šentjakob proti Mariboru.
+
+Na cesti Kranj - Škofja Loka je pri Svetem Duhu pomet urejen izmenično enosmerno.
+Na štajerski avtocesti:  
+\- Zaprt prehitevalni pas za razcepom Zadobrova proti Mariboru. Nastaja zastoj.  
+\- Oviran promet za priključkom Šentjakob proti Mariboru.  
+
+
+Na cesti Kranj - Škofja Loka je pri Svetem Duhu pomet urejen izmenično enosmerno.
+
+Zastoji:
+Zaradi popoldanske prometne konice je promet povečan na mestnih obvoznicah in cestah, ki vodijo iz mestnih središč.
+
+Ovire:
+Na primorski avtocesti je zaradi okvare tovornega vozila zaprt počasni pas med počivališčem Lom in priključkom Unec proti Kopru.
+
+Na pomurski avtocesti je zaradi predmeta na vozišču oviran promet med priključkoma Turnišče in Gančani proti Murski Soboti.
+Na primorski avtocesti je zaradi okvare tovornega vozila zaprt počasni pas med počivališčem Lom in priključkom Unec proti Kopru.
+
+Na dolenjski avtocesti je zaradi okvare tovornega vozila oviran promet med priključkoma Mirna Peč in Trebnje vzhod proti Ljubljani.
+Na primorski avtocesti je zaradi okvare tovornega vozila zaprt počasni pas med počivališčem Lom in priključkom Unec proti Kopru.
+Okvara tovornega vozila, oviran promet:  
+\- Na dolenjski avtocesti med priključkoma Mirna Peč in Trebnje vzhod proti Ljubljani.
+Na dolenjski avtocesti je zaradi okvare tovornega vozila oviran promet med priključkoma Mirna Peč in Trebnje vzhod proti Ljubljani.
+
+Delo na cesti:
+Danes in jutri bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 31. 1. 2024 ob 14.30, 1. in 2. program
+
+Na štajerski avtocesti je za razcepom Zadobrova proti Mariboru zaprt prehitevalni pas. Nastal je zastoj, ki sega na ljubljansko vzhodno obvoznico do predora Golovec in na severno obvoznico do Tomačevega.
+
+Promet je oviran tudi za priključkom Šentjakob proti Mariboru.
+
+Na podravski avtocesti je med priključkoma Lancova vas in Podlehnik proti Gruškovju promet oviran.
+
+Na cesti Kranj–Škofja Loka je pri Svetem Duhu zaradi pometanja vozišča promet urejen izmenično enosmerno.
+
+Zaradi popoldanske prometne konice je promet povečan na mestnih obvoznicah in cestah, ki vodijo iz mestnih središč.
+
+Na primorski avtocesti je med počivališčem Lom in priključkom Unec proti Kopru zaprt počasni pas zaradi okvare tovornega vozila.
+
+Na dolenjski avtocesti je med priključkoma Mirna Peč in Trebnje vzhod proti Ljubljani promet oviran zaradi okvare tovornega vozila.
+
+Na pomurski avtocesti je med priključkoma Turnišče in Gančani proti Murski Soboti promet oviran zaradi predmeta na vozišču.
+
+Danes in jutri bodo na gorenjski avtocesti med 8. in 16. uro v predoru Karavanke potekala dela. Promet bo urejen izmenično enosmerno, s čakanjem pred predorom.
+
+Novi podatki za generiranje besedila:
+Datum: 1/15/24 12:00
+
+Zastoji:
+Zastoj tovornih vozil na gorenjski avtocesti pred predorom Karavanke proti Avstriji, 1 km.
+
+Na vzhodni ljubljanski obvoznici med Zadobrovo in Zaloško proti Malencam.
+
+Ovire:
+Okvare vozil:  
+\- na štajerski avtocesti na pospeševalno-zaviralnem pasu med priključkoma Sneberje in Šentjakob proti Celju;  
+\- na štajerski avtocesti med Dramljami in Pletovarjem proti Mariboru;  
+\- na glavni cesti Ravne - Dravograd, pri Ravnah na Koroškem, promet poteka izmenično enosmerno.
+Okvari vozil:  
+\- na štajerski avtocesti med Dramljami in Pletovarjem proti Mariboru;  
+\- na glavni cesti Ravne - Dravograd, pri Ravnah na Koroškem, promet poteka izmenično enosmerno.
+Okvare vozil:  
+\- na štajerski avtocesti med Dramljami in Pletovarjem proti Mariboru;  
+\- na glavni cesti Ravne - Dravograd, pri Ravnah na Koroškem, promet poteka izmenično enosmerno.
+
+Delo na cesti:
+Cesta Ruše - Puščava bo zaradi obnove mostu pri Fali zaprta do 19. januarja 2024. Obvoz je po cesti Ruše - Selnica ob Dravi - Činžat - Fala in obratno. 
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Odgovor:
+Prometne informacije 15. 1. 2024 ob 12. uri, 1. in 2. program
+
+Zastoji tovornih vozil na gorenjski avtocesti pred predorom Karavanke proti Avstriji, 1 km. Na vzhodni ljubljanski
+obvoznici med Zadobrovo in Zaloško proti Malencam.
+Zaradi okvare vozil:
+- na štajerski avtocesti na pospeševalno-zaviralnem pasu med priključkoma Sneberje in Šentjakob proti Celju, promet
+poteka izmenično enosmerno;
+- na glavni cesti Ravne - Dravograd, pri Ravnah na Koroškem, promet poteka izmenično enosmerno.
+
+Delo na cestah:
+Cesta Ruše - Puščava bo zaradi obnove mostu pri Fali zaprta do 19. januarja 2024. Obvoz je po cesti Ruše - Selnica ob
+Dravi - Činžat - Fala in obratno.
+
+Vreme: Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.

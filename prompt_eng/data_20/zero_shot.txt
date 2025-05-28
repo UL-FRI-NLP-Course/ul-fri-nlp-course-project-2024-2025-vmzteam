@@ -1,0 +1,48 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+
+Podatki:
+
+Zastoji:
+Na štajerski avtocesti od Lukovice proti Ljubljani.
+
+Na dolenjski avtocesti od Grosuplja proti Ljubljani. 
+
+Na ljubljanski obvoznici:  
+\- Barje - Kozarje;  
+\- Kozarje - Koseze. 
+
+Na cestah Šentjur - Štore, Medno - Ljubljana, Ig - Ljubljana in Pijava Gorica - Škofljica.
+Na štajerski avtocesti od Lukovice proti Ljubljani.
+
+Na dolenjski avtocesti od Grosuplja proti Ljubljani. 
+
+Na ljubljanski obvoznici:  
+\- Barje - Kozarje;  
+\- Kozarje - Koseze. 
+
+Na gorenjski avtocesti od Šmartnega proti Ljubljani. 
+
+Na cesti Pijava Gorica - Škofljica.
+
+Ovire:
+Na ljubljanski južni obvoznici je zaradi okvare vozila oviran promet na zaviralnem pasu pred izvozom Ljubljana Vič proti Primorski.
+
+Delo na cesti:
+Danes so med 8. in 12. uro predvidene kratkotrajne popolne zapore primorske avtoceste med Gabrkom in Divačo v obe smeri zaradi del na električnem daljnovodu.
+
+Danes, v sredo in četrtek bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo potekal izmenično enosmerno s čakanjem pred predorom. 
+
+Več o delovnih zaporah v prometni napovedi.
+
+Odgovor:
+Zaradi del na električnem daljnovodu bodo med Gabrkom in Divačo danes, v torek, kratkotrajne popolne zapore
+primorske avtoceste v obe smeri med 8. in 12. uro. V predoru Karavanke bo promet izmenično enosmerno s čakanjem
+potekal vse do četrtka med 8. in 16. uro zaradi del na gorenjski avtocesti. Promet je zgoščen na štajerski
+avtocesti od Lukovice proti Ljubljani, dolenjski od Grosuplja proti Ljubljani ter ljubljanski obvoznici Barje -
+Kozarje in Kozarje - Koseze. Oviran promet je tudi na cestah Šentjur - Štore, Medno - Ljubljana, Ig - Ljubljana,
+Pijava Gorica - Škofljica in gorenjski avtocesti od Šmartnega proti Ljubljani ter cesti Pijava Gorica - Škofljica.
+Na ljubljanski južni obvoznici je zaradi okvare vozila oviran promet na zaviralnem pasu pred izvozom Ljubljana Vič
+proti Primorski.

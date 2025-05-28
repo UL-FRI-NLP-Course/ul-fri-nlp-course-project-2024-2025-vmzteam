@@ -1,0 +1,111 @@
+Analiziraj spodnje prometne podatke in nato napiši prometno poročilo za radijsko branje.
+
+Postopek:
+1. Najprej analiziraj:
+   - Kje so popolne zapore in prometne nesreče.
+   - Kje so največji zastoji.
+   - Kje so ovire na cesti (okvare, predmeti, živali, itd.).
+   - Kakšne so vremenske razmere.
+
+2. Pri analizi upoštevaj naslednja pravila prometnega poročanja:
+   - Najprej poročaj o popolnih zaporah in nesrečah.
+   - Nato poročaj o zastojih.
+   - Nato o manjših ovirah (npr. okvare vozil, predmeti, živali).
+   - Nato o vremenskih razmerah in vplivu na ceste.
+   
+   - Oblikuj povedi v strukturi:
+     [Cesta in smer] + [razlog] + [posledica in odsek].
+     Primer: "Na primorski avtocesti proti Kopru je zaradi prometne nesreče zaprt vozni pas med razcepom Gabrk in priključkom Divača."
+
+   - Za ceste in smeri uporabljaj ustaljena imena:
+     - "primorska avtocesta" (Ljubljana–Koper),
+     - "dolenjska avtocesta" (Ljubljana–Obrežje),
+     - "gorenjska avtocesta" (Ljubljana–Karavanke),
+     - "štajerska avtocesta" (Ljubljana–Maribor),
+     - "pomurska avtocesta" (Maribor–Lendava),
+     - "podravska avtocesta" (Maribor–Gruškovje).
+
+   - Uporabljaj končne destinacije:
+     - proti Avstriji (ne proti Šentilju),
+     - proti Hrvaški, Obrežju, Gruškovju,
+     - proti Madžarski.
+   
+   - Na ljubljanski obvoznici loči:
+     - vzhodna obvoznica: Malence–Zadobrova,
+     - zahodna obvoznica: Koseze–Kozarje,
+     - severna obvoznica: Koseze–Zadobrova,
+     - južna obvoznica: Kozarje–Malence.
+
+   - Posebnosti:
+     - "Mariborska vzhodna obvoznica" (ne štajerska avtocesta),
+     - "proti Italiji" na razcepu Gabrk–Fernetiči,
+     - ne uporabljaj lokalnih imen mest (npr. "proti Ptuju" zamenjaj s "proti Gruškovju").
+
+   - Pri predorih in počivališčih:
+     - Vedno navedi širši odsek (npr. "med priključkoma").
+     - Za "vkopi" uporabljaj izraz "predor" (razen galerije Moste).
+
+   - Pri obvozih:
+     - Jasno navedi obvozne poti ("po vzporedni regionalni cesti" ali konkretno).
+
+   - V jeziku:
+     - "pas za počasna vozila" (ne "počasni pas"),
+     - "izmenično enosmerni promet" (ne "polovična zapora"),
+     - "zaprta je avtocesta proti ..." (ne "zaprta polovica").
+
+   - Zaključi vsako poročilo z vljudnim pozdravom, npr.:
+     "Toliko za zdaj, vozite varno in srečno na poti!"
+
+3. Šele nato, na podlagi analize in zgornjih pravil, napiši končno radijsko prometno poročilo.
+
+Podatki:
+
+Datum: 1/9/24 21:00
+
+Nesreče:
+Na regionalni cesti Razdrto - Vipava več prevrnjenih tovornih vozil močno ovira promet. Vozniki tovornih vozil, upoštevajte omejitve zaradi močnih sunkov burje!
+
+Delo na cesti:
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo, 10. 1., med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.  
+  
+Na hitri cesti Koper - Izola je zaprt vozni pas skozi predor Markovec proti Izoli.
+
+Na hitri cesti Koper - Izola bo, predvidoma od 10. 1. do 20. 1. 2024, med Semedelo in priključkom Koper Slavček proti Ljubljani, zaprt na počivališču Koper bencinski servis.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+**Primorska avtocesta** je**** zaprta zaradi **burje** med priključkoma Kastelec in Kozina proti Ljubljani. Promet je preusmerjen na regionalno cesto Kastelec - Kozina.  
+  
+**Burja****:**  
+**\- Na vipavski hitri cesti med razcepom Nanos** in**priključkom Selo****** ter na **regionalni cesti Razdrto - Vipava** prepoved za počitniške prikolice, hladilnike in vozila s ponjavami, 2. stopnja.  
+\- Na **regionalni cesti Vipava - Ajdovščina** je prepoved za počitniške prikolice, hladilnike in vozila s ponjavami do 8 ton, 1. stopnja.  
+  
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Poročilo:
+Spoštovane poslušalke, spoštovani poslušalci, tukaj so najnovejše prometne informacije na naših cestah.
+
+1. **Najprej poročamo o popolnih zaporah in nesrečah:** Na regionalni cesti Razdrto - Vipava več prevrnjenih tovornih
+vozil močno ovira promet. Vozniki tovornih vozil, upoštevajte omejitve zaradi močnih sunkov burje!
+
+2. **Zastoji:**
+   - Zaradi del v predoru Karavanke bo na gorenjski avtocesti sreda, 10. 1., med 8. in 16. uro promet potekal izmenično
+enosmerno s čakanjem pred predorom.
+
+3. **Manjše ovire:**
+   - Na hitri cesti Koper - Izola je zaprt vozni pas skozi predor Markovec proti Izoli.
+   - Na hitri cesti Koper - Izola bo, predvidoma od 10. 1. do 20. 1. 2024, med Semedelo in priključkom Koper Slavček
+proti Ljubljani zaprt na počivališču Koper bencinski servis.
+
+4. **Vremenske razmere:**
+   - **Primorska avtocesta** je**** zaprta zaradi burje**** med priključkoma Kastelec in Kozina proti Ljubljani, promet
+pa preusmerjen na regionalno cesto Kastelec - Kozina. Burja povzroča tudi druge omejitve:
+     - Na vipavski hitri cesti med razcepom Nanos in priključkom Selo ter na regionalni cesti Razdrto - Vipava je
+prepoved za počitniške prikolice, hladilnike in vozila s ponjavami, 2. stopnja.
+     - Na regionalni cesti Vipava - Ajdovščina je prepoved za počitniške prikolice, hladilnike in vozila s ponjavami do
+8 ton, 1. stopnja.
+
+5. **Dodatne informacije:** Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Toliko za zdaj, prosim upoštevajte te informacije in vodite se varno na cesti. Hvala za pozornost.

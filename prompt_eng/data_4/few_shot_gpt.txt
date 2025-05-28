@@ -1,0 +1,179 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+Spodaj sta navedena primera podatkov ter iz njih generirana besedila.
+
+Podatki:
+
+Datum: 1/13/24 11:30
+
+Nesreče:
+Na štajerski avtocesti je zaprt vozni pas v predoru Trojane proti Ljubljani. Nastaja zastoj.
+
+Zastoji:
+Na štajerski avtocesti pred predorom Trojane proti Ljubljani.
+
+Ovire:
+Na dolenjski avtocesti je pred izvozom Šmarje Sap zaradi okvare vozila oviran promet proti Novemu mestu.
+
+Delo na cesti:
+Cesta Litija - Zagorje bo pri Šklendrovcu zaprta do 17. ure.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Besedilo:
+Prometne informacije 13. 1. 2024 ob 11.30, 1. in 2. program
+
+Na štajerski avtocesti je v predoru Trojane proti Ljubljani zaprt vozni pas. Nastaja zastoj, ki sega že pred predor.
+
+Na dolenjski avtocesti je pred izvozom Šmarje Sap proti Novemu mestu promet oviran zaradi okvare vozila.
+
+Cesta Litija–Zagorje je pri Šklendrovcu zaprta do 17. ure.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi snežnimi verigami.
+
+Podatki:
+Datum: 1/22/24 09:00
+
+Nesreče:
+Regionalna cesta Radovljica - Lesce je zaprta pri Radovljici. Obvoz za osebna vozila je možen po lokalniih cestah skozi Radovljico. 
+
+Cesta Jesenice - Kranjska Gora je pri Dovjah zaprta. Obvoz je za osebna vozila skozi Mojstrano. Za tovorna vozila obvoza ni.
+Na štajerski avtocesti je med Polskavo in Slovensko Bistrico proti Ljubljani zaprt vozni pas. Za osebna vozila je obvoz še vedno možen po regionalni cesti Fram - Slovenska Bistrica.
+
+Regionalna cesta Radovljica - Lesce je zaprta pri Radovljici. Obvoz za osebna vozila je možen skozi Radovljico. 
+
+Cesta Jesenice - Kranjska Gora je pri Dovjah zaprta. Obvoz je za osebna vozila skozi Mojstrano. Za tovorna vozila obvoza ni.
+Na štajerski avtocesti je med Polskavo in Slovensko Bistrico proti Ljubljani zaprt vozni pas. Za osebna vozila je obvoz še vedno možen po regionalni cesti Fram - Slovenska Bistrica.
+
+Regionalna cesta Radovljica - Lesce je zaprta pri Radovljici. Obvoz za osebna vozila je možen po lokalniih cestah skozi Radovljico. 
+
+Cesta Jesenice - Kranjska Gora je pri Dovjah zaprta. Obvoz je za osebna vozila skozi Mojstrano. Za tovorna vozila obvoza ni.
+
+Zastoji:
+Na cesti od Mednega proti Ljubljani.
+Na dolenjski avtocesti Grosuplje proti Ljubljana. 
+
+Na cestah od Mednega proti Ljubljani in na cesti Mengeš- Trzin - Ljubljana.
+Na dolenjski avtocesti Grosuplje proti Ljubljana. 
+
+Na cesti od Mednega proti Ljubljani.
+
+Ovire:
+Na dolenjski avtocesti je:  
+\- pri priključku Šmarje Sap proti Novemu mestu visi pločevina z nadvoza.   
+\- od Višnje Gore proti Grosuplju zaprt počasni pas, okvara tovornega vozila;  
+\- pred izvozom Dobruška vas proti Ljubljani oviran promet, okvara vozila. 
+
+Na štajerski avtocesti je oviran promet med Polskavo in Slovensko Bistrico proti Ljubljani, okvara tovornega vozila.
+Na dolenjski avtocesti je:  
+\- pri priključku Šmarje Sap proti Novemu mestu visi pločevina z nadvoza.   
+\- od Višnje Gore proti Grosuplju zaprt počasni pas, okvara tovornega vozila;  
+\- pred izvozom Dobruška vas proti Ljubljani oviran promet, okvara vozila.
+Na dolenjski avtocesti je:  
+\- pri priključku Šmarje Sap proti Novemu mestu visi pločevina z nadvoza.   
+\- od Višnje Gore proti Grosuplju zaprt počasni pas, okvara tovornega vozila;  
+\- pred izvozom Dobruška vas proti Ljubljani oviran promet, okvara vozila. 
+
+Na štajerski avtocesti je oviran promet med Polskavo in Slovensko Bistrico proti Ljubljani, okvara tovornega vozila. 
+
+Na primorski avtocesti je zaprt počasni pas med Vrhniko in Logatcem proti Kopru, okvara vozila.
+
+Delo na cesti:
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Ponekod po Sloveniji gosta megla zmanjšuje vidljivost. Zaradi nizkih temperatur pa so ceste ponekod lahko tudi poledenele. 
+
+Cesta čez prelaz Vršič je zaprta za ves promet.
+
+Voznike opozarjamo, da je na prelazih v primeru snega na vozišču obvezna uporaba verig.
+
+Splošno:
+Na cesti Ajdovščina - Col - Črni Vrh - Godovič zaradi zimskih razmer velja prepoved za priklopnike in polpriklopnike.
+
+Besedilo:
+Prometne informacije 22. 1. 2024 ob 9.00, 1. in 2. program
+
+Zaprta je regionalna cesta Radovljica–Lesce pri Radovljici. Obvoz za osebna vozila je mogoč po lokalnih cestah skozi Radovljico.
+
+Zaprta je tudi cesta Jesenice–Kranjska Gora pri Dovjah. Obvoz je za osebna vozila urejen skozi Mojstrano, za tovorna vozila obvoza ni.
+
+Na štajerski avtocesti je med Polskavo in Slovensko Bistrico proti Ljubljani zaprt vozni pas. Osebna vozila se lahko preusmerijo na regionalno cesto Fram–Slovenska Bistrica.
+
+Zastoji so na cesti od Mednega proti Ljubljani, na dolenjski avtocesti od Grosuplja proti Ljubljani ter na cesti Mengeš–Trzin–Ljubljana.
+
+Na dolenjski avtocesti je: – pri priključku Šmarje Sap proti Novemu mestu na nadvozu viseč predmet, – med Višnjo Goro in Grosupljem zaprt počasni pas zaradi okvare tovornega vozila, – pred izvozom Dobruška vas proti Ljubljani promet oviran zaradi okvare vozila.
+
+Na štajerski avtocesti je med Polskavo in Slovensko Bistrico proti Ljubljani promet oviran zaradi okvare tovornega vozila.
+
+Na primorski avtocesti je zaprt počasni pas med Vrhniko in Logatcem proti Kopru zaradi okvare vozila.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Ponekod po Sloveniji gosta megla zmanjšuje vidljivost, zaradi nizkih temperatur so ceste lahko poledenele.
+
+Cesta čez prelaz Vršič je zaprta za ves promet. Na gorskih prelazih je ob snegu obvezna uporaba verig.
+
+Zaradi zimskih razmer velja prepoved za priklopnike in polpriklopnike na cesti Ajdovščina–Col–Črni Vrh–Godovič.
+
+Novi podatki za generiranje besedila:
+Datum: 1/7/24 08:00
+
+Nesreče:
+Na štajerski avtocesti je med Šentrupertom in Vranskim proti Ljubljani je zaprt prehitevalni pas.
+
+Ovire:
+Več okvarjenih vozil na dolenjski avtocesti med Novim mestom in Mirno Pečjo proti Ljubljani ovira promet.
+
+Delo na cesti:
+V Ljubljani bo do ponedeljka, 8. 1. 2024, do 5. ure zjutraj popolna zapora **Dunajske ceste** zaradi rušenja železniškega nadvoza pri glavni železniški postaji. Obvoz je urejen po Samovi, Drenikovi, Celovški in Tivolski cesti.
+
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo,10. 1. med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+**Burja,** prepoved za počitniške prikolice, hladilnike in vozila s ponjavami do 8 ton, 1. stopnja je na:  
+\- H4, vipavski hitri cesti med Selom in Nanosom;  
+\- na regionalni cesti Vipava - Ajdovščina.
+
+Cesta čez prelaz Vršič je zaradi snega zaprta.
+
+Na višje ležečih cestah se sneg oprijema cestišč. Na prelazih so priporočljive verige.
+
+Mednarodne informacije:
+Danes do 22. ure velja omejitev prometa tovornih vozil, katerih največja dovoljena masa presega 7,5 ton.
+
+Odgovor:
+Prometne informacije za danes 1/9/24 ob 06:00 na prvem in drugem programu.
+
+**Zaprte so naslednje ceste:**
+- Regionalna cesta Radovljica–Lesce pri Radovljici. Obvoz za osebna vozila je mogoč po lokalnih cestah skozi Radovljico.
+- Cesta Jesenice–Kranjska Gora pri Dovjah. Obvoz je za osebna vozila urejen skozi Mojstrano, za tovorna vozila obvoza ni.
+
+**Ovire na cestah:**
+- Na štajerski avtocesti med Šentrupertom in Vranskim proti Ljubljani je zaprt prehitevalni pas zaradi okvare več vozil.
+- Več okvarjenih vozil na dolenjski avtocesti med Novim mestom in Mirno Pečjo proti Ljubljani ovira promet.
+
+**Delovne zapore:**
+- V Ljubljani bo do ponedeljka, 8. januarja 2024, do 5. ure zjutraj popolna zapora Dunajske ceste zaradi rušenja
+železniškega nadvoza pri glavni železniški postaji. Obvoz je urejen po Samovi, Drenikovi, Celovški in Tivolski cesti.
+- Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo, 10. januarja med 8. in 16. uro promet potekal
+izmenično enosmerno s čakanjem pred predorom.
+
+**Vreme:**
+- Burja, prepoved za počitniške prikolice, hladilnike in vozila s ponjavami do 8 ton, 1. stopnja je na:
+  - H4, vipavski hitri cesti med Selom in Nanosom;
+  - Na regionalni cesti Vipava - Ajdovščina.
+- Cesta čez prelaz Vršič je zaradi snega zaprta. Na višje ležečih cestah se sneg oprijema cestišč. Na prelazih so
+priporočljive verige.
+
+**Mednarodne informacije:**
+- Danes do 22. ure velja omejitev prometa tovornih vozil, katerih največja dovoljena masa presega 7,5 ton.

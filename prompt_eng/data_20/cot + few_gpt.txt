@@ -1,0 +1,188 @@
+Analiziraj spodnje prometne podatke in nato napiši prometno poročilo za radijsko branje.
+
+Postopek:
+1. Najprej analiziraj:
+   - Kje so popolne zapore in prometne nesreče.
+   - Kje so največji zastoji.
+   - Kje so ovire na cesti (okvare, predmeti, živali, itd.).
+   - Kakšne so vremenske razmere.
+
+2. Pri analizi upoštevaj naslednja pravila prometnega poročanja:
+   - Najprej poročaj o popolnih zaporah in nesrečah.
+   - Nato poročaj o zastojih.
+   - Nato o manjših ovirah (npr. okvare vozil, predmeti, živali).
+   - Nato o vremenskih razmerah in vplivu na ceste.
+   
+   - Oblikuj povedi v strukturi:
+     [Cesta in smer] + [razlog] + [posledica in odsek].
+     Primer: "Na primorski avtocesti proti Kopru je zaradi prometne nesreče zaprt vozni pas med razcepom Gabrk in priključkom Divača."
+
+   - Za ceste in smeri uporabljaj ustaljena imena:
+     - "primorska avtocesta" (Ljubljana–Koper),
+     - "dolenjska avtocesta" (Ljubljana–Obrežje),
+     - "gorenjska avtocesta" (Ljubljana–Karavanke),
+     - "štajerska avtocesta" (Ljubljana–Maribor),
+     - "pomurska avtocesta" (Maribor–Lendava),
+     - "podravska avtocesta" (Maribor–Gruškovje).
+
+   - Uporabljaj končne destinacije:
+     - proti Avstriji (ne proti Šentilju),
+     - proti Hrvaški, Obrežju, Gruškovju,
+     - proti Madžarski.
+   
+   - Na ljubljanski obvoznici loči:
+     - vzhodna obvoznica: Malence–Zadobrova,
+     - zahodna obvoznica: Koseze–Kozarje,
+     - severna obvoznica: Koseze–Zadobrova,
+     - južna obvoznica: Kozarje–Malence.
+
+   - Posebnosti:
+     - "Mariborska vzhodna obvoznica" (ne štajerska avtocesta),
+     - "proti Italiji" na razcepu Gabrk–Fernetiči,
+     - ne uporabljaj lokalnih imen mest (npr. "proti Ptuju" zamenjaj s "proti Gruškovju").
+
+   - Pri predorih in počivališčih:
+     - Vedno navedi širši odsek (npr. "med priključkoma").
+     - Za "vkopi" uporabljaj izraz "predor" (razen galerije Moste).
+
+   - Pri obvozih:
+     - Jasno navedi obvozne poti ("po vzporedni regionalni cesti" ali konkretno).
+
+   - V jeziku:
+     - "pas za počasna vozila" (ne "počasni pas"),
+     - "izmenično enosmerni promet" (ne "polovična zapora"),
+     - "zaprta je avtocesta proti ..." (ne "zaprta polovica").
+
+   - Zaključi vsako poročilo z vljudnim pozdravom, npr.:
+     "Toliko za zdaj, vozite varno in srečno na poti!"
+
+3. Šele nato, na podlagi analize in zgornjih pravil, napiši končno radijsko prometno poročilo.
+
+Primer 1:
+Podatki:
+Datum: 1/29/24 16:30
+
+Nesreče:
+Na štajerski avtocesti med Dramljami in Celjem vzhod, pred počivališčem Zima proti Ljubljani je zaprt vozni pas. Nastal je zastoj do Konjic. Občasno zapirajo predore. Zamuda 20 - 30 minut.
+
+Zastoji:
+Zastoj tovornih vozil na gorenjski avtocesti pred predorom Karavanke proti Avstriji, 2 km. Vozila stojijo tudi na voznem pasu.
+Promet je zaradi popoldanske prometne konice povečan na cestah, ki vodijo iz mestnih središč, na mestnih obvoznicah in pred delovnimi zaporami. Gneče, zastoji nastajajo predvsem po ljubljanski obvoznici na posameznih odsekih.
+
+Zastoj tovornih vozil na gorenjski avtocesti pred predorom Karavanke proti Avstriji, 2 km. Vozila stojijo tudi na voznem pasu.
+
+Delo na cesti:
+**V torek, 30. 1., so med 8. in 12. uro predvidene kratkotrajne popolne zapore primorske avtoceste med Gabrkom in Divačo v obe smeri zaradi del na električnem daljnovodu.**
+
+V torek, sredo in četrtek bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo potekal izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 29. 1. 2024 ob 16.30, 1. in 2. program
+
+Na štajerski avtocesti je med Dramljami in Celjem vzhod, pred počivališčem Zima proti Ljubljani, zaprt vozni pas zaradi prometne nesreče. Nastal je zastoj, ki sega do Slovenskih Konjic. Občasno zapirajo tudi predore. Zamuda znaša od 20 do 30 minut.
+
+Na gorenjski avtocesti je pred predorom Karavanke proti Avstriji zastoj tovornih vozil, dolg približno 2 kilometra. Vozila stojijo tudi na voznem pasu.
+
+Zaradi popoldanske prometne konice je promet močno povečan na cestah iz mestnih središč, na mestnih obvoznicah in pred delovnimi zaporami, predvsem po ljubljanski obvoznici.
+
+V torek, 30. januarja, so med 8. in 12. uro predvidene kratkotrajne popolne zapore primorske avtoceste med Gabrkom in Divačo v obe smeri zaradi del na električnem daljnovodu.
+
+V torek, sredo in četrtek bodo na gorenjski avtocesti med 8. in 16. uro v predoru Karavanke potekala dela. Promet bo urejen izmenično enosmerno, s čakanjem pred predorom.
+
+Primer 2:
+Podatki:
+Datum: 1/29/24 12:00
+
+Zastoji:
+Na dolenjski avtocesti od Grosuplja zahod proti Ljubljani.
+
+Na primorski avtocesti med Brezovico in razcepom Kozarje proti Ljubljani.
+
+Zastoj tovornih vozil na gorenjski avtocesti pred predorom Karavanke proti Avstriji, 1 km.
+Zastoj tovornih vozil na gorenjski avtocesti pred predorom Karavanke proti Avstriji, 1 km.
+Na dolenjski avtocesti od Grosuplja zahod proti Ljubljani.
+
+Zastoj tovornih vozil na gorenjski avtocesti pred predorom Karavanke proti Avstriji, 1 km.
+
+Ovire:
+Okvara tovornega vozila na dolenjski avtocesti na uvozu Kronovo proti Obrežju.
+Okvara tovornega vozila na dolenjski avtocesti na uvozu Kronovo proti Obrežju.
+
+Predmet na vipavski hitri cesti med razcepom Nanos in pokritim vkopom Rebrnice I proti Vipavi.
+
+Delo na cesti:
+**V torek, 30. 1., so med 8. in 12. uro predvidene kratkotrajne popolne zapore primorske avtoceste med Gabrkom in Divačo v obe smeri zaradi del na električnem daljnovodu.**
+
+V torek, sredo in četrtek bodo v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo potekal izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 29. 1. 2024 ob 12.00, 1. in 2. program
+
+Zastoji so na dolenjski avtocesti od Grosuplja zahod proti Ljubljani in na primorski avtocesti med Brezovico in razcepom Kozarje proti Ljubljani.
+
+Na gorenjski avtocesti pred predorom Karavanke proti Avstriji je zastoj tovornih vozil, dolg približno en kilometer.
+
+Na dolenjski avtocesti je na uvozu Kronovo proti Obrežju promet oviran zaradi okvare tovornega vozila.
+
+Na vipavski hitri cesti je med razcepom Nanos in pokritim vkopom Rebrnice I proti Vipavi promet oviran zaradi predmeta na vozišču.
+
+V torek, 30. januarja, so med 8. in 12. uro predvidene kratkotrajne popolne zapore primorske avtoceste med Gabrkom in Divačo v obe smeri zaradi del na električnem daljnovodu.
+
+V torek, sredo in četrtek bodo na gorenjski avtocesti med 8. in 16. uro v predoru Karavanke potekala dela. Promet bo urejen izmenično enosmerno, s čakanjem pred predorom.
+
+Novi podatki za generiranje besedila:
+
+Datum: 1/30/24 06:30
+
+Zastoji:
+Na štajerski avtocesti od Lukovice proti Ljubljani.
+
+Na dolenjski avtocesti od Grosuplja proti Ljubljani. 
+
+Na ljubljanski obvoznici:  
+\- Barje - Kozarje;  
+\- Kozarje - Koseze. 
+
+Na cestah Šentjur - Štore, Medno - Ljubljana, Ig - Ljubljana in Pijava Gorica - Škofljica.
+Na štajerski avtocesti od Lukovice proti Ljubljani.
+
+Na dolenjski avtocesti od Grosuplja proti Ljubljani. 
+
+Na ljubljanski obvoznici:  
+\- Barje - Kozarje;  
+\- Kozarje - Koseze. 
+
+Na gorenjski avtocesti od Šmartnega proti Ljubljani. 
+
+Na cesti Pijava Gorica - Škofljica.
+
+Ovire:
+Na ljubljanski južni obvoznici je zaradi okvare vozila oviran promet na zaviralnem pasu pred izvozom Ljubljana Vič proti Primorski.
+
+Delo na cesti:
+Danes so med 8. in 12. uro predvidene kratkotrajne popolne zapore primorske avtoceste med Gabrkom in Divačo v obe smeri zaradi del na električnem daljnovodu.
+
+Danes, v sredo in četrtek bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo potekal izmenično enosmerno s čakanjem pred predorom. 
+
+Več o delovnih zaporah v prometni napovedi.
+
+Poročilo:
+Prometne informacije, 30. januarja 2024 ob 6.30 na 1. in 2. programu Radia Slovenija
+
+Zastoji so na štajerski avtocesti od Lukovice proti Ljubljani, na dolenjski avtocesti od Grosuplja proti Ljubljani ter na
+ljubljanski obvoznici med Barjem in Kozarjami ter Kozarjami in Kosezami. Prav tako so zastoji na cestah Šentjur – Štore,
+Medno – Ljubljana, Ig – Ljubljana in Pijava Gorica – Škofljica.
+
+Na štajerski avtocesti je od Lukovice proti Ljubljani zastoj tovornih vozil. Na dolenjski avtocesti je od Grosuplja proti
+Ljubljani zastoj tovornih vozil. Na ljubljanski obvoznici sta na delu Barje – Kozarje in Kozarje - Koseze zastoja.
+
+Na gorenjski avtocesti od Šmartnega proti Ljubljani je dolg zastoj, prav tako pa je zastoj na cesti Pijava Gorica –
+Škofljica.
+
+Zaradi okvare vozila je promet oviran na zaviralnem pasu pred izvozom Ljubljana Vič proti Primorski na ljubljanski južni
+obvoznici.
+
+Danes so med 8. in 12. uro predvidene kratkotrajne popolne zapore primorske avtoceste med Gabrkom in Divačo v obe smeri
+zaradi del na električnem daljnovodu. Danes, jutri in pojutrišnjem bodo na gorenjski avtocesti v predoru Karavanke
+potekala dela med 8. in 16. uro. Promet bo potekal izmenično enosmerno s čakanjem pred predorom. Več o delovnih zaporah
+lahko slišite v prometni napovedi.

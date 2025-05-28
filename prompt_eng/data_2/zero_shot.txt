@@ -1,0 +1,32 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+
+Podatki:
+
+Zastoji:
+Zaradi del na dolenjski avtocesti pred predorom Mali Vrh proti Ljubljani.
+
+Ovire:
+Okvari vozil:  
+\- na primorski avtocesti oviran promet med Brezovico in Vrhniko proti Kopru;  
+\- na gorenjski avtocesti oviran promet med priključkoma Kranj zahod in Naklo proti Karavankam, Avstriji.
+Okvarjeno vozilo ovira promet na gorenjski avtocesti med priključkoma Kranj zahod in Naklo proti Karavankam, Avstriji.
+
+Delo na cesti:
+V Ljubljani bo do nedelje, 7. 1. 2024, popolna zapora **Dunajske ceste** zaradi rušenja železniškega nadvoza pri glavni železniški postaji. Obvoz je urejen po Samovi, Drenikovi, Celovški in Tivolski cesti.
+
+Cesta Litija - Zagorje bo pri Šklendrovcu zaprta v soboto, 6. 1., med 7.30 in 17. uro.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Na cesti čez prelaz Vršič so obvezne verige.
+
+Odgovor:
+Zaradi okvare vozila je na gorenjski avtocesti med priključkoma Kranj zahod in Naklo proti Karavankam, Avstriji
+oviran promet. Zaradi del pa je zaprta dolenjska avtocesta pred predorom Mali Vrh proti Ljubljani. Prelaz Vršič je
+prevozen samo z verigami. Cesta Litija - Zagorje bo v soboto popolnoma zaprta. Do nedelje pa bo veljala popolna
+zapora Dunajske ceste zaradi rušenja železniškega nadvoza pri glavni železniški postaji. Obvoz je urejen po
+Samovi, Drenikovi, Celovški in Tivolski cesti.

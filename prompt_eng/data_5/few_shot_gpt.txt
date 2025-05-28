@@ -1,0 +1,142 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+Spodaj sta navedena primera podatkov ter iz njih generirana besedila.
+
+Podatki:
+
+Datum: 1/18/24 07:00
+
+Nesreče:
+Na obali je od Izole proti predoru Markovec zaradi naleta štirih vozil zaprt vozni pas. Nastaja zastoj. 
+
+Na štajerski avtocesti je oviran promet pred priključkom Šentilj proti Avstriji. 
+
+V Ljubljani je na Litijski cesti promet urejen izmenično enosmerno med Pesarsko cesto in kitajsko restavracijo.
+Na obali je od Izole proti predoru Markovec zaradi naleta štirih vozil zaprt vozni pas. Nastaja zastoj.
+Na obali je od Izole proti predoru Markovec zaradi naleta štirih vozil zaprt vozni pas. Nastaja zastoj. 
+
+V Ljubljani je na Litijski cesti promet urejen izmenično enosmerno med Pesarsko cesto in kitajsko restavracijo.
+
+Zastoji:
+Na štajerski avtocesti med Krtino in Ljubljano ter pred Izvozom Maribor center. 
+
+Na dolenjski avtocesti med Grosupljim in Šmarjem Sap proti Ljubljani. 
+
+Na primorski avtocesti od Vrhnike proti Ljubljani. 
+
+Na gorenjski avtocesti med Vodicami in Brodom proti Ljubljani. 
+
+Na cestah Slivnica - Hoče - Maribor, Ig - Ljubljana, Medvode - Ljubljana in Trzin - Ljubljana.
+
+Ovire:
+Okvara vozila:  
+\- Na štajerski avtocesti je oviran promet med Ločico in Vranskim ter med Vranskim in Šentrupertom proti Mariboru.
+
+Delo na cesti:
+Glavna cesta Litija - Zagorje bo pri Šklendrovcu zaprta to soboto med 7:30 in 17. uro. 
+
+Cesta Ruše - Puščava bo zaradi obnove mostu pri Fali zaprta do 19. januarja 2024. Obvoz je po cesti Ruše - Selnica ob Dravi - Činžat - Fala in obratno.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Voznike opozarjamo, da je na prelazih v primeru snega na vozišču obvezna uporaba verig.
+
+Besedilo:
+Prometne informacije 18. 1. 2024 ob 7.00, 1. in 2. program
+
+Na obali je zaradi naleta štirih vozil zaprt vozni pas od Izole proti predoru Markovec. Nastaja zastoj.
+
+Na štajerski avtocesti je pred priključkom Šentilj proti Avstriji promet oviran.
+
+V Ljubljani je na Litijski cesti med Pesarsko cesto in kitajsko restavracijo promet urejen izmenično enosmerno.
+
+Zastoji so na štajerski avtocesti med Krtino in Ljubljano ter pred izvozom Maribor center, na dolenjski avtocesti med Grosupljim in Šmarjem Sap proti Ljubljani, na primorski avtocesti od Vrhnike proti Ljubljani ter na gorenjski avtocesti med Vodicami in Brodom proti Ljubljani.
+
+Promet je upočasnjen tudi na cestah Slivnica–Hoče–Maribor, Ig–Ljubljana, Medvode–Ljubljana in Trzin–Ljubljana.
+
+Na štajerski avtocesti je promet oviran zaradi okvare vozil med Ločico in Vranskim ter med Vranskim in Šentrupertom proti Mariboru.
+
+Glavna cesta Litija–Zagorje bo pri Šklendrovcu zaprta to soboto med 7.30 in 17. uro.
+
+Cesta Ruše–Puščava ostaja zaprta do 19. januarja zaradi obnove mostu pri Fali. Obvoz je po cesti Ruše–Selnica ob Dravi–Činžat–Fala in obratno.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Na gorskih prelazih je ob snegu na vozišču obvezna uporaba snežnih verig.
+
+Podatki:
+Datum: 1/23/24 08:30
+
+Zastoji:
+Na štajerski avtocesti pred predorom Pletovarje proti Ljubljani. Zamuda 5 minut.
+
+Ovire:
+Na štajerski avtocesti med priključkoma Celje vzhod - center proti Ljubljani predmet na vozišču.
+Na štajerski avtocesti pred predorom Pletovarje proti Mariboru zaprt počasni pas zaradi okvare vozila.
+Na štajerski avtocesti pred predorom Pletovarje proti Mariboru zaprt počasni pas zaradi okvare vozila.
+
+Na dolenjski avtocesti zaprt vozni pas med priključkoma Grosuplje vzhod - zahod proti Ljubljani. Nastal je krajši zastoj.
+
+Delo na cesti:
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je zaprta za ves promet.
+
+Splošno:
+Na cesti Ajdovščina - Col - Črni Vrh - Godovič zaradi zimskih razmer velja prepoved za priklopnike in polpriklopnike.
+
+Besedilo:
+Prometne informacije 23. 1. 2024 ob 8.30, 1. in 2. program
+
+Na štajerski avtocesti je pred predorom Pletovarje proti Ljubljani zastoj, zamuda znaša približno 5 minut.
+
+Na isti avtocesti je med priključkoma Celje vzhod in center proti Ljubljani na vozišču predmet, pred predorom Pletovarje proti Mariboru pa je zaradi okvare vozila zaprt počasni pas.
+
+Na dolenjski avtocesti je med priključkoma Grosuplje vzhod in zahod proti Ljubljani zaprt vozni pas. Nastal je krajši zastoj.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Cesta čez prelaz Vršič je zaprta za ves promet.
+
+Na cesti Ajdovščina–Col–Črni Vrh–Godovič velja zaradi zimskih razmer prepoved za priklopnike in polpriklopnike.
+
+Novi podatki za generiranje besedila:
+Datum: 1/9/24 11:00
+
+Nesreče:
+Na regionalni cesti Manče - Vipava več prevrnjenih tovornih vozil močno ovira promet.  
+Vozniki tovornih vozil, upoštevajte omejitve zaradi močnih sunkov burje!
+
+Zastoji:
+Zastoj tovornih vozil na avtocesti med razcepom Gabrk in mejnim prehodom Fernetiči proti Italiji. Zaradi varnosti občasno zapirajo predor Tabor.
+
+Delo na cesti:
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo, 10. 1., med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.  
+  
+Na hitri cesti Koper - Izola je zaprt vozni pas skozi predor Markovec proti Izoli.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+**Primorska avtocesta je zaprta zaradi burje med priključkoma Kastelec in Kozina proti Ljubljani. Promet je preusmerjen na regionalno cesto Kastelec - Kozina.  
+  
+Burja:
+\- Na vipavski hitri cesti med razcepom Nanos in priključkom Selo ter na regionalnih cestah Vipava-Ajdovščina in Razdrto - Podnanos - Manče - Vipava prepoved za počitniške prikolice, hladilnike in vozila s ponjavami, 2. stopnja.  
+  
+Cesta čez prelaz Vršič je zaradi snega zaprta.
+
+Odgovor:
+Prometne informacije 9. 1. 2024 ob 11. uri, 1. in 2. program Na regionalni cesti Manče – Vipava so prevrnjena več tovorna
+vozila močno ovirajo promet. Vozniki tovornih vozil upoštevajte omejitve zaradi močnih sunkov burje! Zastoj tovornih
+vozil je na avtocesti med razcepom Gabrk in mejnim prehodom Fernetiči proti Italiji. Zaradi varnosti občasno zapirajo
+predor Tabor. Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo, 10. 1., med 8. in 16. uro promet potekal
+izmenično enosmerno s čakanjem pred predorom. Na hitri cesti Koper – Izola je zaprt vozni pas skozi predor Markovec proti
+Izoli. Več o delovnih zaporah v prometni napovedi. Primorska avtocesta je zaradi burje zaprta med priključkoma Kastelec
+in Kozina proti Ljubljani, promet preusmerjen na regionalno cesto Kastelec – Kozina. Burja: \- Na vipavski hitri cesti
+med razcepom Nanos in priključkom Selo ter na regionalnih cestah Vipava-Ajdovščina in Razdrto - Podnanos - Manče – Vipava
+prepoved za počitniške prikolice, hladilnike in vozila s ponjavami 2. stopnje. Cesta čez prelaz Vršič je zaradi snega
+zaprta.

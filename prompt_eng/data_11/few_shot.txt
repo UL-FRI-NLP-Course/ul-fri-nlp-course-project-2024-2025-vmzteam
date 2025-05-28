@@ -1,0 +1,119 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+Spodaj sta navedena primera podatkov ter iz njih generirana besedila.
+
+Podatki:
+Datum: 1/31/24 18:00
+
+Ovire:
+Na primorski avtocesti je zaradi okvare tovornega vozila oviran promet pred priključkom Divača proti Ljubljani.
+
+Delo na cesti:
+V četrtek bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 31.1.2024 18:00
+
+Podatki o prometu
+
+Gost promet z zastoji je na južni ljubljanski obvoznici od prikljuèka
+Center proti Brezovici.
+
+Na obalni hitri cesti je zaradi del med Koprom in Izolo v predoru
+Markovec zaprt vozni pas proti Portorožu, proti Ljubljani pa je zaprt
+prehitevalni pas.
+
+Na primorski avtocesti je zaradi del promet oviran med Vrhniko in
+Brezovico v obe smeri.
+
+Regionalna cesta Šentvid-Vodice je zaradi del med Kajakaško cesto in
+Ulico bratov Novak zaprta. Obvoz je po gorenjski avtocesti med
+prikljuèkoma Šmartno in Brod, tudi za vozila brez vinjete.
+
+Podatki:
+Datum: 1/31/24 16:30
+
+Nesreče:
+Na vzhodni ljubljanski obvoznici je oviran promet pred razcepom Zadobrova proti Štajerski.
+
+Zastoji:
+Zaradi popoldanske prometne konice je promet povečan na mestnih obvoznicah in cestah, ki vodijo iz mestnih središč.
+
+Zaradi del:  
+\- Na hitri cesti Koper - Izola pred predorom Markovec proti Izoli.  
+\- Na hitri cesti Koper - Škofije pred Bertoki proti Ljubljani.
+Zaradi popoldanske prometne konice je promet povečan na mestnih obvoznicah in cestah, ki vodijo iz mestnih središč.
+
+Zaradi del:  
+\- Na hitri cesti Koper - Škofije pred Bertoki proti Ljubljani.
+
+Ovire:
+Na primorski avtocesti je zaradi okvare tovornega vozila oviran promet med Logatcem in Vrhniko proti Ljubljani.
+Na primorski avtocesti je zaradi okvare tovornega vozila oviran promet med Logatcem in Vrhniko proti Ljubljani.
+
+Na ljubljanski severni obvoznici je zaradi okvare vozila oviran promet med Savljami in Šiško proti Kosezam.
+
+Delo na cesti:
+V četrtek bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 31.1.2024 16:30
+
+Podatki o prometu
+
+Zastoji so na vzhodni in severni ljubljanski obvoznici proti Štajerski
+ter na južni obvoznici proti Dolenjski.
+
+Na podravski avtocesti so odstranili posledice nesreèe med prikljuèkoma
+Lancova vas in Podlehnik.
+
+Na primorski avtocesti proti Ljubljani je zaradi pokvarjenega tovornjaka
+promet oviran med Logatcem in Vrhniko.
+
+Pokvarjeno vozilo ovira promet tudi na štajerski avtocesti pred
+prikljuèkom Fram proti Mariboru.
+
+Novi podatki za generiranje besedila:
+
+Podatki:
+Datum: 1/12/24 06:30
+
+Nesreče:
+Oviran promet na cesti Dramlje - Šentjur, pri avtocestnem priključku Dramlje.
+Oviran promet:  
+\- na cesti Dramlje - Šentjur, pri avtocestnem priključku Dramlje;  
+\- na regionalni cesti Kranj - Naklo, na Polici, pri AC priključku Kranj zahod;  
+\- na regionalni cesti Lesce - Radovljica, v Radovljici, v križišču s Kranjsko cesto.
+Oviran promet:  
+\- na cesti Dramlje - Šentjur, pri avtocestnem priključku Dramlje;  
+\- na regionalni cesti Kranj - Naklo, na Polici, pri AC priključku Kranj zahod;  
+\- na regionalni cesti Lesce - Radovljica, v Radovljici.
+
+Zastoji:
+Promet je povečan na cestah proti večjim mestom in na mestnih vpadnicah.
+
+Ovire:
+Zaradi okvare vozila je zaprt počasni pas na štajerski avtocesti pred predorom Pletovarje proti Mariboru.
+Žival na gorenjski avtocesti pred počivališčem Voklo proti Ljubljani.
+Žival na gorenjski avtocesti pred počivališčem Voklo proti Ljubljani.
+
+Okvara avtobusa na štajerski avtocesti pred predorom Podmilj proti Ljubljani.
+
+Delo na cesti:
+Cesta Litija - Zagorje bo pri Šklendrovcu zaprta v soboto, 13. 1., med 7.30 in 17. uro.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Odgovor:
+Prometne informacije 12.1.2024, 6:30 Podatki o prometu Gost promet in zastoji so na štajerski avtocesti pred
+priključkom Domžale proti Ljubljani ter od Vodic proti Ljubljani. Oviran promet je zaradi okvare tovornega vozila
+med priključkoma Višnja Gora in Grosuplje proti Ljubljani. Zaradi delovne zapore je na cesti Lesce - Radovljica
+oviran promet v Radovljici, pri križišču s Kranjsko cesto. Oviran promet: \- zaradi okvare tovornega vozila med
+Višnjo Goro in Grosupljem proti Ljubljani; \- pred počivališčem Voklo na gorenjski avtocesti proti Ljubljani
+zaradi živali na vozišču; \- na cesti Lesce - Radovljica, v Radovljici, pri križišču s Kranjsko cesto. Delo na
+cestah Cesta čez prelaz Vršič je zaprta.

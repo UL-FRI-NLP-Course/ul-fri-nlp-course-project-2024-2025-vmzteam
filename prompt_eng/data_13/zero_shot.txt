@@ -1,0 +1,22 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+
+Podatki:
+
+Zastoji:
+Zastoji so pred Vučjo vasjo proti Mariboru zaradi preusmeritve prometa na vzporedno regionalno cesto.
+
+Delo na cesti:
+Glavna cesta Litija - Zagorje bo pri Šklendrovcu zaprta to soboto med 7:30 in 17. uro. 
+
+Cesta Ruše - Puščava bo zaradi obnove mostu pri Fali zaprta do 19. januarja 2024. Obvoz je po cesti Ruše - Selnica ob Dravi - Činžat - Fala in obratno.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Odgovor:
+Na cestah so jutra, ki zahtevajo dodatno pozornost. Zastoji pred Vučjo vasjo proti Mariboru zaradi preusmeritve
+prometa na vzporedno regionalno cesto in dela na cesti Litija - Zagorje pri Šklendrovcu to soboto med 7:30 in 17.
+uro. Več o delovnih zaporah v prometni napovedi. V Rušah bo zaradi obnove mostu zaprta cesta Ruše - Puščava do 19.
+januarja 2024, obvoz je po cesti Ruše - Selnica ob Dravi - Činžat - Fala in obratno.

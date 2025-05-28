@@ -1,0 +1,179 @@
+Analiziraj spodnje prometne podatke in nato napiši prometno poročilo za radijsko branje.
+
+Postopek:
+1. Najprej analiziraj:
+   - Kje so popolne zapore in prometne nesreče.
+   - Kje so največji zastoji.
+   - Kje so ovire na cesti (okvare, predmeti, živali, itd.).
+   - Kakšne so vremenske razmere.
+
+2. Pri analizi upoštevaj naslednja pravila prometnega poročanja:
+   - Najprej poročaj o popolnih zaporah in nesrečah.
+   - Nato poročaj o zastojih.
+   - Nato o manjših ovirah (npr. okvare vozil, predmeti, živali).
+   - Nato o vremenskih razmerah in vplivu na ceste.
+   
+   - Oblikuj povedi v strukturi:
+     [Cesta in smer] + [razlog] + [posledica in odsek].
+     Primer: "Na primorski avtocesti proti Kopru je zaradi prometne nesreče zaprt vozni pas med razcepom Gabrk in priključkom Divača."
+
+   - Za ceste in smeri uporabljaj ustaljena imena:
+     - "primorska avtocesta" (Ljubljana–Koper),
+     - "dolenjska avtocesta" (Ljubljana–Obrežje),
+     - "gorenjska avtocesta" (Ljubljana–Karavanke),
+     - "štajerska avtocesta" (Ljubljana–Maribor),
+     - "pomurska avtocesta" (Maribor–Lendava),
+     - "podravska avtocesta" (Maribor–Gruškovje).
+
+   - Uporabljaj končne destinacije:
+     - proti Avstriji (ne proti Šentilju),
+     - proti Hrvaški, Obrežju, Gruškovju,
+     - proti Madžarski.
+   
+   - Na ljubljanski obvoznici loči:
+     - vzhodna obvoznica: Malence–Zadobrova,
+     - zahodna obvoznica: Koseze–Kozarje,
+     - severna obvoznica: Koseze–Zadobrova,
+     - južna obvoznica: Kozarje–Malence.
+
+   - Posebnosti:
+     - "Mariborska vzhodna obvoznica" (ne štajerska avtocesta),
+     - "proti Italiji" na razcepu Gabrk–Fernetiči,
+     - ne uporabljaj lokalnih imen mest (npr. "proti Ptuju" zamenjaj s "proti Gruškovju").
+
+   - Pri predorih in počivališčih:
+     - Vedno navedi širši odsek (npr. "med priključkoma").
+     - Za "vkopi" uporabljaj izraz "predor" (razen galerije Moste).
+
+   - Pri obvozih:
+     - Jasno navedi obvozne poti ("po vzporedni regionalni cesti" ali konkretno).
+
+   - V jeziku:
+     - "pas za počasna vozila" (ne "počasni pas"),
+     - "izmenično enosmerni promet" (ne "polovična zapora"),
+     - "zaprta je avtocesta proti ..." (ne "zaprta polovica").
+
+   - Zaključi vsako poročilo z vljudnim pozdravom, npr.:
+     "Toliko za zdaj, vozite varno in srečno na poti!"
+
+3. Šele nato, na podlagi analize in zgornjih pravil, napiši končno radijsko prometno poročilo.
+
+Primer 1:
+Podatki:
+Datum: 1/12/24 15:30
+
+Nesreče:
+Na dolenjski avtocesti med Trebnjem vzhod in Trebnjem zahod proti Ljubljani je oviran promet.
+
+Zastoji:
+Promet je zaradi popoldanske prometne konice povečan na cestah, ki vodijo iz mestnih središč in na mestnih obvoznicah.
+
+Na ljubljanski:
+- južni obvoznici od priključka Center proti Dolenjski;
+- vzhodni obvoznici od Industrijske cone Moste proti Sneberjam in od Zadobrove proti Malencam;
+- severni obvoznici med Tomačevim in Šiško proti Kosezam.
+
+Na primorski hitri cesti pred Bertoki proti Ljubljani, 1,5 km.
+Na štajerski avtocesti pred Trojanami proti Ljubljani, 1 km.
+
+Delo na cesti:
+Cesta Litija - Zagorje bo pri Šklendrovcu zaprta v soboto, 13. 1., med 7.30 in 17. uro.
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Besedilo:
+Prometne informacije 12.1.2024 15:30 1. program.
+
+Podatki o prometu
+
+Na štajerski avtocesti je zaradi del v predoru Trojane zaprt vozni pas
+proti Ljubljani.
+
+Na obalni hitri cesti prav tako zaradi del promet med Semedelo in Izolo
+v obe smeri poteka samo po enem prometnem pasu.
+
+Zaradi del bo jutri predvidoma od pol osmih zjutraj do 17-ih zaprta
+cesta Litija-Zagorje pri Šklendrovcu.
+
+Primer 2:
+Podatki:
+Datum: 1/25/24 18:30
+
+Ovire:
+Na mariborski vzhodni obvoznici je zaradi okvare vozila zaprt vozni pas med izvozom in uvozom Rogoza proti Ljubljani.
+
+Delo na cesti:
+Zaradi sanacije nadvozov na primorski avtocesti med Vrhniko in Brezovico proti Ljubljani bosta v soboto in nedeljo, 27. in 28. 1. 2024, zaprta vozni in odstavni pas med 7. in 17. uro.
+
+V soboto, 27. 1. 2024, bo zaradi izgradnje galerije Šklendrovec zaprta cesta Litija - Zagorje od 7.30 do 17. ure.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Na cesti čez prelaz Vršič so obvezne verige.
+
+Besedilo:
+Prometne informacije 25.1.2024 18:30. 2. program
+
+Podatki o prometu.
+
+Na pomurski avtocesti je zaradi povožene živali oviran promet med
+razcepom Dolga vas in prikljuèkom Turnišèe proti Murski Soboti.
+
+Na primorski avtocesti je zaradi del promet oviran med Vrhniko in
+Brezovico v obe smeri.
+
+Zaradi del je na obalni hitri cesti zaprt vozni pas med prikljuèkoma
+Semedela in Izola proti Portorožu.
+
+Regionalna cesta Roèínj-Lig je zaradi plazu zaprta na Kambréškem.
+
+Na cesti èez prelaz Vršiè so obvezne verige.
+
+Podatki za novo poročilo:
+
+Datum: 1/7/24 08:00
+
+Nesreče:
+Na štajerski avtocesti je med Šentrupertom in Vranskim proti Ljubljani je zaprt prehitevalni pas.
+
+Ovire:
+Več okvarjenih vozil na dolenjski avtocesti med Novim mestom in Mirno Pečjo proti Ljubljani ovira promet.
+
+Delo na cesti:
+V Ljubljani bo do ponedeljka, 8. 1. 2024, do 5. ure zjutraj popolna zapora **Dunajske ceste** zaradi rušenja železniškega nadvoza pri glavni železniški postaji. Obvoz je urejen po Samovi, Drenikovi, Celovški in Tivolski cesti.
+
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo,10. 1. med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+**Burja,** prepoved za počitniške prikolice, hladilnike in vozila s ponjavami do 8 ton, 1. stopnja je na:  
+\- H4, vipavski hitri cesti med Selom in Nanosom;  
+\- na regionalni cesti Vipava - Ajdovščina.
+
+Cesta čez prelaz Vršič je zaradi snega zaprta.
+
+Na višje ležečih cestah se sneg oprijema cestišč. Na prelazih so priporočljive verige.
+
+Mednarodne informacije:
+Danes do 22. ure velja omejitev prometa tovornih vozil, katerih največja dovoljena masa presega 7,5 ton.
+
+Poročilo:
+Prometne informacije za danes so naslednje:
+
+Na štajerski avtocesti je med Šentrupertom in Vranskim proti Ljubljani zaprt prehitevalni pas zaradi prometne nesreče. Na
+dolenjski avtocesti, med Novim mestom in Mirno Pečjo proti Ljubljani več okvarjenih vozil ovira promet.
+
+V Ljubljani bo do ponedeljka, 8. januarja, popolna zapora Dunajske ceste zaradi rušenja železniškega nadvoza pri glavni
+železniški postaji. Obvoz je urejen po Samovi, Drenikovi, Celovški in Tivolski cesti. Na gorenjski avtocesti, v predoru
+Karavanke bo zaradi del ta sreda, 10. januarja, med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred
+predorom.
+
+Burja prve stopnje omejuje promet na H4, vipavski hitri cesti med Selom in Nanosom, ter na regionalni cesti Vipava -
+Ajdovščina za počitniške prikolice, hladilnike in vozila s ponjavami do 8 ton. Cesta čez prelaz Vršič je zaradi snega
+zaprta, na višje ležečih cestah se sneg oprijema cestišč. Na prelazih so priporočljive verige.
+
+Danes do 22. ure velja omejitev prometa tovornih vozil, katerih največja dovoljena masa presega 7,5 ton.

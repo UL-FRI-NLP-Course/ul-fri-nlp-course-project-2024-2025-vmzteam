@@ -1,0 +1,40 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+
+Podatki:
+
+Nesreče:
+Na regionalni cesti Manče - Vipava več prevrnjenih tovornih vozil močno ovira promet.  
+Vozniki tovornih vozil, upoštevajte omejitve zaradi močnih sunkov burje!
+
+Zastoji:
+Zastoj tovornih vozil na avtocesti med razcepom Gabrk in mejnim prehodom Fernetiči proti Italiji. Zaradi varnosti občasno zapirajo predor Tabor.
+
+Delo na cesti:
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo, 10. 1., med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.  
+  
+Na hitri cesti Koper - Izola je zaprt vozni pas skozi predor Markovec proti Izoli.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+**Primorska avtocesta je zaprta zaradi burje med priključkoma Kastelec in Kozina proti Ljubljani. Promet je preusmerjen na regionalno cesto Kastelec - Kozina.  
+  
+Burja:
+\- Na vipavski hitri cesti med razcepom Nanos in priključkom Selo ter na regionalnih cestah Vipava-Ajdovščina in Razdrto - Podnanos - Manče - Vipava prepoved za počitniške prikolice, hladilnike in vozila s ponjavami, 2. stopnja.  
+  
+Cesta čez prelaz Vršič je zaradi snega zaprta.
+
+Odgovor:
+Dober dan! Na regionalni cesti Manče - Vipava več prevrnjenih tovornih vozil močno ovira promet. Vozniki tovornih
+vozil, upoštevajte omejitve zaradi močnih sunkov burje! Na avtocesti med razcepom Gabrk in mejnim prehodom
+Fernetiči proti Italiji je zastoj tovornih vozil. Zaradi varnosti občasno zapirajo predor Tabor. V sredo, 10. 1.,
+bo na gorenjski avtocesti, v predoru Karavanke zaradi del promet potekal izmenično enosmerno s čakanjem pred
+predorom med 8. in 16. uro. Na hitri cesti Koper - Izola je zaprt vozni pas skozi predor Markovec proti Izoli.
+Burja na Primorski avtocesti povzroča težave, saj je ta med priključkoma Kastelec in Kozina zaprta v smeri
+Ljubljane, promet pa je preusmerjen na regionalno cesto Kastelec - Kozina. Na vipavski hitri cesti ter na
+regionalnih cestah Vipava-Ajdovščina in Razdrto - Podnanos - Manče - Vipava velja prepoved za počitniške
+prikolice, hladilnike in vozila s ponjavami, 2. stopnja. Cesta čez prelaz Vršič je zaradi snega zaprta. Za več
+informacij o delovnih zaporah sledite prometnim napovedim. Hvala za pozornost in varno vožnjo!

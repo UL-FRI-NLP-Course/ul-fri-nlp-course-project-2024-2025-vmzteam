@@ -1,0 +1,42 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+
+Podatki:
+
+Nesreče:
+Na štajerski avtocesti je med Šentrupertom in Vranskim proti Ljubljani je zaprt prehitevalni pas.
+
+Ovire:
+Več okvarjenih vozil na dolenjski avtocesti med Novim mestom in Mirno Pečjo proti Ljubljani ovira promet.
+
+Delo na cesti:
+V Ljubljani bo do ponedeljka, 8. 1. 2024, do 5. ure zjutraj popolna zapora **Dunajske ceste** zaradi rušenja železniškega nadvoza pri glavni železniški postaji. Obvoz je urejen po Samovi, Drenikovi, Celovški in Tivolski cesti.
+
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo,10. 1. med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+**Burja,** prepoved za počitniške prikolice, hladilnike in vozila s ponjavami do 8 ton, 1. stopnja je na:  
+\- H4, vipavski hitri cesti med Selom in Nanosom;  
+\- na regionalni cesti Vipava - Ajdovščina.
+
+Cesta čez prelaz Vršič je zaradi snega zaprta.
+
+Na višje ležečih cestah se sneg oprijema cestišč. Na prelazih so priporočljive verige.
+
+Mednarodne informacije:
+Danes do 22. ure velja omejitev prometa tovornih vozil, katerih največja dovoljena masa presega 7,5 ton.
+
+Odgovor:
+Na štajerski avtocesti je med Šentrupertom in Vranskim proti Ljubljani zaprt prehitevalni pas zaradi nesreče. Na
+dolenjski avtocesti med Novim mestom in Mirno Pečjo proti Ljubljani ovira promet več okvarjenih vozil. Do
+ponedeljka bo na Dunajski cesti v Ljubljani popolna zapora zaradi rušenja železniškega nadvoza pri glavni
+železniški postaji, obvoz je urejen po Samovi, Drenikovi, Celovški in Tivolski cesti. Na gorenjski avtocesti bo
+jutri od 8. do 16. ure v predoru Karavanke zaradi del promet potekal izmenično enosmerno s čakanjem pred predorom.
+Zaradi burje je na vipavski hitri cesti med Selom in Nanosom ter na regionalni cesti Vipava - Ajdovščina prepoved
+za počitniške prikolice, hladilnike in vozila s ponjavami do 8 ton. Cesta čez prelaz Vršič je zaradi snega zaprta.
+Na višje ležečih cestah se sneg oprijema cestišč, na prelazih so priporočljive verige. Danes do 22. ure velja
+omejitev prometa tovornih vozil nad 7,5 ton.

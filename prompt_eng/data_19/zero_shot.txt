@@ -1,0 +1,33 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+
+Podatki:
+
+Zastoji:
+Na primorski hitri cesti med Bertoki in Koprom proti Izoli, skozi delovno zaporo.
+
+Ovire:
+Regionalna cesta Preddvor - Sp. Jezersko - Jezerski Vrh je zaradi podora kamenja zaprta pri Spodnjih Fužinah. Obvoz je možen preko Ljubelja.
+
+Delo na cesti:
+Zaradi sanacije nadvozov na primorski avtocesti med Vrhniko in Brezovico proti Ljubljani bosta v soboto in nedeljo, 27. in 28. 1. 2024, zaprta vozni in odstavni pas med 7. in 17. uro.
+
+V soboto, 27. 1. 2024, bo zaradi izgradnje galerije Šklendrovec zaprta cesta Litija - Zagorje od 7.30 do 17. ure.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Odgovor:
+**Zastoji in ovire na slovenskih cestah, dne 24. 1. 2024 **
+
+Trenutno so na primorski hitri cesti med Bertoki in Koprom proti Izoli zastoji zaradi delovne zapore. Prav tako je
+regionalna cesta Preddvor - Sp. Jezersko - Jezerski Vrh zaprta pri Spodnjih Fužinah zaradi podora kamenja, obvoz
+pa je možen preko Ljubelja.
+
+V soboto in nedeljo, 27. in 28. 1., bo na primorski avtocesti med Vrhniko in Brezovico proti Ljubljani zaprt vozni
+in odstavni pas zaradi sanacije nadvozov med 7. in 17. uro.
+
+Zaradi izgradnje galerije Šklendrovec bo v soboto, 27. 1., cesta Litija - Zagorje zaprta od 7.30 do 17. ure.
+
+Za več informacij o delovnih zaporah preverite prometno napoved.

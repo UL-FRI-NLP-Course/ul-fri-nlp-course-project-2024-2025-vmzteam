@@ -1,0 +1,23 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+
+Podatki:
+
+Zastoji:
+Promet se zaradi jutranje prometne konice povečuje na cestah, ki vodijo v mestna središča ter na mestnih obvoznicah.
+
+Ovire:
+Na dolenjski avtocesti je med predorom Leščevje in priključkom Trebnje zahod proti Ljubljani oviran promet zaradi okvare avtobusa.
+
+Delo na cesti:
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Odgovor:
+Promet se zaradi jutranje konice povečuje na cestah, ki vodijo v mestna središča ter na mestnih obvoznicah. 
+Na dolenjski avtocesti pa je oviran promet med predorom Leščevjem in priključkom Trebnje zahod proti Ljubljani zaradi okvare avtobusa.
+Več informacij lahko najdete v današnji prometni napovedi. Prelaz Vršič je prevozen samo za osebna vozila z nameščenimi verigami.

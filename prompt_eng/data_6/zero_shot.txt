@@ -1,0 +1,46 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+
+Podatki:
+
+Ovire:
+Pnevmatika na vozišču ovira promet na vipavski hitri cesti med priključkoma Ajdovščina in Selo proti Vrtojbi, Italiji.
+
+Delo na cesti:
+V Ljubljani bo na Dunajski cesti zaradi rušenja železniškega nadvoza pri glavni železniški postaji promet v vsako smer potekal po dveh pasovih, predvidoma do 21. 2. V času prometnih konic pričakujemo zastoje. 
+
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo, 10. 1., med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.
+
+Danes, bo v jutranjem času med priključkom Izola in Koprom, promet potekal v obeh smereh po enem pasu. V času prometnih konic so možni zastoji.
+
+Več o delovnih zaporah v prometni napovedi.
+V Ljubljani na Dunajski cesti zaradi rušenja železniškega nadvoza pri glavni železniški postaji promet poteka po dveh pasovih proti centru in proti obvoznici. V času prometnih konic pričakujemo zastoje. 
+
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo, 10. 1., med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.
+
+Več o delovnih zaporah v prometni napovedi.
+V Ljubljani na Dunajski cesti zaradi rušenja železniškega nadvoza pri glavni železniški postaji promet v vsako smer poteka po dveh pasovih. V času prometnih konic pričakujemo zastoje. 
+
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo, 10. 1., med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je zaradi snega zaprta.
+
+Zaradi poplavljenega cestišča je zaprta cesta Lešje - Koritno.
+
+Odgovor:
+Zaradi pnevmatike na vozišču ovira promet na vipavski hitri cesti med priključkoma Ajdovščina in Selo proti
+Vrtojbi, Italiji. Na Dunajski cesti v Ljubljani zaradi rušenja železniškega nadvoza pri glavni železniški postaji
+promet poteka po dveh pasovih v vsako smer do 21. februarja. V času prometnih konic pričakujemo zastoje. V predoru
+Karavanke bo na gorenjski avtocesti zaradi del v sredo, 10. januarja, med 8. in 16. uro promet potekal izmenično
+enosmerno s čakanjem pred predorom. Na primorski avtocesti bo danes v jutranjih urah promet potekal po enem pasu v
+obe smeri med priključkoma Izola in Koper, možni so zastoji. V Ljubljani na Dunajski cesti zaradi rušenja
+železniškega nadvoza pri glavni železniški postaji promet poteka po dveh pasovih proti centru in obvoznici do 21.
+februarja. V času prometnih konic pričakujemo zastoje. Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v
+sredo, 10. januarja, med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom. Cesta čez
+prelaz Vršič je zaprta zaradi snega. Zaradi poplavljenega cestišča je zaprta cesta Lešje - Koritno. Več o delovnih
+zaporah v prometni napovedi.

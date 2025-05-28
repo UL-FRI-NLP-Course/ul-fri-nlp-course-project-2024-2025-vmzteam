@@ -1,0 +1,89 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+Spodaj sta navedena primera podatkov ter iz njih generirana besedila.
+
+Podatki:
+Datum: 2/1/24 16:30
+
+Zastoji:
+Promet je zaradi popoldanske prometne konice povečan na cestah, ki vodijo iz mestnih središč, na mestnih obvoznicah in pred delovnimi zaporami.
+
+Delo na cesti:
+Na primorski avtocesti med Brezovico in Vrhniko proti Kopru bo v soboto, 3. 2. in nedeljo, 4. 2., med 7. in 17. uro promet potekal po enem prometnem pasu.
+
+Na cesti Litija - Zagorje, pri Šklendrovcu, bo v soboto, 3. 2., med 7.30 in 17. uro popolna zapora. 
+
+Besedilo:
+Prometne informacije 1. 2. 2024 ob 16.30, 1. in 2. program
+
+Zaradi popoldanske prometne konice je promet povečan na cestah, ki vodijo iz mestnih središč, na mestnih obvoznicah in pred delovnimi zaporami.
+
+V soboto in nedeljo, 3. in 4. februarja, bo med 7. in 17. uro na primorski avtocesti med Brezovico in Vrhniko proti Kopru promet potekal po enem pasu.
+
+V soboto med 7.30 in 17. uro bo popolna zapora ceste Litija–Zagorje pri Šklendrovcu.
+
+Podatki:
+Datum: 2/1/24 15:30
+
+Zastoji:
+Promet je zaradi popoldanske prometne konice povečan na cestah, ki vodijo iz mestnih središč, na mestnih obvoznicah in pred delovnimi zaporami. Gneče, zastoji nastajajo predvsem po ljubljanski obvoznici na posameznih odsekih.
+
+Ovire:
+Na primorski avtocesti na zaviralnem pasu za Brezovico proti Kopru zaradi okvare vozila oviran promet. Nastal je zastoj.
+Na primorski avtocesti na zaviralnem pasu za Brezovico proti Kopru zaradi okvare vozila oviran promet.
+
+Delo na cesti:
+Na primorski avtocesti med Brezovico in Vrhniko proti Kopru bo v soboto, 3. 2. in nedeljo, 4. 2., med 7. in 17. uro promet potekal po enem prometnem pasu.
+
+Na cesti Litija - Zagorje, pri Šklendrovcu, bo v soboto, 3. 2., med 7.30 in 17. uro popolna zapora. 
+
+Besedilo:
+Prometne informacije 1. 2. 2024 ob 15.30, 1. in 2. program
+
+Zaradi popoldanske prometne konice je promet povečan na cestah, ki vodijo iz mestnih središč, na mestnih obvoznicah in pred delovnimi zaporami. Gneča in zastoji nastajajo predvsem na posameznih odsekih ljubljanske obvoznice.
+
+Na primorski avtocesti je na zaviralnem pasu za izvoz Brezovica proti Kopru promet oviran zaradi okvare vozila. Nastal je zastoj.
+
+V soboto in nedeljo, 3. in 4. februarja, bo med 7. in 17. uro na primorski avtocesti med Brezovico in Vrhniko proti Kopru promet potekal po enem pasu.
+
+V soboto med 7.30 in 17. uro bo popolna zapora ceste Litija–Zagorje pri Šklendrovcu.
+
+Novi podatki za generiranje besedila:
+Datum: 1/10/24 15:30
+
+Nesreče:
+Na štajerski avtocesti sta zaprta vozni in prehitevalni pas pred priključkom Ljubljana Sneberje proti Celje. Zaprt je tudi prehitevalni pas na razcepu Zadobrova iz smeri severne obvoznice. Nastaja zastoj, sega na vzhodni obvoznici mimo Bizovika ter na severni do Tomačevega.
+
+Zastoji:
+Zaradi popoldanske prometne konice** je promet močno povečan na cestah iz mestnih središč ter na mestnih obvoznicah. Nastajajo zastoji.
+
+Ovire:
+Na pomurski avtocesti je pred Gančani proti Murski Soboti zaradi okvare tovornega vozila zaprt vozni pas.
+
+Na cesti Tomačevo - Trzin je v križišču Zasavske in Štajerske ceste, proti Trzinu, zaprt en pas zaradi okvare vozila.
+Na pomurski avtocesti je pred Gančani proti Murski Soboti zaradi okvare tovornega vozila zaprt vozni pas.
+
+Delo na cesti:
+Na hitri cesti Koper - Izola je, med Semedelo in priključkom Koper Slavček proti Ljubljani na počivališču Koper zaprt bencinski servis.
+
+Več o delovnih zaporah v prometni napovedi.
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del danes do 16. ure promet potekal izmenično enosmerno s čakanjem pred predorom.
+
+Na hitri cesti Koper - Izola je, med Semedelo in priključkom Koper Slavček proti Ljubljani na počivališču Koper zaprt bencinski servis.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Odgovor:
+Prometne informacije 10. 1. 2024 ob 15.30, 1. in 2. program Zaradi popoldanske prometne konice je promet močno povečan na
+cestah iz mestnih središč ter na mestnih obvoznicah. Nastajajo zastoji. Na štajerski avtocesti sta zaprta vozni in
+prehitevalni pas pred priključkom Ljubljana Sneberje proti Celju, prav tako je zaprt prehitevalni pas na razcepu
+Zadobrova iz smeri severne obvoznice. Nastaja zastoj, ki sega na vzhodni obvoznici mimo Bizovika ter na severni do
+Tomačevega. Na pomurski avtocesti je pred Gančani proti Murski Soboti zaradi okvare tovornega vozila zaprt vozni pas. V
+križišču Zasavske in Štajerske ceste, proti Trzinu, je prav tako zaradi okvare vozila zaprt en pas na cesti Tomačevo -
+Trzin. Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami. Na gorenjski avtocesti, v predoru
+Karavanke bo zaradi del danes do 16. ure promet potekal izmenično enosmerno s čakanjem pred predorom.

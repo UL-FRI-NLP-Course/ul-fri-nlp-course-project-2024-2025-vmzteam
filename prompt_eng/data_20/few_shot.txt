@@ -1,0 +1,138 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+Spodaj sta navedena primera podatkov ter iz njih generirana besedila.
+
+Podatki:
+Datum: 1/29/24 16:30
+
+Nesreče:
+Na štajerski avtocesti med Dramljami in Celjem vzhod, pred počivališčem Zima proti Ljubljani je zaprt vozni pas. Nastal je zastoj do Konjic. Občasno zapirajo predore. Zamuda 20 - 30 minut.
+
+Zastoji:
+Zastoj tovornih vozil na gorenjski avtocesti pred predorom Karavanke proti Avstriji, 2 km. Vozila stojijo tudi na voznem pasu.
+Promet je zaradi popoldanske prometne konice povečan na cestah, ki vodijo iz mestnih središč, na mestnih obvoznicah in pred delovnimi zaporami. Gneče, zastoji nastajajo predvsem po ljubljanski obvoznici na posameznih odsekih.
+
+Zastoj tovornih vozil na gorenjski avtocesti pred predorom Karavanke proti Avstriji, 2 km. Vozila stojijo tudi na voznem pasu.
+
+Delo na cesti:
+**V torek, 30. 1., so med 8. in 12. uro predvidene kratkotrajne popolne zapore primorske avtoceste med Gabrkom in Divačo v obe smeri zaradi del na električnem daljnovodu.**
+
+V torek, sredo in četrtek bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo potekal izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 29.1.2024 16:30.
+
+Podatki o prometu
+
+Zaradi nesreèe je na štajerski avtocesti proti Ljubljani zaprt vozni pas
+med prikljuèkoma Dramlje in Celje-vzhod. Nastal je krajši zastoj. Èas
+potovanja se podaljša za približno 10 minut.
+
+Na glavni cesti Postojna-Jelšane so odstranili posledice prometne
+nesreèe pri Ribnici. Promet tam znova poteka neovirano.
+
+Na štajerski avtocesti proti Ljubljani je zaradi pokvarjenega tovornjaka
+promet oviran med prikljuèkoma Vransko in Trojane.
+
+Gost promet z zastoji je na severni ljubljanski obvoznici med
+prikljuèkoma Tomaèevo in Dravlje proti Kosezam.
+
+Podatki:
+Datum: 1/29/24 12:00
+
+Zastoji:
+Na dolenjski avtocesti od Grosuplja zahod proti Ljubljani.
+
+Na primorski avtocesti med Brezovico in razcepom Kozarje proti Ljubljani.
+
+Zastoj tovornih vozil na gorenjski avtocesti pred predorom Karavanke proti Avstriji, 1 km.
+Zastoj tovornih vozil na gorenjski avtocesti pred predorom Karavanke proti Avstriji, 1 km.
+Na dolenjski avtocesti od Grosuplja zahod proti Ljubljani.
+
+Zastoj tovornih vozil na gorenjski avtocesti pred predorom Karavanke proti Avstriji, 1 km.
+
+Ovire:
+Okvara tovornega vozila na dolenjski avtocesti na uvozu Kronovo proti Obrežju.
+Okvara tovornega vozila na dolenjski avtocesti na uvozu Kronovo proti Obrežju.
+
+Predmet na vipavski hitri cesti med razcepom Nanos in pokritim vkopom Rebrnice I proti Vipavi.
+
+Delo na cesti:
+**V torek, 30. 1., so med 8. in 12. uro predvidene kratkotrajne popolne zapore primorske avtoceste med Gabrkom in Divačo v obe smeri zaradi del na električnem daljnovodu.**
+
+V torek, sredo in četrtek bodo v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo potekal izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 29.1.2024 12:00.
+
+Podatki o prometu
+
+Na dolenjski avtocestije zaradi pokvarjenega vozila oviran promet med
+prikljuèkoma Kronovo in Dobruška vas proti Obrežju.
+
+Prav tako je na dolenjski avtocesti zaradi del zaprt vozni pas med
+prikljuèkoma Cikava in Šmarje-Sap proti Ljubljani. Nastal je krajši
+zastoj. Opozarjamo na nevarnost naleta.
+
+Na regionalni cesti Preddvor-Spodnje Jezersko je zaradi podora kamenja
+promet pri Spodnjih Fužinah urejen izmenièno enosmerno.
+
+Novi podatki za generiranje besedila:
+Datum: 1/30/24 06:30
+
+Zastoji:
+Na štajerski avtocesti od Lukovice proti Ljubljani.
+
+Na dolenjski avtocesti od Grosuplja proti Ljubljani. 
+
+Na ljubljanski obvoznici:  
+\- Barje - Kozarje;  
+\- Kozarje - Koseze. 
+
+Na cestah Šentjur - Štore, Medno - Ljubljana, Ig - Ljubljana in Pijava Gorica - Škofljica.
+Na štajerski avtocesti od Lukovice proti Ljubljani.
+
+Na dolenjski avtocesti od Grosuplja proti Ljubljani. 
+
+Na ljubljanski obvoznici:  
+\- Barje - Kozarje;  
+\- Kozarje - Koseze. 
+
+Na gorenjski avtocesti od Šmartnega proti Ljubljani. 
+
+Na cesti Pijava Gorica - Škofljica.
+
+Ovire:
+Na ljubljanski južni obvoznici je zaradi okvare vozila oviran promet na zaviralnem pasu pred izvozom Ljubljana Vič proti Primorski.
+
+Delo na cesti:
+Danes so med 8. in 12. uro predvidene kratkotrajne popolne zapore primorske avtoceste med Gabrkom in Divačo v obe smeri zaradi del na električnem daljnovodu.
+
+Danes, v sredo in četrtek bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo potekal izmenično enosmerno s čakanjem pred predorom. 
+
+Več o delovnih zaporah v prometni napovedi.
+
+Odgovor:
+Prometne informacije za torek, 30. januarja 2024 ob 6:30
+
+Zaradi nesreče je na štajerski avtocesti proti Ljubljani zaprt vozni pas med priključkom Dramlje in Celje-vzhod.
+Nastal je zastoj dolžine približno 1 kilometer, čakalna doba se podaljša za okoli 20 minut.
+
+Na glavni cesti Maribor - Ptuj v Zgornjem Jakobskem Dolu odstranjujejo posledice prometne nesreče, kjer sta bila
+udeležena dva avtomobila. Promet je oviran.
+Večje kolone so na cestah proti večjim mestom in pred delovnimi zaporami. Na dolenjski avtocesti od Grosuplja
+proti Ljubljani, gorenjski avtocesti od Šmartnega proti Ljubljani ter ljubljanski obvoznici med Barjem in
+Kozarjami ter Kozarjami in Kosezami.
+
+Na cesti Medno - Ljubljana je oviran promet zaradi nesreče kolesarja. Na cestah Šentjur-Štore, Ig-Ljubljana in
+Pijava Gorica-Škofljica je prav tako povečan promet z zastoji.
+
+Zaradi okvare vozila na južni ljubljanski obvoznici proti Primorski je oviran promet na zaviralnem pasu pred
+izvozom Ljubljana Vič.
+Danes so med 8. in 12. uro predvidene kratkotrajne popolne zapore primorske avtoceste med Gabrkom in Divačo v obe
+smeri zaradi del na električnem daljnovodu. Danes, jutri in četrtek bodo na gorenjski avtocesti v predoru
+Karavanke potekala dela med 8. in 16. uro, promet bo potekal izmenično enosmerno s čakanjem pred predorom.
+
+Bodite previdni in prilagodite hitrost vožnje razmeram na cestah!

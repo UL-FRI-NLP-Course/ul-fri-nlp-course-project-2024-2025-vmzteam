@@ -1,0 +1,100 @@
+Analiziraj spodnje prometne podatke in nato napiši prometno poročilo za radijsko branje.
+
+Postopek:
+1. Najprej analiziraj:
+   - Kje so popolne zapore in prometne nesreče.
+   - Kje so največji zastoji.
+   - Kje so ovire na cesti (okvare, predmeti, živali, itd.).
+   - Kakšne so vremenske razmere.
+
+2. Pri analizi upoštevaj naslednja pravila prometnega poročanja:
+   - Najprej poročaj o popolnih zaporah in nesrečah.
+   - Nato poročaj o zastojih.
+   - Nato o manjših ovirah (npr. okvare vozil, predmeti, živali).
+   - Nato o vremenskih razmerah in vplivu na ceste.
+   
+   - Oblikuj povedi v strukturi:
+     [Cesta in smer] + [razlog] + [posledica in odsek].
+     Primer: "Na primorski avtocesti proti Kopru je zaradi prometne nesreče zaprt vozni pas med razcepom Gabrk in priključkom Divača."
+
+   - Za ceste in smeri uporabljaj ustaljena imena:
+     - "primorska avtocesta" (Ljubljana–Koper),
+     - "dolenjska avtocesta" (Ljubljana–Obrežje),
+     - "gorenjska avtocesta" (Ljubljana–Karavanke),
+     - "štajerska avtocesta" (Ljubljana–Maribor),
+     - "pomurska avtocesta" (Maribor–Lendava),
+     - "podravska avtocesta" (Maribor–Gruškovje).
+
+   - Uporabljaj končne destinacije:
+     - proti Avstriji (ne proti Šentilju),
+     - proti Hrvaški, Obrežju, Gruškovju,
+     - proti Madžarski.
+   
+   - Na ljubljanski obvoznici loči:
+     - vzhodna obvoznica: Malence–Zadobrova,
+     - zahodna obvoznica: Koseze–Kozarje,
+     - severna obvoznica: Koseze–Zadobrova,
+     - južna obvoznica: Kozarje–Malence.
+
+   - Posebnosti:
+     - "Mariborska vzhodna obvoznica" (ne štajerska avtocesta),
+     - "proti Italiji" na razcepu Gabrk–Fernetiči,
+     - ne uporabljaj lokalnih imen mest (npr. "proti Ptuju" zamenjaj s "proti Gruškovju").
+
+   - Pri predorih in počivališčih:
+     - Vedno navedi širši odsek (npr. "med priključkoma").
+     - Za "vkopi" uporabljaj izraz "predor" (razen galerije Moste).
+
+   - Pri obvozih:
+     - Jasno navedi obvozne poti ("po vzporedni regionalni cesti" ali konkretno).
+
+   - V jeziku:
+     - "pas za počasna vozila" (ne "počasni pas"),
+     - "izmenično enosmerni promet" (ne "polovična zapora"),
+     - "zaprta je avtocesta proti ..." (ne "zaprta polovica").
+
+   - Zaključi vsako poročilo z vljudnim pozdravom, npr.:
+     "Toliko za zdaj, vozite varno in srečno na poti!"
+
+3. Šele nato, na podlagi analize in zgornjih pravil, napiši končno radijsko prometno poročilo.
+
+Podatki:
+
+Datum: 1/8/24 05:00
+
+Ovire:
+Pnevmatika na vozišču ovira promet na vipavski hitri cesti med priključkoma Ajdovščina in Selo proti Vrtojbi, Italiji.
+
+Delo na cesti:
+V Ljubljani bo na Dunajski cesti zaradi rušenja železniškega nadvoza pri glavni železniški postaji promet v vsako smer potekal po dveh pasovih, predvidoma do 21. 2. V času prometnih konic pričakujemo zastoje. 
+
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo, 10. 1., med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.
+
+Danes, bo v jutranjem času med priključkom Izola in Koprom, promet potekal v obeh smereh po enem pasu. V času prometnih konic so možni zastoji.
+
+Več o delovnih zaporah v prometni napovedi.
+V Ljubljani na Dunajski cesti zaradi rušenja železniškega nadvoza pri glavni železniški postaji promet poteka po dveh pasovih proti centru in proti obvoznici. V času prometnih konic pričakujemo zastoje. 
+
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo, 10. 1., med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.
+
+Več o delovnih zaporah v prometni napovedi.
+V Ljubljani na Dunajski cesti zaradi rušenja železniškega nadvoza pri glavni železniški postaji promet v vsako smer poteka po dveh pasovih. V času prometnih konic pričakujemo zastoje. 
+
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo, 10. 1., med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je zaradi snega zaprta.
+
+Zaradi poplavljenega cestišča je zaprta cesta Lešje - Koritno.
+
+Poročilo:
+Na primorski avtocesti proti Kopru je na odseku med razcepom Gabrk in priključkom Divača vozni pas oviran zaradi
+pnevmatike na vozišču, kar lahko povzroči zastoje. Na vipavski hitri cesti med priključkoma Ajdovščina in Selo proti
+Vrtojbi, Italiji, je prav tako oviran promet zaradi pnevmatike na vozišču. V Ljubljani bo Dunajska cesta zaprta do 21.
+februarja zaradi rušenja železniškega nadvoza pri glavni železniški postaji, kar bo v času prometnih konic povzročilo
+zastoje. Promet poteka po dveh pasovih proti centru in obvoznici. Na gorenjski avtocesti, v predoru Karavanke, bo danes
+med 8. in 16. uro zaradi del promet izmenično enosmerno s čakanjem pred predorom. Danes bodo na odseku med Izolo in
+Koprom zastoji zaradi prometa, ki poteka po enem pasu v obe smeri. Cesta čez prelaz Vršič je zaprta zaradi snega,
+poplavljeno cestišče pa ovira promet na cesti Lešje - Koritno. Toliko zaenkrat, vozite varno in srečno na poti!

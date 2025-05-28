@@ -1,0 +1,36 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+
+Podatki:
+
+Zastoji:
+Zastoj tovornih vozil proti Avstriji:  
+\- Na gorenjski avtocesti pred predorom Karavanke, 3 kilometre.  
+\- Na štajerski avtocesti pred prehodom Šentilj, 2 kilometra.
+Zastoj tovornih vozil proti Avstriji:  
+\- Na gorenjski avtocesti pred predorom Karavanke, 2 kilometra in pol.  
+\- Na štajerski avtocesti pred prehodom Šentilj, 2 kilometra.
+
+Ovire:
+Okvara vozila, oviran promet:  
+\- Na štajerski avtocesti med priključkoma Lukovica in Krtina proti Ljubljani.  
+\- Na mariborski vzhodni obvoznici med priključkom Maribor center in počivališčem Maribor vzhod proti Šentilju.
+
+Delo na cesti:
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je zaprta za ves promet.
+
+Voznike opozarjamo, da je na prelazih v primeru snega na vozišču obvezna uporaba verig.
+
+Splošno:
+Na cesti Ajdovščina - Col - Črni Vrh - Godovič zaradi zimskih razmer velja prepoved za priklopnike in polpriklopnike.
+
+Odgovor:
+Na gorenjski avtocesti pred predorom Karavanke, na štajerski avtocesti pred prehodom Šentilj ter na mariborski
+vzhodni obvoznici med priključkom Maribor center in počivališčem Maribor vzhod proti Šentilju je oviran promet. Na
+gorenjski avtocesti in štajerski avtocesti so zastoji tovornih vozil, prav tako pa na štajerski avtocesti med
+priključkoma Lukovica in Krtina proti Ljubljani okvara vozila dodatno ovira promet.

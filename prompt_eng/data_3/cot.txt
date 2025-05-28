@@ -1,0 +1,101 @@
+Analiziraj spodnje prometne podatke in nato napiši prometno poročilo za radijsko branje.
+
+Postopek:
+1. Najprej analiziraj:
+   - Kje so popolne zapore in prometne nesreče.
+   - Kje so največji zastoji.
+   - Kje so ovire na cesti (okvare, predmeti, živali, itd.).
+   - Kakšne so vremenske razmere.
+
+2. Pri analizi upoštevaj naslednja pravila prometnega poročanja:
+   - Najprej poročaj o popolnih zaporah in nesrečah.
+   - Nato poročaj o zastojih.
+   - Nato o manjših ovirah (npr. okvare vozil, predmeti, živali).
+   - Nato o vremenskih razmerah in vplivu na ceste.
+   
+   - Oblikuj povedi v strukturi:
+     [Cesta in smer] + [razlog] + [posledica in odsek].
+     Primer: "Na primorski avtocesti proti Kopru je zaradi prometne nesreče zaprt vozni pas med razcepom Gabrk in priključkom Divača."
+
+   - Za ceste in smeri uporabljaj ustaljena imena:
+     - "primorska avtocesta" (Ljubljana–Koper),
+     - "dolenjska avtocesta" (Ljubljana–Obrežje),
+     - "gorenjska avtocesta" (Ljubljana–Karavanke),
+     - "štajerska avtocesta" (Ljubljana–Maribor),
+     - "pomurska avtocesta" (Maribor–Lendava),
+     - "podravska avtocesta" (Maribor–Gruškovje).
+
+   - Uporabljaj končne destinacije:
+     - proti Avstriji (ne proti Šentilju),
+     - proti Hrvaški, Obrežju, Gruškovju,
+     - proti Madžarski.
+   
+   - Na ljubljanski obvoznici loči:
+     - vzhodna obvoznica: Malence–Zadobrova,
+     - zahodna obvoznica: Koseze–Kozarje,
+     - severna obvoznica: Koseze–Zadobrova,
+     - južna obvoznica: Kozarje–Malence.
+
+   - Posebnosti:
+     - "Mariborska vzhodna obvoznica" (ne štajerska avtocesta),
+     - "proti Italiji" na razcepu Gabrk–Fernetiči,
+     - ne uporabljaj lokalnih imen mest (npr. "proti Ptuju" zamenjaj s "proti Gruškovju").
+
+   - Pri predorih in počivališčih:
+     - Vedno navedi širši odsek (npr. "med priključkoma").
+     - Za "vkopi" uporabljaj izraz "predor" (razen galerije Moste).
+
+   - Pri obvozih:
+     - Jasno navedi obvozne poti ("po vzporedni regionalni cesti" ali konkretno).
+
+   - V jeziku:
+     - "pas za počasna vozila" (ne "počasni pas"),
+     - "izmenično enosmerni promet" (ne "polovična zapora"),
+     - "zaprta je avtocesta proti ..." (ne "zaprta polovica").
+
+   - Zaključi vsako poročilo z vljudnim pozdravom, npr.:
+     "Toliko za zdaj, vozite varno in srečno na poti!"
+
+3. Šele nato, na podlagi analize in zgornjih pravil, napiši končno radijsko prometno poročilo.
+
+Podatki:
+
+Datum: 1/7/24 08:00
+
+Nesreče:
+Na štajerski avtocesti je med Šentrupertom in Vranskim proti Ljubljani je zaprt prehitevalni pas.
+
+Ovire:
+Več okvarjenih vozil na dolenjski avtocesti med Novim mestom in Mirno Pečjo proti Ljubljani ovira promet.
+
+Delo na cesti:
+V Ljubljani bo do ponedeljka, 8. 1. 2024, do 5. ure zjutraj popolna zapora **Dunajske ceste** zaradi rušenja železniškega nadvoza pri glavni železniški postaji. Obvoz je urejen po Samovi, Drenikovi, Celovški in Tivolski cesti.
+
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo,10. 1. med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+**Burja,** prepoved za počitniške prikolice, hladilnike in vozila s ponjavami do 8 ton, 1. stopnja je na:  
+\- H4, vipavski hitri cesti med Selom in Nanosom;  
+\- na regionalni cesti Vipava - Ajdovščina.
+
+Cesta čez prelaz Vršič je zaradi snega zaprta.
+
+Na višje ležečih cestah se sneg oprijema cestišč. Na prelazih so priporočljive verige.
+
+Mednarodne informacije:
+Danes do 22. ure velja omejitev prometa tovornih vozil, katerih največja dovoljena masa presega 7,5 ton.
+
+Poročilo:
+Danes zjutraj na naših cestah ni prijetno potovati. Najprej poročamo o prometni nesreči na štajerski avtocesti med
+Šentrupertom in Vranskim proti Ljubljani, kjer je zaprt prehitevalni pas. Na dolenjski avtocesti med Novim mestom
+in Mirno Pečjo proti Ljubljani več okvarjenih vozil ovira promet. Zato bodite previdni. Če potujete v Ljubljano,
+upoštevajte popolno zaporo Dunajske ceste zaradi rušenja železniškega nadvoza pri glavni železniški postaji vse do
+ponedeljka zjutraj. Obvoz je urejen po Samovi, Drenikovi, Celovški in Tivolski cesti. Na gorenjski avtocesti bo v
+sredo zaprt predor Karavanke zaradi del, promet bo potekal izmenično enosmerno s čakanjem pred predorom. Preverite
+tudi delovne zapore na **prometni napovedi**. Burja ovira promet na vipavski hitri cesti med Selom in Nanosom ter
+na regionalni cesti Vipava - Ajdovščina, zato velja prepoved za počitniške prikolice, hladilnike in vozila s
+ponjavami do 8 ton. Na cestah se sneg oprijema cestišča, zato so verige priporočljive. Cesta čez Vršič je zaradi
+snega zaprta. Danes do 22. ure velja omejitev prometa tovornih vozil nad 7,5 ton. Vozniku želimo srečno in varno
+vožnjo!

@@ -1,0 +1,124 @@
+Analiziraj spodnje prometne podatke in nato napiši prometno poročilo za radijsko branje.
+
+Postopek:
+1. Najprej analiziraj:
+   - Kje so popolne zapore in prometne nesreče.
+   - Kje so največji zastoji.
+   - Kje so ovire na cesti (okvare, predmeti, živali, itd.).
+   - Kakšne so vremenske razmere.
+
+2. Pri analizi upoštevaj naslednja pravila prometnega poročanja:
+   - Najprej poročaj o popolnih zaporah in nesrečah.
+   - Nato poročaj o zastojih.
+   - Nato o manjših ovirah (npr. okvare vozil, predmeti, živali).
+   - Nato o vremenskih razmerah in vplivu na ceste.
+   
+   - Oblikuj povedi v strukturi:
+     [Cesta in smer] + [razlog] + [posledica in odsek].
+     Primer: "Na primorski avtocesti proti Kopru je zaradi prometne nesreče zaprt vozni pas med razcepom Gabrk in priključkom Divača."
+
+   - Za ceste in smeri uporabljaj ustaljena imena:
+     - "primorska avtocesta" (Ljubljana–Koper),
+     - "dolenjska avtocesta" (Ljubljana–Obrežje),
+     - "gorenjska avtocesta" (Ljubljana–Karavanke),
+     - "štajerska avtocesta" (Ljubljana–Maribor),
+     - "pomurska avtocesta" (Maribor–Lendava),
+     - "podravska avtocesta" (Maribor–Gruškovje).
+
+   - Uporabljaj končne destinacije:
+     - proti Avstriji (ne proti Šentilju),
+     - proti Hrvaški, Obrežju, Gruškovju,
+     - proti Madžarski.
+   
+   - Na ljubljanski obvoznici loči:
+     - vzhodna obvoznica: Malence–Zadobrova,
+     - zahodna obvoznica: Koseze–Kozarje,
+     - severna obvoznica: Koseze–Zadobrova,
+     - južna obvoznica: Kozarje–Malence.
+
+   - Posebnosti:
+     - "Mariborska vzhodna obvoznica" (ne štajerska avtocesta),
+     - "proti Italiji" na razcepu Gabrk–Fernetiči,
+     - ne uporabljaj lokalnih imen mest (npr. "proti Ptuju" zamenjaj s "proti Gruškovju").
+
+   - Pri predorih in počivališčih:
+     - Vedno navedi širši odsek (npr. "med priključkoma").
+     - Za "vkopi" uporabljaj izraz "predor" (razen galerije Moste).
+
+   - Pri obvozih:
+     - Jasno navedi obvozne poti ("po vzporedni regionalni cesti" ali konkretno).
+
+   - V jeziku:
+     - "pas za počasna vozila" (ne "počasni pas"),
+     - "izmenično enosmerni promet" (ne "polovična zapora"),
+     - "zaprta je avtocesta proti ..." (ne "zaprta polovica").
+
+   - Zaključi vsako poročilo z vljudnim pozdravom, npr.:
+     "Toliko za zdaj, vozite varno in srečno na poti!"
+
+3. Šele nato, na podlagi analize in zgornjih pravil, napiši končno radijsko prometno poročilo.
+
+Podatki:
+
+Datum: 1/22/24 14:00
+
+Zastoji:
+Zastoj tovornih vozil proti Avstriji:  
+\- Na gorenjski avtocesti pred predorom Karavanke, 3 kilometre.  
+\- Na štajerski avtocesti pred prehodom Šentilj, 2 kilometra.
+Zastoj tovornih vozil proti Avstriji:  
+\- Na gorenjski avtocesti pred predorom Karavanke, 2 kilometra in pol.  
+\- Na štajerski avtocesti pred prehodom Šentilj, 2 kilometra.
+
+Ovire:
+Okvara vozila, oviran promet:  
+\- Na štajerski avtocesti med priključkoma Lukovica in Krtina proti Ljubljani.  
+\- Na mariborski vzhodni obvoznici med priključkom Maribor center in počivališčem Maribor vzhod proti Šentilju.
+
+Delo na cesti:
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je zaprta za ves promet.
+
+Voznike opozarjamo, da je na prelazih v primeru snega na vozišču obvezna uporaba verig.
+
+Splošno:
+Na cesti Ajdovščina - Col - Črni Vrh - Godovič zaradi zimskih razmer velja prepoved za priklopnike in polpriklopnike.
+
+Poročilo:
+Dobro jutro, dober dan ali dober večer, dragi poslušalci! Na naših cestah se trenutno odvijajo naslednje pomembne
+prometne informacije:
+
+1. **Popolne zapore in nesreče:**
+   - Trenutno ni poročil o popolnih zaporah ali večjih prometnih nesrečah, ki bi močno vplivale na promet po Sloveniji.
+
+2. **Zastoji:**
+   - Zastoj tovornih vozil proti Avstriji:
+     \- Na gorenjski avtocesti pred predorom Karavanke je zastoj dolg 3 kilometre.
+     \- Na štajerski avtocesti pred prehodom Šentilj je zastoj dolg 2 kilometra.
+
+   - Zastoj tovornih vozil proti Avstriji:
+     \- Na gorenjski avtocesti pred predorom Karavanke je zastoj dolg 2,5 kilometra.
+     \- Na štajerski avtocesti pred prehodom Šentilj je zastoj dolg 2 kilometra.
+
+3. **Ovire na cesti:**
+   - Okvara vozila ovira promet:
+     \- Na štajerski avtocesti med priključkoma Lukovica in Krtina proti Ljubljani.
+     \- Na mariborski vzhodni obvoznici med priključkom Maribor center in počivališčem Maribor vzhod proti Šentilju.
+
+   - Delo na cesti:
+     Več informacij o delovnih zaporah lahko najdete v prometni napovedi.
+
+4. **Vremenske razmere:**
+   - Cesta čez prelaz Vršič je zaprta za ves promet. Voznike opozarjamo, da je na prelazih v primeru snega na vozišču
+obvezna uporaba verig.
+   - Na cesti Ajdovščina - Col - Črni Vrh - Godovič zaradi zimskih razmer velja prepoved za priklopnike in
+polpriklopnike.
+
+5. **Splošno:**
+   Na naših cestah trenutno ni posebnih opozoril ali izrednih dogodkov, ki bi vplivali na promet poleg zgoraj navedenih
+informacij.
+
+Za dodatne podrobnosti o delovnih zaporah in drugih pomembnih informacijah preverite prometno napoved. Vozniku želimo
+srečno vožnjo!

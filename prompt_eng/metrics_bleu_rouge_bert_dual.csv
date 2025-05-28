@@ -1,0 +1,201 @@
+Mapa;Datoteka;Referenca;Ujemanje;BLEU;ROUGE-L;BERTScore
+data_1;cot + few.txt;expected_output.txt;1 vs 5;0.0061;0.0357;0.5695
+data_1;cot + few.txt;expected_output_gpt.txt;1 vs 5;0.0026;0.0462;0.6006
+data_1;cot.txt;expected_output.txt;1 vs 5;0.0143;0.1111;0.6227
+data_1;cot.txt;expected_output_gpt.txt;1 vs 5;0.0334;0.2609;0.6915
+data_1;few_shot.txt;expected_output.txt;1 vs 5;0.0029;0.0270;0.5927
+data_1;few_shot.txt;expected_output_gpt.txt;1 vs 5;0.0062;0.1519;0.6931
+data_1;zero_shot.txt;expected_output.txt;1 vs 5;0.0000;0.0000;0.5940
+data_1;zero_shot.txt;expected_output_gpt.txt;1 vs 5;0.0000;0.0286;0.6087
+data_1;few_shot_gpt.txt;expected_output.txt;1 vs 5;0.0027;0.0260;0.5933
+data_1;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 5;0.0068;0.1707;0.6929
+data_10;cot + few.txt;expected_output.txt;1 vs 7;0.0625;0.6250;0.8351
+data_10;cot + few.txt;expected_output_gpt.txt;1 vs 6;0.0295;0.6316;0.8222
+data_10;cot.txt;expected_output.txt;1 vs 7;0.0000;0.0000;0.6401
+data_10;cot.txt;expected_output_gpt.txt;1 vs 6;0.0000;0.0000;0.6268
+data_10;few_shot.txt;expected_output.txt;1 vs 7;0.0061;0.1235;0.6519
+data_10;few_shot.txt;expected_output_gpt.txt;1 vs 6;0.0068;0.1190;0.6404
+data_10;zero_shot.txt;expected_output.txt;1 vs 7;0.0000;0.0267;0.5973
+data_10;zero_shot.txt;expected_output_gpt.txt;1 vs 6;0.0029;0.0513;0.6045
+data_10;few_shot_gpt.txt;expected_output.txt;1 vs 7;0.0124;0.1373;0.6914
+data_10;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 6;0.0783;0.2095;0.7253
+data_11;cot + few_gpt.txt;expected_output.txt;1 vs 5;0.3508;0.7826;0.9169
+data_11;cot.txt;expected_output.txt;1 vs 5;0.0000;0.0000;0.5929
+data_11;cot.txt;expected_output_gpt.txt;1 vs 8;0.0000;0.0000;0.5903
+data_11;few_shot.txt;expected_output.txt;1 vs 5;0.0039;0.0930;0.6240
+data_11;few_shot.txt;expected_output_gpt.txt;1 vs 8;0.0039;0.1231;0.6266
+data_11;zero_shot.txt;expected_output.txt;1 vs 5;0.0020;0.0370;0.5592
+data_11;zero_shot.txt;expected_output_gpt.txt;1 vs 8;0.0023;0.0550;0.5652
+data_11;few_shot_gpt.txt;expected_output.txt;1 vs 5;0.0297;0.1406;0.6566
+data_11;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 8;0.0846;0.1860;0.6844
+data_12;cot + few_gpt.txt;expected_output.txt;1 vs 9;0.0000;0.2353;0.6999
+data_12;cot + few_gpt.txt;expected_output_gpt.txt;1 vs 8;0.0162;0.3333;0.7374
+data_12;cot.txt;expected_output.txt;1 vs 9;0.0050;0.0400;0.5902
+data_12;cot.txt;expected_output_gpt.txt;1 vs 8;0.0050;0.0392;0.5893
+data_12;few_shot.txt;expected_output.txt;1 vs 9;0.0030;0.0736;0.6071
+data_12;few_shot.txt;expected_output_gpt.txt;1 vs 8;0.0030;0.0854;0.6114
+data_12;zero_shot.txt;expected_output.txt;1 vs 9;0.0018;0.0333;0.5892
+data_12;zero_shot.txt;expected_output_gpt.txt;1 vs 8;0.0021;0.0661;0.5914
+data_12;few_shot_gpt.txt;expected_output.txt;1 vs 9;0.1153;0.6957;0.8917
+data_12;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 8;0.6340;0.9167;0.9464
+data_13;cot + few_gpt.txt;expected_output.txt;1 vs 14;0.0241;0.6364;0.8310
+data_13;cot + few_gpt.txt;expected_output_gpt.txt;1 vs 5;0.1003;0.8000;0.8866
+data_13;cot.txt;expected_output.txt;1 vs 14;0.0041;0.0351;0.6121
+data_13;cot.txt;expected_output_gpt.txt;1 vs 5;0.0041;0.0333;0.6085
+data_13;few_shot.txt;expected_output.txt;1 vs 14;0.0068;0.1644;0.6749
+data_13;few_shot.txt;expected_output_gpt.txt;1 vs 5;0.0077;0.1842;0.6728
+data_13;zero_shot.txt;expected_output.txt;1 vs 14;0.0025;0.0471;0.6240
+data_13;zero_shot.txt;expected_output_gpt.txt;1 vs 5;0.0032;0.0909;0.6250
+data_13;few_shot_gpt.txt;expected_output.txt;1 vs 14;0.0061;0.1778;0.6884
+data_13;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 5;0.0365;0.2366;0.7130
+data_14;cot + few_gpt.txt;expected_output.txt;1 vs 9;0.0202;0.5000;0.7952
+data_14;cot + few_gpt.txt;expected_output_gpt.txt;1 vs 6;0.0967;0.7407;0.8568
+data_14;cot.txt;expected_output.txt;1 vs 9;0.0000;0.0588;0.5933
+data_14;cot.txt;expected_output_gpt.txt;1 vs 6;0.0083;0.1081;0.5885
+data_14;few_shot.txt;expected_output.txt;1 vs 9;0.0047;0.1042;0.6654
+data_14;few_shot.txt;expected_output_gpt.txt;1 vs 6;0.0056;0.1818;0.6669
+data_14;zero_shot.txt;expected_output.txt;1 vs 9;0.0000;0.0299;0.6135
+data_14;zero_shot.txt;expected_output_gpt.txt;1 vs 6;0.0033;0.0571;0.6128
+data_14;few_shot_gpt.txt;expected_output.txt;1 vs 9;0.1228;0.6667;0.8364
+data_14;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 6;0.3782;0.9167;0.9263
+data_15;cot + few_gpt.txt;expected_output.txt;2 vs 10;0.0170;0.1250;0.6597
+data_15;cot + few_gpt.txt;expected_output_gpt.txt;2 vs 11;0.1072;0.3202;0.7914
+data_15;cot.txt;expected_output.txt;1 vs 10;0.0087;0.1714;0.6935
+data_15;cot.txt;expected_output_gpt.txt;1 vs 11;0.0114;0.3158;0.7048
+data_15;few_shot.txt;expected_output.txt;1 vs 10;0.0015;0.0320;0.6223
+data_15;few_shot.txt;expected_output_gpt.txt;1 vs 11;0.0038;0.0781;0.6372
+data_15;zero_shot.txt;expected_output.txt;1 vs 10;0.0014;0.0134;0.5585
+data_15;zero_shot.txt;expected_output_gpt.txt;1 vs 11;0.0016;0.0263;0.5628
+data_15;few_shot_gpt.txt;expected_output.txt;1 vs 10;0.0286;0.1250;0.7482
+data_15;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 11;0.0187;0.1053;0.7534
+data_16;cot + few_gpt.txt;expected_output.txt;1 vs 9;0.0596;0.7826;0.9362
+data_16;cot.txt;expected_output.txt;1 vs 9;0.0000;0.1212;0.6150
+data_16;cot.txt;expected_output_gpt.txt;1 vs 8;0.0000;0.1176;0.6213
+data_16;few_shot.txt;expected_output.txt;1 vs 9;0.0625;0.6667;0.8616
+data_16;few_shot.txt;expected_output_gpt.txt;1 vs 8;0.0295;0.7368;0.8475
+data_16;zero_shot.txt;expected_output.txt;1 vs 9;0.0031;0.0274;0.5511
+data_16;zero_shot.txt;expected_output_gpt.txt;1 vs 8;0.0031;0.0270;0.5588
+data_16;few_shot_gpt.txt;expected_output.txt;1 vs 9;0.0050;0.1212;0.6607
+data_16;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 8;0.0583;0.1654;0.6753
+data_17;cot + few_gpt.txt;expected_output.txt;1 vs 6;0.0309;0.3704;0.7873
+data_17;cot + few_gpt.txt;expected_output_gpt.txt;1 vs 8;0.0351;0.5333;0.8139
+data_17;cot.txt;expected_output.txt;1 vs 6;0.0000;0.0000;0.6348
+data_17;cot.txt;expected_output_gpt.txt;1 vs 8;0.0000;0.0000;0.6250
+data_17;few_shot.txt;expected_output.txt;1 vs 6;0.0039;0.1071;0.6635
+data_17;few_shot.txt;expected_output_gpt.txt;1 vs 8;0.0044;0.1391;0.6473
+data_17;zero_shot.txt;expected_output.txt;1 vs 6;0.0000;0.0000;0.5767
+data_17;zero_shot.txt;expected_output_gpt.txt;1 vs 8;0.0000;0.0000;0.5741
+data_17;few_shot_gpt.txt;expected_output.txt;1 vs 6;0.0044;0.1061;0.6443
+data_17;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 8;0.0549;0.1630;0.6652
+data_18;cot + few_gpt.txt;expected_output.txt;1 vs 15;0.0309;0.6429;0.7811
+data_18;cot + few_gpt.txt;expected_output_gpt.txt;1 vs 9;0.0407;0.6897;0.8001
+data_18;cot.txt;expected_output.txt;1 vs 15;0.0000;0.0000;0.5961
+data_18;cot.txt;expected_output_gpt.txt;1 vs 9;0.0000;0.0000;0.5984
+data_18;few_shot.txt;expected_output.txt;1 vs 15;0.0033;0.0927;0.6208
+data_18;few_shot.txt;expected_output_gpt.txt;1 vs 9;0.0033;0.1053;0.6195
+data_18;zero_shot.txt;expected_output.txt;1 vs 15;0.0013;0.0247;0.5578
+data_18;zero_shot.txt;expected_output_gpt.txt;1 vs 9;0.0013;0.0245;0.5621
+data_18;few_shot_gpt.txt;expected_output.txt;1 vs 15;0.4111;0.8000;0.8561
+data_18;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 9;0.5259;0.8571;0.9026
+data_19;cot + few_gpt.txt;expected_output.txt;1 vs 7;0.0366;0.5556;0.8041
+data_19;cot + few_gpt.txt;expected_output_gpt.txt;1 vs 6;0.0480;0.6667;0.8349
+data_19;cot.txt;expected_output.txt;1 vs 7;0.0000;0.0000;0.5780
+data_19;cot.txt;expected_output_gpt.txt;1 vs 6;0.0034;0.0286;0.5811
+data_19;few_shot.txt;expected_output.txt;1 vs 7;0.0120;0.1087;0.6569
+data_19;few_shot.txt;expected_output_gpt.txt;1 vs 6;0.0148;0.1684;0.6618
+data_19;zero_shot.txt;expected_output.txt;1 vs 7;0.0399;0.2105;0.7092
+data_19;zero_shot.txt;expected_output_gpt.txt;1 vs 6;0.0441;0.1818;0.7120
+data_19;few_shot_gpt.txt;expected_output.txt;1 vs 7;0.0038;0.0656;0.6161
+data_19;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 6;0.0043;0.1120;0.6351
+data_2;cot + few.txt;expected_output.txt;1 vs 5;0.0000;0.3000;0.7555
+data_2;cot + few.txt;expected_output_gpt.txt;1 vs 9;0.0606;0.4706;0.8810
+data_2;cot.txt;expected_output.txt;1 vs 5;0.0000;0.0000;0.5818
+data_2;cot.txt;expected_output_gpt.txt;1 vs 9;0.0000;0.0000;0.6052
+data_2;few_shot.txt;expected_output.txt;1 vs 5;0.0069;0.1687;0.6794
+data_2;few_shot.txt;expected_output_gpt.txt;1 vs 9;0.0065;0.1500;0.6724
+data_2;zero_shot.txt;expected_output.txt;1 vs 5;0.0025;0.0222;0.5686
+data_2;zero_shot.txt;expected_output_gpt.txt;1 vs 9;0.0000;0.0000;0.5813
+data_2;few_shot_gpt.txt;expected_output.txt;1 vs 5;0.0048;0.0917;0.6604
+data_2;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 9;0.0061;0.0943;0.6923
+data_20;cot + few_gpt.txt;expected_output.txt;1 vs 7;0.0202;0.5000;0.7842
+data_20;cot + few_gpt.txt;expected_output_gpt.txt;1 vs 8;0.0967;0.7407;0.8558
+data_20;cot.txt;expected_output.txt;1 vs 7;0.0000;0.0328;0.5631
+data_20;cot.txt;expected_output_gpt.txt;1 vs 8;0.0035;0.0625;0.5699
+data_20;few_shot.txt;expected_output.txt;1 vs 7;0.0316;0.5263;0.7763
+data_20;few_shot.txt;expected_output_gpt.txt;1 vs 8;0.0607;0.6364;0.7967
+data_20;zero_shot.txt;expected_output.txt;1 vs 7;0.0000;0.0000;0.5495
+data_20;zero_shot.txt;expected_output_gpt.txt;1 vs 8;0.0014;0.0148;0.5711
+data_20;few_shot_gpt.txt;expected_output.txt;1 vs 7;0.0014;0.0722;0.6021
+data_20;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 8;0.0068;0.1117;0.6196
+data_3;cot + few.txt;expected_output.txt;1 vs 9;0.0443;0.2353;0.6519
+data_3;cot + few.txt;expected_output_gpt.txt;1 vs 9;0.0619;0.2857;0.7080
+data_3;cot.txt;expected_output.txt;1 vs 9;0.0010;0.0100;0.5410
+data_3;cot.txt;expected_output_gpt.txt;1 vs 9;0.0000;0.0102;0.5503
+data_3;few_shot.txt;expected_output.txt;1 vs 9;0.0015;0.0602;0.6105
+data_3;few_shot.txt;expected_output_gpt.txt;1 vs 9;0.0015;0.0613;0.6237
+data_3;zero_shot.txt;expected_output.txt;1 vs 9;0.0012;0.0117;0.5601
+data_3;zero_shot.txt;expected_output_gpt.txt;1 vs 9;0.0000;0.0119;0.5677
+data_3;few_shot_gpt.txt;expected_output.txt;1 vs 9;0.0033;0.0577;0.6262
+data_3;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 9;0.0027;0.0585;0.6139
+data_4;cot + few.txt;expected_output.txt;1 vs 11;0.0348;0.6667;0.8226
+data_4;cot + few.txt;expected_output_gpt.txt;1 vs 8;0.0293;0.7059;0.7869
+data_4;cot.txt;expected_output.txt;1 vs 11;0.0000;0.0000;0.6098
+data_4;cot.txt;expected_output_gpt.txt;1 vs 8;0.0000;0.0000;0.6277
+data_4;few_shot.txt;expected_output.txt;1 vs 11;0.0031;0.0491;0.6129
+data_4;few_shot.txt;expected_output_gpt.txt;1 vs 8;0.0028;0.0617;0.6071
+data_4;zero_shot.txt;expected_output.txt;1 vs 11;0.0000;0.0315;0.6018
+data_4;zero_shot.txt;expected_output_gpt.txt;1 vs 8;0.0020;0.0635;0.6096
+data_4;few_shot_gpt.txt;expected_output.txt;1 vs 11;0.0360;0.1667;0.7254
+data_4;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 8;0.0399;0.3478;0.7661
+data_5;cot + few.txt;expected_output.txt;1 vs 14;0.0249;0.6000;0.7826
+data_5;cot + few.txt;expected_output_gpt.txt;1 vs 8;0.0211;0.6667;0.7859
+data_5;cot.txt;expected_output.txt;1 vs 14;0.0143;0.0714;0.6154
+data_5;cot.txt;expected_output_gpt.txt;1 vs 8;0.0143;0.0690;0.6099
+data_5;few_shot.txt;expected_output.txt;1 vs 14;0.0036;0.0940;0.6423
+data_5;few_shot.txt;expected_output_gpt.txt;1 vs 8;0.0038;0.1200;0.6454
+data_5;zero_shot.txt;expected_output.txt;1 vs 14;0.0013;0.0319;0.5711
+data_5;zero_shot.txt;expected_output_gpt.txt;1 vs 8;0.0013;0.0423;0.5803
+data_5;few_shot_gpt.txt;expected_output.txt;1 vs 14;0.0163;0.0851;0.6234
+data_5;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 8;0.0395;0.1164;0.6413
+data_6;cot + few.txt;expected_output.txt;1 vs 4;0.0026;0.0515;0.6099
+data_6;cot + few.txt;expected_output_gpt.txt;1 vs 7;0.0036;0.0711;0.6100
+data_6;cot.txt;expected_output.txt;1 vs 4;0.0000;0.0000;0.5415
+data_6;cot.txt;expected_output_gpt.txt;1 vs 7;0.0015;0.0230;0.5632
+data_6;few_shot.txt;expected_output.txt;1 vs 4;0.0030;0.0537;0.6127
+data_6;few_shot.txt;expected_output_gpt.txt;1 vs 7;0.0036;0.0658;0.6126
+data_6;zero_shot.txt;expected_output.txt;1 vs 4;0.0000;0.0000;0.5351
+data_6;zero_shot.txt;expected_output_gpt.txt;1 vs 7;0.0012;0.0192;0.5583
+data_6;few_shot_gpt.txt;expected_output.txt;1 vs 4;0.0035;0.0658;0.6367
+data_6;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 7;0.0399;0.1290;0.6706
+data_7;cot + few.txt;expected_output.txt;1 vs 11;0.0332;0.3846;0.7729
+data_7;cot + few.txt;expected_output_gpt.txt;1 vs 11;0.0351;0.3704;0.7921
+data_7;cot.txt;expected_output.txt;1 vs 11;0.0121;0.1111;0.6185
+data_7;cot.txt;expected_output_gpt.txt;1 vs 11;0.0121;0.1081;0.6175
+data_7;few_shot.txt;expected_output.txt;1 vs 11;0.0024;0.0374;0.5858
+data_7;few_shot.txt;expected_output_gpt.txt;1 vs 11;0.0025;0.0558;0.5980
+data_7;zero_shot.txt;expected_output.txt;1 vs 11;0.0015;0.0227;0.5470
+data_7;zero_shot.txt;expected_output_gpt.txt;1 vs 11;0.0015;0.0226;0.5522
+data_7;few_shot_gpt.txt;expected_output.txt;1 vs 11;0.0104;0.0561;0.6188
+data_7;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 11;0.0200;0.0769;0.6366
+data_8;cot + few.txt;expected_output.txt;1 vs 13;0.0016;0.0295;0.5733
+data_8;cot + few.txt;expected_output_gpt.txt;1 vs 8;0.0020;0.0511;0.5870
+data_8;cot.txt;expected_output.txt;1 vs 13;0.0170;0.1481;0.6419
+data_8;cot.txt;expected_output_gpt.txt;1 vs 8;0.0170;0.1333;0.6296
+data_8;few_shot.txt;expected_output.txt;1 vs 13;0.0025;0.0702;0.6162
+data_8;few_shot.txt;expected_output_gpt.txt;1 vs 8;0.0028;0.0920;0.6131
+data_8;zero_shot.txt;expected_output.txt;1 vs 13;0.0000;0.0000;0.5611
+data_8;zero_shot.txt;expected_output_gpt.txt;1 vs 8;0.0019;0.0171;0.5616
+data_8;few_shot_gpt.txt;expected_output.txt;1 vs 13;0.0298;0.5455;0.7948
+data_8;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 8;0.2631;0.8000;0.8762
+data_9;cot + few.txt;expected_output.txt;1 vs 12;0.0187;0.6667;0.7726
+data_9;cot + few.txt;expected_output_gpt.txt;1 vs 8;0.0187;0.6667;0.7882
+data_9;cot.txt;expected_output.txt;1 vs 12;0.0108;0.0588;0.5884
+data_9;cot.txt;expected_output_gpt.txt;1 vs 8;0.0108;0.0588;0.5931
+data_9;few_shot.txt;expected_output.txt;1 vs 12;0.0295;0.5263;0.7474
+data_9;few_shot.txt;expected_output_gpt.txt;1 vs 8;0.0295;0.5263;0.7468
+data_9;zero_shot.txt;expected_output.txt;1 vs 12;0.0000;0.0000;0.5717
+data_9;zero_shot.txt;expected_output_gpt.txt;1 vs 8;0.0000;0.0000;0.5749
+data_9;few_shot_gpt.txt;expected_output.txt;1 vs 12;0.0232;0.1198;0.6438
+data_9;few_shot_gpt.txt;expected_output_gpt.txt;1 vs 8;0.0662;0.1437;0.6633
+;;;;;;
+;;;;;;

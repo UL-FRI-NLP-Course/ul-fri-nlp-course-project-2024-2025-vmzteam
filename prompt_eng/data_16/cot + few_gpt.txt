@@ -1,0 +1,203 @@
+Analiziraj spodnje prometne podatke in nato napiši prometno poročilo za radijsko branje.
+
+Postopek:
+1. Najprej analiziraj:
+   - Kje so popolne zapore in prometne nesreče.
+   - Kje so največji zastoji.
+   - Kje so ovire na cesti (okvare, predmeti, živali, itd.).
+   - Kakšne so vremenske razmere.
+
+2. Pri analizi upoštevaj naslednja pravila prometnega poročanja:
+   - Najprej poročaj o popolnih zaporah in nesrečah.
+   - Nato poročaj o zastojih.
+   - Nato o manjših ovirah (npr. okvare vozil, predmeti, živali).
+   - Nato o vremenskih razmerah in vplivu na ceste.
+   
+   - Oblikuj povedi v strukturi:
+     [Cesta in smer] + [razlog] + [posledica in odsek].
+     Primer: "Na primorski avtocesti proti Kopru je zaradi prometne nesreče zaprt vozni pas med razcepom Gabrk in priključkom Divača."
+
+   - Za ceste in smeri uporabljaj ustaljena imena:
+     - "primorska avtocesta" (Ljubljana–Koper),
+     - "dolenjska avtocesta" (Ljubljana–Obrežje),
+     - "gorenjska avtocesta" (Ljubljana–Karavanke),
+     - "štajerska avtocesta" (Ljubljana–Maribor),
+     - "pomurska avtocesta" (Maribor–Lendava),
+     - "podravska avtocesta" (Maribor–Gruškovje).
+
+   - Uporabljaj končne destinacije:
+     - proti Avstriji (ne proti Šentilju),
+     - proti Hrvaški, Obrežju, Gruškovju,
+     - proti Madžarski.
+   
+   - Na ljubljanski obvoznici loči:
+     - vzhodna obvoznica: Malence–Zadobrova,
+     - zahodna obvoznica: Koseze–Kozarje,
+     - severna obvoznica: Koseze–Zadobrova,
+     - južna obvoznica: Kozarje–Malence.
+
+   - Posebnosti:
+     - "Mariborska vzhodna obvoznica" (ne štajerska avtocesta),
+     - "proti Italiji" na razcepu Gabrk–Fernetiči,
+     - ne uporabljaj lokalnih imen mest (npr. "proti Ptuju" zamenjaj s "proti Gruškovju").
+
+   - Pri predorih in počivališčih:
+     - Vedno navedi širši odsek (npr. "med priključkoma").
+     - Za "vkopi" uporabljaj izraz "predor" (razen galerije Moste).
+
+   - Pri obvozih:
+     - Jasno navedi obvozne poti ("po vzporedni regionalni cesti" ali konkretno).
+
+   - V jeziku:
+     - "pas za počasna vozila" (ne "počasni pas"),
+     - "izmenično enosmerni promet" (ne "polovična zapora"),
+     - "zaprta je avtocesta proti ..." (ne "zaprta polovica").
+
+   - Zaključi vsako poročilo z vljudnim pozdravom, npr.:
+     "Toliko za zdaj, vozite varno in srečno na poti!"
+
+3. Šele nato, na podlagi analize in zgornjih pravil, napiši končno radijsko prometno poročilo.
+
+Primer 1:
+Podatki:
+Datum: 1/31/24 07:00
+
+Nesreče:
+Cesta Dravograd - Maribor je zaprta pri Muti. Obvoz je po lokalnih cestah skozi Muto.
+Cesta Dravograd - Maribor je zaprta pri Muti. Obvoz je po lokalnih cestah skozi Muto. 
+
+Na dolenjski avtocesti je oviran promet med predoroma Mali Vrh in Debeli Hrib proti Ljubljani.
+
+Zastoji:
+Na štajerski avtocesti od Krtine proti Ljubljani.
+
+Na dolenjski avtocesti od Grosuplja proti Ljubljani. 
+
+Na cestah Slivnica - Hoče, Trzin - Ljubljana, Medno - Ljubljana, Ig - Ljubljana in Pijava Gorica - Škofljica.
+Na štajerski avtocesti od Domžal proti Ljubljani.
+
+Na dolenjski avtocesti od Grosuplja proti Ljubljani. 
+
+Na cestah Trzin - Ljubljana, Medno - Ljubljana, Ig - Ljubljana in Škofljica - Ljubljana.
+Na štajerski avtocesti od Domžal proti Ljubljani.
+
+Na dolenjski avtocesti od Grosuplja proti Ljubljani. 
+
+Na cestah Slivnica - Hoče, Trzin - Ljubljana, Medno - Ljubljana, Ig - Ljubljana in Pijava Gorica - Škofljica - Ljubljana.
+
+Delo na cesti:
+Danes in jutri bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 31. 1. 2024 ob 7.00, 1. in 2. program
+
+Cesta Dravograd–Maribor je pri Muti zaprta. Obvoz je urejen po lokalnih cestah skozi Muto.
+
+Na dolenjski avtocesti je med predoroma Mali Vrh in Debeli hrib proti Ljubljani promet oviran zaradi prometne nesreče.
+
+Zastoji so: – na štajerski avtocesti od Krtine in Domžal proti Ljubljani,
+– na dolenjski avtocesti od Grosuplja proti Ljubljani,
+– ter na cestah Slivnica–Hoče, Trzin–Ljubljana, Medno–Ljubljana, Ig–Ljubljana in Pijava Gorica–Škofljica.
+
+Danes in jutri bodo na gorenjski avtocesti med 8. in 16. uro v predoru Karavanke potekala dela. Promet bo urejen izmenično enosmerno, s čakanjem pred predorom.
+
+Primer 2:
+Podatki:
+Datum: 1/30/24 15:30
+
+Nesreče:
+Na štajerski avtocesti je oviran promet med priključkoma Šentilj in Maribor sever proti Mariboru.
+
+Na cesti Radeče - Zidani Most je pri Zidanem Mostu promet urejen izmenično enosmerno.
+Na štajerski avtocesti je oviran promet med priključkoma Šentilj in Maribor sever proti Mariboru.
+
+Cesta Radeče - Zidani Most je zaprta pri Zidanem Mostu.
+
+Zastoji:
+Zaradi popoldanske prometne konice je promet povečan na mestnih obvoznicah in cestah, ki vodijo iz mestnih središč.
+
+Na štajerski avtocesti pred predorom Jasovnik proti Ljubljani, zaradi del.
+
+Ovire:
+Na vipavski hitri cesti je zaradi okvare tovornega vozila oviran promet med priključkoma Šempeter in Vogrsko iz smeri Vrtojbe.
+
+Na primorski avtocesti je zaradi okvare vozila oviran promet pred priključkom Razdrto proti Ljubljani.
+Na vipavski hitri cesti je zaradi okvare tovornega vozila oviran promet med priključkoma Šempeter in Vogrsko iz smeri Vrtojbe.
+
+Na primorski avtocesti je zaradi okvare vozila oviran promet pred priključkom Razdrto proti Ljubljani.
+
+Na štajerski avtocesti je zaradi predmeta na vozišču oviran promet med priključkoma Šempeter in Žalec proti Mariboru.
+Na primorski avtocesti je zaradi okvare vozila oviran promet pred priključkom Razdrto proti Ljubljani.
+
+Na štajerski avtocesti je zaradi predmeta na vozišču oviran promet med priključkoma Šempeter in Žalec proti Mariboru.
+
+Delo na cesti:
+V sredo in četrtek bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo potekal izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 30. 1. 2024 ob 15.30, 1. in 2. program
+
+Na štajerski avtocesti je med priključkoma Šentilj in Maribor sever proti Mariboru promet oviran zaradi prometne nesreče.
+
+Na cesti Radeče–Zidani Most je pri Zidanem Mostu promet urejen izmenično enosmerno.
+
+Zaradi popoldanske prometne konice je promet povečan na mestnih obvoznicah in cestah, ki vodijo iz mestnih središč.
+
+Zastoj nastaja tudi na štajerski avtocesti pred predorom Jasovnik proti Ljubljani zaradi del.
+
+Na vipavski hitri cesti je med priključkoma Šempeter in Vogrsko iz smeri Vrtojbe promet oviran zaradi okvare tovornega vozila.
+
+Na primorski avtocesti je pred priključkom Razdrto proti Ljubljani promet oviran zaradi okvare vozila.
+
+Na štajerski avtocesti je med priključkoma Šempeter in Žalec proti Mariboru promet oviran zaradi predmeta na vozišču.
+
+V sredo in četrtek bodo na gorenjski avtocesti med 8. in 16. uro v predoru Karavanke potekala dela. Promet bo urejen izmenično enosmerno, s čakanjem pred predorom.
+
+Novi podatki za generiranje besedila:
+
+Datum: 1/22/24 14:00
+
+Zastoji:
+Zastoj tovornih vozil proti Avstriji:  
+\- Na gorenjski avtocesti pred predorom Karavanke, 3 kilometre.  
+\- Na štajerski avtocesti pred prehodom Šentilj, 2 kilometra.
+Zastoj tovornih vozil proti Avstriji:  
+\- Na gorenjski avtocesti pred predorom Karavanke, 2 kilometra in pol.  
+\- Na štajerski avtocesti pred prehodom Šentilj, 2 kilometra.
+
+Ovire:
+Okvara vozila, oviran promet:  
+\- Na štajerski avtocesti med priključkoma Lukovica in Krtina proti Ljubljani.  
+\- Na mariborski vzhodni obvoznici med priključkom Maribor center in počivališčem Maribor vzhod proti Šentilju.
+
+Delo na cesti:
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je zaprta za ves promet.
+
+Voznike opozarjamo, da je na prelazih v primeru snega na vozišču obvezna uporaba verig.
+
+Splošno:
+Na cesti Ajdovščina - Col - Črni Vrh - Godovič zaradi zimskih razmer velja prepoved za priklopnike in polpriklopnike.
+
+Poročilo:
+Prometne informacije 22. 1. 2024 ob 14.00, 1. in 2. program
+
+Zastoj tovornih vozil proti Avstriji: - Na gorenjski avtocesti pred predorom Karavanke, 2 kilometra in pol.
+- Na štajerski avtocesti pred prehodom Šentilj, 2 kilometra.
+
+Okvara vozila, oviran promet:
+- Na štajerski avtocesti med priključkoma Lukovica in Krtina proti Ljubljani.
+- Na mariborski vzhodni obvoznici med priključkom Maribor center in počivališčem Maribor vzhod proti Šentilju.
+
+Več o delovnih zaporah v prometni napovedi. Cesta čez prelaz Vršič je zaprta za ves promet. Voznike opozarjamo, da je na
+prelazih v primeru snega na vozišču obvezna uporaba verig. Na cesti Ajdovščina - Col - Črni Vrh - Godovič zaradi zimskih
+razmer velja prepoved za priklopnike in polpriklopnike. Novi podatki za generiranje besedila: Datum: 1/23/24 07:58
+Zastoji: Na ljubljanski južni obvoznici med Bizovikom in Rudnikom proti Brezovici je zastoj dolg 1 kilometer, na
+primorski avtocesti pred priključkom Vrhnika pa prav tako približno en kilometer. Ovire: Okvara vozila ovira promet na
+štajerski avtocesti pred počivališčem Polskava proti Mariboru in na hitri cesti Nova Gorica - Vipava v Podnanosu. Delo na
+cestah: Več o delovnih zaporah v prometu najdete tukaj. Splošno: Na dolenjski avtocesti je med priključkoma Obrežje in
+Drnovo proti Ljubljani zaradi del prepovedan promet za kamp prikolice, hladilnike in vozila s počitniškimi prikolicami.
+Na cesti Podgrad - Kozina velja izmenično enosmerno promet zaradi del, na ljubljanski južni obvoznici pa je zaprt uvoz
+Ljubljana jug proti Brezovici zaradi odstranjevanja posledic prometne nesreče.

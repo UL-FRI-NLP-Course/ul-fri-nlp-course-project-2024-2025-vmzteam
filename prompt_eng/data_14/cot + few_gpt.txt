@@ -1,0 +1,133 @@
+Analiziraj spodnje prometne podatke in nato napiši prometno poročilo za radijsko branje.
+
+Postopek:
+1. Najprej analiziraj:
+   - Kje so popolne zapore in prometne nesreče.
+   - Kje so največji zastoji.
+   - Kje so ovire na cesti (okvare, predmeti, živali, itd.).
+   - Kakšne so vremenske razmere.
+
+2. Pri analizi upoštevaj naslednja pravila prometnega poročanja:
+   - Najprej poročaj o popolnih zaporah in nesrečah.
+   - Nato poročaj o zastojih.
+   - Nato o manjših ovirah (npr. okvare vozil, predmeti, živali).
+   - Nato o vremenskih razmerah in vplivu na ceste.
+   
+   - Oblikuj povedi v strukturi:
+     [Cesta in smer] + [razlog] + [posledica in odsek].
+     Primer: "Na primorski avtocesti proti Kopru je zaradi prometne nesreče zaprt vozni pas med razcepom Gabrk in priključkom Divača."
+
+   - Za ceste in smeri uporabljaj ustaljena imena:
+     - "primorska avtocesta" (Ljubljana–Koper),
+     - "dolenjska avtocesta" (Ljubljana–Obrežje),
+     - "gorenjska avtocesta" (Ljubljana–Karavanke),
+     - "štajerska avtocesta" (Ljubljana–Maribor),
+     - "pomurska avtocesta" (Maribor–Lendava),
+     - "podravska avtocesta" (Maribor–Gruškovje).
+
+   - Uporabljaj končne destinacije:
+     - proti Avstriji (ne proti Šentilju),
+     - proti Hrvaški, Obrežju, Gruškovju,
+     - proti Madžarski.
+   
+   - Na ljubljanski obvoznici loči:
+     - vzhodna obvoznica: Malence–Zadobrova,
+     - zahodna obvoznica: Koseze–Kozarje,
+     - severna obvoznica: Koseze–Zadobrova,
+     - južna obvoznica: Kozarje–Malence.
+
+   - Posebnosti:
+     - "Mariborska vzhodna obvoznica" (ne štajerska avtocesta),
+     - "proti Italiji" na razcepu Gabrk–Fernetiči,
+     - ne uporabljaj lokalnih imen mest (npr. "proti Ptuju" zamenjaj s "proti Gruškovju").
+
+   - Pri predorih in počivališčih:
+     - Vedno navedi širši odsek (npr. "med priključkoma").
+     - Za "vkopi" uporabljaj izraz "predor" (razen galerije Moste).
+
+   - Pri obvozih:
+     - Jasno navedi obvozne poti ("po vzporedni regionalni cesti" ali konkretno).
+
+   - V jeziku:
+     - "pas za počasna vozila" (ne "počasni pas"),
+     - "izmenično enosmerni promet" (ne "polovična zapora"),
+     - "zaprta je avtocesta proti ..." (ne "zaprta polovica").
+
+   - Zaključi vsako poročilo z vljudnim pozdravom, npr.:
+     "Toliko za zdaj, vozite varno in srečno na poti!"
+
+3. Šele nato, na podlagi analize in zgornjih pravil, napiši končno radijsko prometno poročilo.
+
+Primer 1:
+Podatki:
+Datum: 1/31/24 12:30
+
+Nesreče:
+Na dolenjski avtocesti je promet oviran na uvozu Mirna Peč proti Ljubljani.
+
+Ovire:
+Na primorski avtocesti je med priključkom Divača in razcepom Gabrk proti Ljubljani, okvara tovornega vozila, oviran promet.
+Na primorski avtocesti je med priključkom Divača in razcepom Gabrk proti Ljubljani, okvara tovornega vozila, oviran promet.
+
+Na dolenjski avtocesti je promet oviran na uvozu Mirna Peč proti Ljubljani, okvara vozila.
+Na primorski avtocesti je med priključkom Divača in razcepom Gabrk proti Ljubljani, okvara tovornega vozila, oviran promet.
+
+Na dolenjski avtocesti je promet oviran med priključkoma Mirna Peč in Trebnje vzhod proti Ljubljani, okvara tovornega vozila.
+
+Delo na cesti:
+Danes in jutri bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 31. 1. 2024 ob 12.30, 1. in 2. program
+
+Na dolenjski avtocesti je na uvozu Mirna Peč proti Ljubljani promet oviran zaradi prometne nesreče in okvare vozila. Oviran je tudi promet med priključkoma Mirna Peč in Trebnje vzhod proti Ljubljani zaradi okvare tovornega vozila.
+
+Na primorski avtocesti je med priključkom Divača in razcepom Gabrk proti Ljubljani promet oviran zaradi okvare tovornega vozila.
+
+Danes in jutri bodo na gorenjski avtocesti med 8. in 16. uro v predoru Karavanke potekala dela. Promet bo urejen izmenično enosmerno, s čakanjem pred predorom.
+
+Primer 2:
+Podatki:
+Datum: 1/31/24 11:30
+
+Delo na cesti:
+Danes in jutri bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 31. 1. 2024 ob 11.30, 1. in 2. program
+
+Na gorenjski avtocesti bodo danes in jutri med 8. in 16. uro v predoru Karavanke potekala dela. Promet bo urejen izmenično enosmerno, s čakanjem pred predorom.
+
+Novi podatki za generiranje besedila:
+
+Datum: 1/16/24 09:30
+
+Ovire:
+Na primorski avtocesti je med počivališčem Ravbarkomanda in Uncem proti Ljubljani, okvara vozila, oviran promet.
+Okvare vozil, oviran promet proti Ljubljani:  
+-na primorski avtocesti med počivališčem Ravbarkomanda in Uncem,  
+-na štajerski avtocesti med Šentrupertom in Vranskim.
+
+Delo na cesti:
+Cesta Ruše - Puščava bo zaradi obnove mostu pri Fali zaprta do 19. januarja 2024. Obvoz je po cesti Ruše - Selnica ob Dravi - Činžat - Fala in obratno.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Poročilo:
+Prometne informacije, 16. januarja 2024 ob 9.30 na 1. in 2. programu Radia Slovenija
+
+Na primorski avtocesti je med počivališčem Ravbarkomanda in Uncem proti Ljubljani okvara vozila ovirala promet. Prav tako
+so se zgodile tri okvare vozil, ki ovirajo promet proti Ljubljani: na primorski avtocesti med počivališčem Ravbarkomanda
+in Uncem, na štajerski avtocesti pa med Šentrupertom in Vranskim.
+
+Cesta Ruše - Puščava bo zaradi obnove mostu pri Fali zaprta do 19. januarja letos. Obvoz je urejen po cesti Ruše -
+Selnica ob Dravi - Činžat - Fala in obratno. Več o delovnih zaporah lahko izveste v prometni napovedi.
+
+Zaradi vremenskih razmer je cesta čez prelaz Vršič prevozna samo za osebna vozila, ki imajo nameščene verige. Voznikom
+priporočamo previdnost na teh odsekih in upoštevanje navodil redarjev ter policistov na kraju nesreče ali okvare.
+
+Za vse dodatne informacije spremljajte prometno poročilo tudi v nadaljevanju našega programa. Vodite varno in srečno
+vožnjo!

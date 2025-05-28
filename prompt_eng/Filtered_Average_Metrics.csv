@@ -1,0 +1,31 @@
+Method;Output_Type;BLEU
+few_shot;expected_output_gpt.txt;0.064185
+cot + few;expected_output_gpt.txt;0.04473888888888889
+cot + few;expected_output.txt;0.04095
+few_shot;expected_output.txt;0.026632500000000003
+cot;expected_output_gpt.txt;0.00624
+cot;expected_output.txt;0.004365
+zero_shot;expected_output_gpt.txt;0.00366
+zero_shot;expected_output.txt;0.0029249999999999996
+;;
+;;
+Method;Output_Type;BERTScore
+cot + few;expected_output_gpt.txt;0.7743777777777778
+cot + few;expected_output.txt;0.757075
+few_shot;expected_output_gpt.txt;0.6935025
+few_shot;expected_output.txt;0.673485
+cot;expected_output_gpt.txt;0.609595
+cot;expected_output.txt;0.603505
+zero_shot;expected_output_gpt.txt;0.58672
+zero_shot;expected_output.txt;0.579825
+;;
+;;
+Method;Output_Type;ROUGE-L
+cot + few;expected_output_gpt.txt;0.4883666666666666
+cot + few;expected_output.txt;0.43628999999999996
+few_shot;expected_output_gpt.txt;0.2439925
+few_shot;expected_output.txt;0.187535
+cot;expected_output_gpt.txt;0.06842000000000001
+cot;expected_output.txt;0.04849
+zero_shot;expected_output_gpt.txt;0.04
+zero_shot;expected_output.txt;0.028500000000000004

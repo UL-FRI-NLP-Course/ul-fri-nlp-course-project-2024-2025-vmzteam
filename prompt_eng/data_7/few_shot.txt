@@ -1,0 +1,125 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+Spodaj sta navedena primera podatkov ter iz njih generirana besedila.
+
+Podatki:
+Datum: 2/2/24 06:30
+
+Nesreče:
+Na ljubljanski obvoznici od Savelj proti Bežigradu je oviran promet. Nastaja zastoj.
+
+Zastoji:
+Na štajerski avtocesti od Domžal proti Ljubljani.
+
+Na cestah od Trzina, Mednega in Iga proti Ljubljani, Pijava Gorica - Škofljica - Ljubljana.
+Povečan promet je na cestah, ki vodijo v večja slovenska mesta.
+
+Ovire:
+Na ljubljanski obvoznici je na uvozu Ljubljana jug proti Primorski oviran promet, okvara vozila.
+Na ljubljanski obvoznici je na uvozu Ljubljana jug proti Primorski oviran promet, okvara vozila. 
+
+Na štajerski avtocesti je od Snebrja proti Šentjakobu predmet na voziišču.
+Na ljubljanski obvoznici je na uvozu Ljubljana jug proti Primorski oviran promet, okvara vozila. 
+
+Na štajerski avtocesti je od Sneberja proti Šentjakobu predmet na vozišču.
+
+Delo na cesti:
+Na primorski avtocesti bo med Brezovico in Vrhniko proti Kopru v soboto, 3. in nedeljo, 4. februarja, med 7. in 17. uro promet potekal po enem prometnem pasu.
+
+Na cesti Litija - Zagorje, pri Šklendrovcu, bo v soboto, 3. februarja, med 7.30 in 17. uro popolna zapora. 
+
+Besedilo:
+Prometne informacije 2.2.2024 06:30
+
+Podatki o prometu
+
+Zaradi jutranje prometne konice nastajajo zastoji na dolenjski avtocesti
+od Grosupljega proti Ljubljani ter na cesti Pijava Gorica - Škofljica.
+
+Na primorski avtocesti bo med Brezovico in Vrhniko proti Kopru v soboto
+in nedeljo, med 7. in 17. uro promet potekal le po enem prometnem pasu.
+
+Podatki:
+Datum: 2/2/24 06:00
+
+Nesreče:
+Na ljubljanski obvoznici od Savelj proti Bežigradu je zaprt prehitevalni pas.
+Na ljubljanski obvoznici od Savelj proti Bežigradu je oviran promet. Nastaja zastoj.
+Na ljubljanski obvoznici od Savelj proti Bežigradu je oviran promet.
+
+Zastoji:
+Na dolenjski avtocesti od Grosuplja proti Ljubljani.
+
+Na cesti Pijava Gorica - Škofljica.
+Na štajerski avtocesti od Domžal proti Ljubljani.
+
+Na cestah Medno - Ljubljana, Ig - Ljubljana, Pijava Gorica - Škofljica.
+Na štajerski avtocesti od Domžal proti Ljubljani.
+
+Na cestah od Trzina, Mednega in Iga proti Ljubljani, Pijava Gorica - Škofljica - Ljubljana.
+
+Delo na cesti:
+Na primorski avtocesti bo med Brezovico in Vrhniko proti Kopru v soboto, 3. in nedeljo, 4. februarja, med 7. in 17. uro promet potekal po enem prometnem pasu.
+
+Na cesti Litija - Zagorje, pri Šklendrovcu, bo v soboto, 3. februarja, med 7.30 in 17. uro popolna zapora. 
+
+Besedilo:
+Prometne informacije 2.2.2024 06:00 2. program.
+
+Podatki o prometu
+
+Zaradi zdrsa brežine je promet pri Colu na odseku Col - Ajdovšèina
+urejen izmenièno enosmerno.
+
+Na primorski avtocesti bo med Brezovico in Vrhniko proti Kopru v soboto
+in nedeljo, med 7. in 17. uro promet potekal le po enem prometnem pasu.
+
+Novi podatki za generiranje besedila:
+
+Datum: 1/9/24 05:30
+
+Nesreče:
+Na štajerski avtocesti je zaprt prehitevalni pas med priključkoma Krtina in Domžale proti Ljubljani. Nastaja zastoj.
+Na štajerski avtocesti je zaprt prehitevalni pas med priključkoma Krtina in Domžale proti Ljubljani. Nastal je zastoj, zamuda 25 - 30 minut.
+Na štajerski avtocesti je zaprt prehitevalni pas med priključkoma Krtina in Domžale proti Ljubljani. Nastal je zastoj, zamuda 20 minut.
+
+Zastoji:
+Promet je povečan in upočasnjen v smeri večjih mest zaradi jutranje prometne konice. Zastoji že nastajajo proti Ljubljani iz smeri Štajerske, Dolenjske in Kočevja.
+
+Ovire:
+Na mariborski vzhodni obvoznici je zaradi pnevmatike na vozišču oviran promet med priključkom Rogoza in razcepom Slivnica proti Ljubljani.
+Srne na vozišču ovirajo promet na bivši hitri cesti med priključkoma Pesnica in Maribor center proti Mariboru.
+
+Delo na cesti:
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo, 10. 1., med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.  
+  
+Na hitri cesti Koper - Izola je zaprt vozni pas skozi predor Markovec proti Izoli.
+
+V Ljubljani na Dunajski cesti zaradi rušenja železniškega nadvoza pri glavni železniški postaji promet poteka po dveh pasovih proti centru in proti obvoznici. V času prometnih konic pričakujemo zastoje. 
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Primorska avtocesta je zaprta zaradi burje med priključkoma Kastelec in Kozina proti Ljubljani. Promet je preusmerjen na regionalno cesto Kastelec - Kozina.  
+  
+Burja:
+\- Na vipavski hitri cesti med razcepom Nanos in priključkom Selo ter na regionalni cesti Razdrto - Podnanos - Manče - Vipava prepoved za počitniške prikolice, hladilnike in vozila s ponjavami, 2. stopnja.  
+\- Na regionalni cesti Vipava - Ajdovščina prepoved za počitniške prikolice, hladilnike in vozila s ponjavami do 8 ton, 1. stopnja.  
+  
+Cesta čez prelaz Vršič je zaradi snega zaprta.
+
+Odgovor:
+Prometne informacije - ponedeljek, 2. septembra 2024, ob 5.30Zaradi jutranje prometne konice nastajajo zastoji
+proti Ljubljani iz smeri Štajerske, Dolenjske in Kočevja. Na štajerski avtocesti je zaprt prehitevalni pas med
+priključkoma Krtina in Domžale proti Ljubljani. Nastal je zastoj, zamuda 20 minut. Zaradi pnevmatike na vozišču je
+oviran promet na mariborski vzhodni obvoznici med priključkom Rogoza in razcepom Slivnica proti Ljubljani. Srne na
+vozišču ovirajo promet na bivši hitri cesti med priključkoma Pesnica in Maribor center proti Mariboru. Na
+gorenjski avtocesti bo v sredo, 10. septembra, zaradi del v predoru Karavanke med 8. in 16. uro promet potekal
+izmenično enosmerno s čakanjem pred predorom. Skozi predor Markovec proti Izoli na hitri cesti Koper - Izola
+promet poteka po enem voznem pasu zaradi del. V Ljubljani bo Dunajska cesta v času rušenja železniškega nadvoza
+pri glavni železniški postaji za promet odprta le v obe smeri, pričakujemo zastoje predvsem v času prometnih
+konic. Primorska avtocesta je zaprta zaradi burje med Kastelecom in Kozino proti Ljubljani; preusmeritev na
+regionalno cesto Kastelec - Kozina. Zaradi močne burje so omejitve tudi na cestah skozi Vipavsko dolino ter čez
+Vršič, ki je zaprt za ves promet.

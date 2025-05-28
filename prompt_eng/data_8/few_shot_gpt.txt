@@ -1,0 +1,94 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+Spodaj sta navedena primera podatkov ter iz njih generirana besedila.
+
+Podatki:
+Datum: 2/2/24 05:30
+
+Zastoji:
+Na dolenjski avtocesti od Grosuplja proti Ljubljani.
+
+Na cesti Pijava Gorica - Škofljica.
+
+Ovire:
+Na dolenjski avtocesti je od Grosuplja proti Višnji Gori oviran promet, okvar vozila.
+na dolenjski avtocesti je od Grosuplja proti Višnji Gori oviran promet, okvar vozila.
+
+Delo na cesti:
+Na primorski avtocesti bo med Brezovico in Vrhniko proti Kopru v soboto, 3. in nedeljo, 4. februarja, med 7. in 17. uro promet potekal po enem prometnem pasu.
+
+Na cesti Litija - Zagorje, pri Šklendrovcu, bo v soboto, 3. februarja, med 7.30 in 17. uro popolna zapora. 
+
+Besedilo:
+Prometne informacije 2. 2. 2024 ob 5.30, 1. in 2. program
+
+Zastoji so na dolenjski avtocesti od Grosuplja proti Ljubljani ter na cesti Pijava Gorica–Škofljica.
+
+Na dolenjski avtocesti je med Grosupljem in Višnjo Goro proti Novemu mestu promet oviran zaradi okvare vozila.
+
+V soboto in nedeljo, 3. in 4. februarja, bo med 7. in 17. uro na primorski avtocesti med Brezovico in Vrhniko proti Kopru promet potekal po enem pasu.
+
+V soboto med 7.30 in 17. uro bo popolna zapora ceste Litija–Zagorje pri Šklendrovcu.
+
+Podatki:
+Datum: 2/1/24 17:30
+
+Ovire:
+Na cesti Brezovica - Podpeč, pri Vnanjih Goricah oviran promet na železniškem prehodu zaradi nedelujočih zapornic.
+
+Delo na cesti:
+Na primorski avtocesti med Brezovico in Vrhniko proti Kopru bo v soboto, 3. 2. in nedeljo, 4. 2., med 7. in 17. uro promet potekal po enem prometnem pasu.
+
+Na cesti Litija - Zagorje, pri Šklendrovcu, bo v soboto, 3. 2., med 7.30 in 17. uro popolna zapora. 
+
+Besedilo:
+Prometne informacije 1. 2. 2024 ob 17.30, 1. in 2. program
+
+Na cesti Brezovica–Podpeč je pri Vnanjih Goricah promet oviran na železniškem prehodu zaradi nedelujočih zapornic.
+
+V soboto in nedeljo, 3. in 4. februarja, bo med 7. in 17. uro na primorski avtocesti med Brezovico in Vrhniko proti Kopru promet potekal po enem pasu.
+
+V soboto med 7.30 in 17. uro bo popolna zapora ceste Litija–Zagorje pri Šklendrovcu.
+
+Novi podatki za generiranje besedila:
+Datum: 1/9/24 21:00
+
+Nesreče:
+Na regionalni cesti Razdrto - Vipava več prevrnjenih tovornih vozil močno ovira promet. Vozniki tovornih vozil, upoštevajte omejitve zaradi močnih sunkov burje!
+
+Delo na cesti:
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo, 10. 1., med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.  
+  
+Na hitri cesti Koper - Izola je zaprt vozni pas skozi predor Markovec proti Izoli.
+
+Na hitri cesti Koper - Izola bo, predvidoma od 10. 1. do 20. 1. 2024, med Semedelo in priključkom Koper Slavček proti Ljubljani, zaprt na počivališču Koper bencinski servis.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Primorska avtocesta je zaprta zaradi burje med priključkoma Kastelec in Kozina proti Ljubljani. Promet je preusmerjen na regionalno cesto Kastelec - Kozina.  
+  
+Burja:  
+\- Na vipavski hitri cesti med razcepom Nanos in priključkom Selo ter na regionalni cesti Razdrto - Vipava prepoved za počitniške prikolice, hladilnike in vozila s ponjavami, 2. stopnja.  
+\- Na regionalni cesti Vipava - Ajdovščina je prepoved za počitniške prikolice, hladilnike in vozila s ponjavami do 8 ton, 1. stopnja.  
+  
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Odgovor:
+Prometne informacije, 1/9/24 ob 21.00 uri, 1. in 2. program
+
+Na regionalni cesti Razdrto - Vipava več prevrnjenih tovornih vozil močno ovira promet. Vozniki tovornih vozil
+upoštevajte omejitve zaradi močnih sunkov burje!
+V sredo, 10/1/, bo med 8. in 16. uro na gorenjski avtocesti v predoru Karavanke zaradi del promet potekal izmenično
+enosmerno s čakanjem pred predorom. Na hitri cesti Koper - Izola je zaprt vozni pas skozi predor Markovec proti Izoli, in
+sicer od 10/1 do 20/1 bo na počivališču Koper bencinski servis prav tako zaprt za promet proti Ljubljani. Več o delovnih
+zaporah v prometni napovedi.
+
+Zaradi burje je Primorska avtocesta med priključkoma Kastelec in Kozina proti Ljubljani zaprta, preusmeritev prometa na
+regionalno cesto Kastelec - Kozina. Burja:
+- Na vipavski hitri cesti med razcepom Nanos in priključkom Selo ter na regionalni cesti Razdrto - Vipava je prepovedana
+vožnja za počitniške prikolice, hladilnike in vozila s ponjavami do 2. stopnje.
+- Na regionalni cesti Vipava - Ajdovščina pa je prav tako prepovedana vožnja za tovrstna vozila do 8 ton do 1. stopnje.
+Cesta čez Vršič je prevozna samo za osebna vozila z nameščenimi verigami.

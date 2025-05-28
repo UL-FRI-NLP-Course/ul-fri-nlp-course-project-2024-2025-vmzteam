@@ -1,0 +1,43 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+
+Podatki:
+
+Nesreče:
+Oviran promet na cesti Dramlje - Šentjur, pri avtocestnem priključku Dramlje.
+Oviran promet:  
+\- na cesti Dramlje - Šentjur, pri avtocestnem priključku Dramlje;  
+\- na regionalni cesti Kranj - Naklo, na Polici, pri AC priključku Kranj zahod;  
+\- na regionalni cesti Lesce - Radovljica, v Radovljici, v križišču s Kranjsko cesto.
+Oviran promet:  
+\- na cesti Dramlje - Šentjur, pri avtocestnem priključku Dramlje;  
+\- na regionalni cesti Kranj - Naklo, na Polici, pri AC priključku Kranj zahod;  
+\- na regionalni cesti Lesce - Radovljica, v Radovljici.
+
+Zastoji:
+Promet je povečan na cestah proti večjim mestom in na mestnih vpadnicah.
+
+Ovire:
+Zaradi okvare vozila je zaprt počasni pas na štajerski avtocesti pred predorom Pletovarje proti Mariboru.
+Žival na gorenjski avtocesti pred počivališčem Voklo proti Ljubljani.
+Žival na gorenjski avtocesti pred počivališčem Voklo proti Ljubljani.
+
+Okvara avtobusa na štajerski avtocesti pred predorom Podmilj proti Ljubljani.
+
+Delo na cesti:
+Cesta Litija - Zagorje bo pri Šklendrovcu zaprta v soboto, 13. 1., med 7.30 in 17. uro.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Odgovor:
+Na cestah po Sloveniji se je zgodilo več nesreč, zaradi katerih prihaja do zastojev in oviranega prometa. V
+Dramljah na cesti proti Šentjurju je prišlo do prometne nesreče, prav tako pa so težave tudi v Kranju ter
+Radovljici. Prometnoinformacijski center ob tem opozarja še na zastoj na avtocesti pred predorom Pletovarje in
+pred počivališčem Voklo proti Ljubljani zaradi živali na cesti ter okvare avtobusa pred Podmiljami, prav tako
+proti Ljubljani. Do sobote bo v Šklendrovcu pri Litiji zaprta cesta Zagorje - Litija. Prelaz Vršič je prevozen
+samo za osebna vozila z verigami.

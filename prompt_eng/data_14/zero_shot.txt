@@ -1,0 +1,26 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+
+Podatki:
+
+Ovire:
+Na primorski avtocesti je med počivališčem Ravbarkomanda in Uncem proti Ljubljani, okvara vozila, oviran promet.
+Okvare vozil, oviran promet proti Ljubljani:  
+-na primorski avtocesti med počivališčem Ravbarkomanda in Uncem,  
+-na štajerski avtocesti med Šentrupertom in Vranskim.
+
+Delo na cesti:
+Cesta Ruše - Puščava bo zaradi obnove mostu pri Fali zaprta do 19. januarja 2024. Obvoz je po cesti Ruše - Selnica ob Dravi - Činžat - Fala in obratno.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Odgovor:
+Zaradi okvar vozil in del na cesti bodo jutri zjutraj večje prometne obremenitve, opozarjajo pristojni. Cesta Ruše
+- Puščava bo zaprta do 19. januarja zaradi obnove mostu. Oviran promet je tudi na primorski avtocesti med
+Ravbarkomando in Uncem ter na štajerski avtocesti med Šentrupertom in Vranskim, kjer so okvare vozil. Verige
+potrebujete za prelaz Vršič.

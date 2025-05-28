@@ -1,0 +1,80 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+Spodaj sta navedena primera podatkov ter iz njih generirana besedila.
+
+Podatki:
+Datum: 1/31/24 12:30
+
+Nesreče:
+Na dolenjski avtocesti je promet oviran na uvozu Mirna Peč proti Ljubljani.
+
+Ovire:
+Na primorski avtocesti je med priključkom Divača in razcepom Gabrk proti Ljubljani, okvara tovornega vozila, oviran promet.
+Na primorski avtocesti je med priključkom Divača in razcepom Gabrk proti Ljubljani, okvara tovornega vozila, oviran promet.
+
+Na dolenjski avtocesti je promet oviran na uvozu Mirna Peč proti Ljubljani, okvara vozila.
+Na primorski avtocesti je med priključkom Divača in razcepom Gabrk proti Ljubljani, okvara tovornega vozila, oviran promet.
+
+Na dolenjski avtocesti je promet oviran med priključkoma Mirna Peč in Trebnje vzhod proti Ljubljani, okvara tovornega vozila.
+
+Delo na cesti:
+Danes in jutri bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 31.1.2024 12:30.
+
+Podatki o prometu
+
+Na dolenjski avtocesti proti Ljubljani je zaradi del zaprt prehitevalni
+pas med prikljuèkom Šmarje Sap in razcepom Malence v predoru Debeli
+hrib. Pred predorom je nastal krajši zastoj.
+
+Na podravski avtocesti je med prikljuèkoma Zlatolièje in Hajdina promet
+proti Gruškovju oviran zaradi predmeta na vozišèu.
+
+Na primorski avtocesti proti Ljubljani so odstranili posledice nesreèe
+med Kozino in Divaèo.
+
+Promet skozi predor Karavanke poteka izmenièno enosmerno zaradi del.
+
+Podatki:
+Datum: 1/31/24 11:30
+
+Delo na cesti:
+Danes in jutri bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 31.1.2024 11:30.
+
+Podatki o prometu
+
+Na primorski avtocesti proti Ljubljani je zaradi nesreèe promet oviran
+med Kozino in Divaèo.
+
+Promet skozi predor Karavanke poteka izmenièno enosmerno zaradi del.
+
+Novi podatki za generiranje besedila:
+Datum: 1/16/24 09:30
+
+Ovire:
+Na primorski avtocesti je med počivališčem Ravbarkomanda in Uncem proti Ljubljani, okvara vozila, oviran promet.
+Okvare vozil, oviran promet proti Ljubljani:  
+-na primorski avtocesti med počivališčem Ravbarkomanda in Uncem,  
+-na štajerski avtocesti med Šentrupertom in Vranskim.
+
+Delo na cesti:
+Cesta Ruše - Puščava bo zaradi obnove mostu pri Fali zaprta do 19. januarja 2024. Obvoz je po cesti Ruše - Selnica ob Dravi - Činžat - Fala in obratno.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Odgovor:
+Prometne informacije 16.1.2024 ob 9:30. Podatki o prometu Zaradi okvare vozil, promet oviran proti Ljubljani: - na
+primorski avtocesti med počivališčem Ravbarkomanda in Uncem, - na štajerski avtocesti med Šentrupertom in
+Vranskim. Cesta Ruše - Puščava je zaradi obnove mostu pri Fali zaprta do 19. januarja 2024. Obvoz je po cesti Ruše
+- Selnica ob Dravi - Činžat - Fala in obratno. Več o delovnih zaporah v prometni napovedi. Cesta čez prelaz Vršič
+je prevozna samo za osebna vozila z nameščenimi verigami.

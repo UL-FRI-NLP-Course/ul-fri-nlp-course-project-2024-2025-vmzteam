@@ -1,0 +1,140 @@
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju. 
+Upoštevaj spodaj navedena pravila strukture prometnih informacij.
+
+STRUKTURA PROMETNE INFORMACIJE
+
+Oblike formulacije:
+
+Cesta in smer + razlog + posledica in odsek
+
+Razlog + cesta in smer + posledica in odsek
+
+OZNAKE CEST
+
+A = avtocesta
+
+H = hitra cesta
+
+G = glavna cesta
+
+R = regionalna cesta
+
+L = lokalna cesta
+
+POIMENOVANJE AVTOCEST IN SMERI
+
+Avtoceste in smeri:
+
+Ljubljana–Koper: primorska avtocesta, proti Kopru / proti Ljubljani
+
+Ljubljana–Obrežje: dolenjska avtocesta, proti Obrežju / proti Ljubljani
+
+Ljubljana–Karavanke: gorenjska avtocesta, proti Karavankam / proti Ljubljani
+
+Ljubljana–Maribor: štajerska avtocesta, proti Mariboru / proti Ljubljani
+
+Maribor–Lendava: pomurska avtocesta, proti Lendavi / proti Mariboru
+
+Maribor–Gruškovje: podravska avtocesta, proti Gruškovju / proti Mariboru
+
+Posebni primeri:
+
+Maribor–Šentilj: ni štajerska avtocesta → poimenuj kot “avtocesta proti Šentilju”
+
+Mariborska vzhodna obvoznica: med Slivnico in Dragučovo, smer proti Avstriji/Lendavi ali proti Ljubljani
+
+Razcep Gabrk–Fernetiči: “proti Italiji” (ni primorska avtocesta)
+
+LJUBLJANSKA OBVOZNICA
+
+Vzhodna: Malence – Zadobrova
+
+Zahodna: Koseze – Kozarje
+
+Severna: Koseze – Zadobrova
+
+Južna: Kozarje – Malence
+
+HITRE CESTE
+
+Nanos–Vrtojba: vipavska hitra cesta
+
+Srmin–Izola: obalna hitra cesta
+
+Koper–Škofije: hitra cesta med kraji (ne "primorska hitra cesta")
+
+Dolga vas–pomurska AC: "na hitri cesti od mejnega prehoda Dolga vas proti pomurski avtocesti"
+
+NAVAJANJE DESTINACIJ
+
+Namesto lokalnih mest uporabljaj končne destinacije:
+
+proti Avstriji / Karavankam
+
+proti Hrvaški / Obrežju / Gruškovju
+
+proti Madžarski
+
+Ne uporabljaj: proti Kranju, Ptuju, Novemu mestu
+
+HIERARHIJA DOGODKOV
+
+Voznik v napačni smeri
+
+Zaprta avtocesta
+
+Nesreča z zastojem na avtocesti
+
+Zastoji zaradi del
+
+Zaprta glavna ali regionalna cesta zaradi nesreče
+
+Nesreče brez zapore
+
+Pokvarjena vozila z zaprtim pasom
+
+Živali na vozišču
+
+Predmeti ali razsut tovor na vozišču
+
+Dela z večjo nevarnostjo naleta
+
+Zastoji pred Karavankami in mejnimi prehodi
+
+JEZIK IN STIL
+
+Počasni pas = pas za počasna vozila
+
+Polovična zapora = izmenično enosmerni promet
+
+Ne piši: “zaprta polovica avtoceste”, temveč: “zaprta je avtocesta proti …”
+
+Vkopi = predori (razen galerije Moste)
+
+Pri razcepih vedno navedi iz katere smeri prihaja vozilo
+
+Pri počivališčih ali predorih navedi širši odsek (med priključkoma)
+
+Pri obvozih: "Obvoz je po vzporedni regionalni cesti" ali "vozniki se lahko preusmerijo tudi na …"
+
+Podatki za generiranje besedila:
+
+Datum: 1/11/24 05:30
+
+Zastoji:
+Promet se zaradi jutranje prometne konice povečuje na cestah, ki vodijo v mestna središča ter na mestnih obvoznicah.
+
+Ovire:
+Na dolenjski avtocesti je med predorom Leščevje in priključkom Trebnje zahod proti Ljubljani oviran promet zaradi okvare avtobusa.
+
+Delo na cesti:
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Odgovor:
+
+Zaradi jutranje prometne konice se povečuje promet na cestah, ki vodijo v mestna središča ter na mestnih obvoznicah.
+Promet je oviran na dolenjski avtocesti med predorom Leščevje in priključkom Trebnje zahod proti Ljubljani zaradi okvare avtobusa. 
+Več o delovnih zaporah v prometni napovedi. Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.

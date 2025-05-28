@@ -1,0 +1,99 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+Spodaj sta navedena primera podatkov ter iz njih generirana besedila.
+
+Podatki:
+Datum: 1/30/24 06:00
+
+Zastoji:
+Na štajerski avtocesti od Lukovice proti Ljubljani.
+
+Na dolenjski avtocesti od Grosuplja proti Ljubljani. 
+
+Na cestah Šentjur - Štore, Medno - Ljubljana in Pijava Gorica - Škofljica.
+Na štajerski avtocesti od Lukovice proti Ljubljani.
+
+Na dolenjski avtocesti od Grosuplja proti Ljubljani. 
+
+Na cestah Šentjur - Štore, Medno - Ljubljana, Ig - Ljubljana in Pijava Gorica - Škofljica.
+Na štajerski avtocesti od Lukovice oroti Ljubljani.
+
+Na dolenjski avtocesti od Grosuplja proti Ljubljani. 
+
+Na cestah Šentjur - Štore, Medno - Ljubljana in Pijava Gorica - Škofljica.
+
+Delo na cesti:
+Danes so med 8. in 12. uro predvidene kratkotrajne popolne zapore primorske avtoceste med Gabrkom in Divačo v obe smeri zaradi del na električnem daljnovodu.
+
+Danes, v sredo in četrtek bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo potekal izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 30.1.2024 06:00
+
+Podatki o prometu
+
+Danes so med 8. in 12. uro predvidene kratkotrajne popolne zapore
+primorske avtoceste med Gabrkom in Divaèo v obe smeri zaradi del na
+elektriènem daljnovodu.
+
+Danes, jutri in v èetrtek bodo med 8. in 16. uro na gorenjski avtocesti
+v predoru Karavanke potekala dela. Promet bo potekal izmenièno enosmerno
+s èakanjem pred predorom.
+
+Podatki:
+Datum: 1/29/24 17:00
+
+Nesreče:
+Na štajerski avtocesti med Dramljami in Celjem vzhod, pred počivališčem Zima proti Ljubljani je zaprt vozni pas. Nastal je zastoj do Konjic. Občasno zapirajo predore. Zamuda 20 - 30 minut.
+Na štajerski avtocesti med Dramljami in Celjem vzhod, pred počivališčem Zima proti Ljubljani so odstranili posledice prometne nesreče. Ostaja zastoj. Občasno zapirajo predore.
+
+Zastoji:
+Zastoj tovornih vozil na gorenjski avtocesti pred predorom Karavanke proti Avstriji, 1 km.
+
+Delo na cesti:
+**V torek, 30. 1., so med 8. in 12. uro predvidene kratkotrajne popolne zapore primorske avtoceste med Gabrkom in Divačo v obe smeri zaradi del na električnem daljnovodu.**
+
+V torek, sredo in četrtek bodo na gorenjski avtocesti v predoru Karavanke potekala dela med 8. in 16. uro. Promet bo potekal izmenično enosmerno s čakanjem pred predorom. 
+
+Besedilo:
+Prometne informacije 28.1.2024 17:00.
+
+Podatki o prometu
+
+Zaradi nesreèe je na štajerski avtocesti proti Ljubljani zaprt vozni pas
+med prikljuèkoma Dramlje in Celje-vzhod. Nastal je krajši zastoj. Èas
+potovanja se podaljša za približno 10 minut.
+
+Na štajerski avtocesti proti Ljubljani je zaradi pokvarjenega tovornjaka
+promet oviran med prikljuèkoma Vransko in Trojane.
+
+Gost promet z zastoji je na severni ljubljanski obvoznici med
+prikljuèkoma Tomaèevo in Dravlje proti Kosezam.
+
+Pred predorom Karavanke je 2 kilometra dolg zastoj tovornih vozil proti
+Avstriji.
+
+Novi podatki za generiranje besedila:
+Datum: 1/26/24 08:30
+
+Zastoji:
+Na primorski hitri cesti med Bertoki in Koprom proti Izoli, skozi delovno zaporo.
+
+Ovire:
+Regionalna cesta Preddvor - Sp. Jezersko - Jezerski Vrh je zaradi podora kamenja zaprta pri Spodnjih Fužinah. Obvoz je možen preko Ljubelja.
+
+Delo na cesti:
+Zaradi sanacije nadvozov na primorski avtocesti med Vrhniko in Brezovico proti Ljubljani bosta v soboto in nedeljo, 27. in 28. 1. 2024, zaprta vozni in odstavni pas med 7. in 17. uro.
+
+V soboto, 27. 1. 2024, bo zaradi izgradnje galerije Šklendrovec zaprta cesta Litija - Zagorje od 7.30 do 17. ure.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Odgovor:
+Prometne informacije 26. januarja 2024 ob 8:30 Zastoji Na primorski hitri cesti med Bertoki in Koprom proti Izoli,
+skozi delovno zaporo. Ovire Regionalna cesta Preddvor - Spodnje Jezersko je pri Spodnjih Fužinah zaprta zaradi
+podora kamenja. Obvoz je možen preko Ljubelja. Delo na cesti Zaradi sanacije nadvozov bo v soboto in nedeljo, 27.
+in 28. januarja 2024, med Vrhniko in Brezovico proti Ljubljani zaprta cesta Litija - Zagorje od 7:30 do 17:00 ure.
+Več o delovnih zaporah v prometni napovedi.

@@ -1,0 +1,150 @@
+Analiziraj spodnje prometne podatke in nato napiši prometno poročilo za radijsko branje.
+
+Postopek:
+1. Najprej analiziraj:
+   - Kje so popolne zapore in prometne nesreče.
+   - Kje so največji zastoji.
+   - Kje so ovire na cesti (okvare, predmeti, živali, itd.).
+   - Kakšne so vremenske razmere.
+
+2. Pri analizi upoštevaj naslednja pravila prometnega poročanja:
+   - Najprej poročaj o popolnih zaporah in nesrečah.
+   - Nato poročaj o zastojih.
+   - Nato o manjših ovirah (npr. okvare vozil, predmeti, živali).
+   - Nato o vremenskih razmerah in vplivu na ceste.
+   
+   - Oblikuj povedi v strukturi:
+     [Cesta in smer] + [razlog] + [posledica in odsek].
+     Primer: "Na primorski avtocesti proti Kopru je zaradi prometne nesreče zaprt vozni pas med razcepom Gabrk in priključkom Divača."
+
+   - Za ceste in smeri uporabljaj ustaljena imena:
+     - "primorska avtocesta" (Ljubljana–Koper),
+     - "dolenjska avtocesta" (Ljubljana–Obrežje),
+     - "gorenjska avtocesta" (Ljubljana–Karavanke),
+     - "štajerska avtocesta" (Ljubljana–Maribor),
+     - "pomurska avtocesta" (Maribor–Lendava),
+     - "podravska avtocesta" (Maribor–Gruškovje).
+
+   - Uporabljaj končne destinacije:
+     - proti Avstriji (ne proti Šentilju),
+     - proti Hrvaški, Obrežju, Gruškovju,
+     - proti Madžarski.
+   
+   - Na ljubljanski obvoznici loči:
+     - vzhodna obvoznica: Malence–Zadobrova,
+     - zahodna obvoznica: Koseze–Kozarje,
+     - severna obvoznica: Koseze–Zadobrova,
+     - južna obvoznica: Kozarje–Malence.
+
+   - Posebnosti:
+     - "Mariborska vzhodna obvoznica" (ne štajerska avtocesta),
+     - "proti Italiji" na razcepu Gabrk–Fernetiči,
+     - ne uporabljaj lokalnih imen mest (npr. "proti Ptuju" zamenjaj s "proti Gruškovju").
+
+   - Pri predorih in počivališčih:
+     - Vedno navedi širši odsek (npr. "med priključkoma").
+     - Za "vkopi" uporabljaj izraz "predor" (razen galerije Moste).
+
+   - Pri obvozih:
+     - Jasno navedi obvozne poti ("po vzporedni regionalni cesti" ali konkretno).
+
+   - V jeziku:
+     - "pas za počasna vozila" (ne "počasni pas"),
+     - "izmenično enosmerni promet" (ne "polovična zapora"),
+     - "zaprta je avtocesta proti ..." (ne "zaprta polovica").
+
+   - Zaključi vsako poročilo z vljudnim pozdravom, npr.:
+     "Toliko za zdaj, vozite varno in srečno na poti!"
+
+3. Šele nato, na podlagi analize in zgornjih pravil, napiši končno radijsko prometno poročilo.
+
+Primer 1:
+Podatki:
+Datum: 2/2/24 05:30
+
+Zastoji:
+Na dolenjski avtocesti od Grosuplja proti Ljubljani.
+
+Na cesti Pijava Gorica - Škofljica.
+
+Ovire:
+Na dolenjski avtocesti je od Grosuplja proti Višnji Gori oviran promet, okvar vozila.
+na dolenjski avtocesti je od Grosuplja proti Višnji Gori oviran promet, okvar vozila.
+
+Delo na cesti:
+Na primorski avtocesti bo med Brezovico in Vrhniko proti Kopru v soboto, 3. in nedeljo, 4. februarja, med 7. in 17. uro promet potekal po enem prometnem pasu.
+
+Na cesti Litija - Zagorje, pri Šklendrovcu, bo v soboto, 3. februarja, med 7.30 in 17. uro popolna zapora. 
+
+Besedilo:
+Prometne informacije 2.2.2024 5:30 1. program.
+
+Podatki o prometu
+
+Na primorski avtocesti je zaradi del promet med prikljuèkoma Brezovica
+in Vrhnika oviran v obe smeri.
+
+Primer 2:
+Podatki:
+Datum: 2/1/24 17:30
+
+Ovire:
+Na cesti Brezovica - Podpeč, pri Vnanjih Goricah oviran promet na železniškem prehodu zaradi nedelujočih zapornic.
+
+Delo na cesti:
+Na primorski avtocesti med Brezovico in Vrhniko proti Kopru bo v soboto, 3. 2. in nedeljo, 4. 2., med 7. in 17. uro promet potekal po enem prometnem pasu.
+
+Na cesti Litija - Zagorje, pri Šklendrovcu, bo v soboto, 3. 2., med 7.30 in 17. uro popolna zapora. 
+
+Besedilo:
+Prometne informacije 2.1.2024 17:30
+
+Podatki o prometu
+
+Promet je upoèasnjen na primorski avtocesti od Vrhnike proti Ljubljani.
+Èas potovanja se podaljša za približno èetrt ure. Zastoj je tudi na
+celotni južni ljubljanski obvoznici proti Dolenjski ter na severni
+obvoznici med krožišèem Tomaèevo in razcepom Koseze v obe smeri.
+
+Štajerska avtocesta je spet prevozna med Blagovico in Vranskim proti
+Mariboru. Tudi daljših zastojev tam ni veè.
+
+Novi podatki za generiranje besedila:
+
+Datum: 1/9/24 21:00
+
+Nesreče:
+Na regionalni cesti Razdrto - Vipava več prevrnjenih tovornih vozil močno ovira promet. Vozniki tovornih vozil, upoštevajte omejitve zaradi močnih sunkov burje!
+
+Delo na cesti:
+Na gorenjski avtocesti, v predoru Karavanke bo zaradi del v sredo, 10. 1., med 8. in 16. uro promet potekal izmenično enosmerno s čakanjem pred predorom.  
+  
+Na hitri cesti Koper - Izola je zaprt vozni pas skozi predor Markovec proti Izoli.
+
+Na hitri cesti Koper - Izola bo, predvidoma od 10. 1. do 20. 1. 2024, med Semedelo in priključkom Koper Slavček proti Ljubljani, zaprt na počivališču Koper bencinski servis.
+
+Več o delovnih zaporah v prometni napovedi.
+
+Vreme:
+**Primorska avtocesta** je**** zaprta zaradi **burje** med priključkoma Kastelec in Kozina proti Ljubljani. Promet je preusmerjen na regionalno cesto Kastelec - Kozina.  
+  
+**Burja****:**  
+**\- Na vipavski hitri cesti med razcepom Nanos** in**priključkom Selo****** ter na **regionalni cesti Razdrto - Vipava** prepoved za počitniške prikolice, hladilnike in vozila s ponjavami, 2. stopnja.  
+\- Na **regionalni cesti Vipava - Ajdovščina** je prepoved za počitniške prikolice, hladilnike in vozila s ponjavami do 8 ton, 1. stopnja.  
+  
+Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+
+Poročilo:
+Prometne informacije dne 2/9/24 ob 21 uri na Valu 202. Na primorski avtocesti proti Kopru bo v soboto, 3. in nedeljo, 4.
+februarja, med 7 in 17 uro promet potekal po enem prometnem pasu zaradi del med Brezovico in Vrhniko. Promet je
+upočasnjen na več odsekih cest: na celotni južni ljubljanski obvoznici proti Dolenjski ter severni obvoznici med
+krožiščem Tomačevo in razcepom Koseze v obe smeri, prav tako na štajerski avtocesti med Blagovico in Vranskim proti
+Mariboru. Na gorenjski avtocesti bo zaradi del v sredo, 10. februarja, med 8 in 16 uro promet potekal izmenično enosmerno
+skozi predor Karavanke. Promet je oviran na hitri cesti Koper-Izola, kjer je zaprt vozni pas skozi predor Markovec proti
+Izoli; na istem odseku bo počivališče Koper bencinski servis zaprto med Semedelo in priključkom Koper Slavček v smeri
+Ljubljane. Na primorski avtocesti je zaprta zaradi burje med priključkoma Kastelec in Kozina proti Ljubljani, promet pa
+je preusmerjen na regionalno cesto Kastelec-Kozina. Burja povzroča omejitve tudi na vipavski hitri cesti med razcepom
+Nanos in priključkom Selo ter na regionalni cesti Razdrto-Vipava (prepoved za počitniške prikolice, hladilnike in vozila
+s ponjavami, 2. stopnja). Na regionalni cesti Vipava-Ajdovščina je prepoved za počitniške prikolice, hladilnike in vozila
+s ponjavami do 8 ton (1. stopnja). Cesta čez prelaz Vršič je prevozna samo za osebna vozila z nameščenimi verigami.
+Poročilo pripravil Gregor Čušin na Valu 202, kjer lahko spremljate vse novosti in spremembe v prometu.

@@ -1,0 +1,49 @@
+Prompt:
+
+S spodnjih podatkov generiraj besedilo o prometu za branje po radiju.
+Besedilo naj bo jedrnato. Bolj pomembne informacije daj na začetek besedila.
+
+Podatki:
+
+Nesreče:
+Na cesti Škofja Loka - Gorenja vas je pri Poljanah nad Škofjo Loko promet urejen izmenično enosmerno.
+
+Zastoji:
+Zaradi popoldanske prometne konice je promet povečan na cestah, ki vodijo iz mestnih središč in na mestnih obvoznicah.
+
+Ovire:
+Na cesti Trojane - Zagorje je pri Spodnjih Izlakah zaradi odstranjevanja podrtih dreves promet urejen izmenično enosmerno. 
+
+Na štajerski avtocesti je zaradi okvare tovornega vozila promet oviran pred uvozom Blagovica proti Ljubljani.
+Na cesti Trojane - Zagorje je pri Spodnjih Izlakah zaradi odstranjevanja podrtih dreves promet urejen izmenično enosmerno.
+Na cesti Trojane - Zagorje je pri Spodnjih Izlakah zaradi odstranjevanja podrtih dreves promet urejen izmenično enosmerno. 
+
+Na gorenjski avtocesti je zaradi ovire na vozišču oviran promet na izvozu Radovljica proti Ljubljani. 
+
+Na štajerski avtocesti je zaradi okvare tovornega vozila promet oviran pred uvozom Blagovica proti Ljubljani.
+
+Delo na cesti:
+Več o delovnih zaporah v prometni napovedi.
+
+Splošno:
+Na cesti Ajdovščina - Col - Črni Vrh - Godovič zaradi zimskih razmer velja prepoved za priklopnike in polpriklopnike.
+
+Odgovor:
+- Promet je urejen izmenično enosmerno na cesti Škofja Loka - Gorenja vas pri Poljanah nad Škofjo Loko zaradi
+nesreče.
+
+- Zaradi popoldanske prometne konice so zastoji povečani na cestah, ki vodijo iz mestnih središč in na mestnih
+obvoznicah.
+
+- Na cesti Trojane - Zagorje je pri Spodnjih Izlakah zaradi odstranjevanja podrtih dreves promet urejen izmenično
+enosmerno.
+
+- Na štajerski avtocesti je oviran promet pred uvozom Blagovica proti Ljubljani zaradi okvare tovornega vozila.
+
+- Prav tako na cesti Trojane - Zagorje pri Spodnjih Izlakah zaradi odstranjevanja podrtih dreves poteka promet
+izmenično enosmerno.
+
+- Na gorenjski avtocesti je oviran promet na izvozu Radovljica proti Ljubljani zaradi ovire na vozišču.
+
+- Še vedno pa velja prepoved za priklopnike in polpriklopnike na cesti Ajdovščina - Col - Črni Vrh - Godovič
+zaradi zimskih razmer.
