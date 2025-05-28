@@ -85,8 +85,35 @@ def find_best_match(df, rtf_ts, rtf_body, rtf_path):
         global number_of_decent, similarities, useful
         similarities.append(best_row['tfidf_sim'])
         if best_row['tfidf_sim'] > 0.6:
+            # Build the full plain text for the matched candidate
+            input_parts = []
+            for col in [
+                "TitlePomembnoSLO","ContentPomembnoSLO",
+                "TitleNesreceSLO","ContentNesreceSLO",
+                "TitleZastojiSLO","ContentZastojiSLO",
+                "TitleVremeSLO","ContentVremeSLO",
+                "TitleOvireSLO","ContentOvireSLO",
+                "TitleDeloNaCestiSLO","ContentDeloNaCestiSLO",
+                "TitleOpozorilaSLO","ContentOpozorilaSLO",
+                "ContentMednarodneInformacijeSLO",
+                "TitleSplosnoSLO","ContentSplosnoSLO"
+            ]:
+                input_parts.append(strip_html(best_row.get(col, "")))
+            input_text = "\n".join(input_parts)
+
+            # input_text = input_text.encode('utf-8').decode('unicode_escape')
+
+            # rtf_body = rtf_body.encode('utf-8').decode('unicode_escape')
+            
+            print("Input text: ", input_text)
+            print("RTF body: ", rtf_body)
             number_of_decent += 1
-            useful.append({"input": best_row['LegacyId'], "output": rtf_path, "similarity": best_row['tfidf_sim']})
+            useful.append({
+                "input": input_text,  # store the full plain text of the matched candidate
+                "output_text": rtf_body,
+                "similarity": best_row['tfidf_sim'],
+                "output": rtf_path
+            })
             print(best_row, rtf_body)
         #print(best_row)
 
@@ -106,7 +133,7 @@ def iterate_outputs(base_folder):
                     raw_content = f.read()
 
                 # Convert the content to plain text using pypandoc
-                rtf_body = pypandoc.convert_text(raw_content, 'plain', format='rtf')
+                rtf_body = pypandoc.convert_text(raw_content, 'plain', format='rtf', encoding='utf-8')
 
                 match = re.search(date_time_pattern, rtf_body)
                 if match:
@@ -124,7 +151,7 @@ def process_file(file_path):
         raw_content = f.read()
 
     # Convert the content to plain text using pypandoc
-    rtf_body = pypandoc.convert_text(raw_content, 'plain', format='rtf')
+    rtf_body = pypandoc.convert_text(raw_content, 'plain', format='rtf', encoding='utf-8')
 
     match = re.search(date_time_pattern, rtf_body)
     if match:
@@ -158,20 +185,16 @@ if __name__ == "__main__":
     #iterate_outputs(base_folder)
     iterate_outputs_threaded(base_folder)
     print("Number of decent matches: ", number_of_decent)
-    # plot the similarities
-
-    plt.plot(similarities)
-    plt.title("Cosine Similarities")
-    plt.show()
 
     # save the useful matches to a file
     serializable_useful = []
     for item in useful:
         serializable_useful.append({
             "input": int(item["input"]) if hasattr(item["input"], "item") else item["input"],
-            "output": item["output"],
-            "similarity": float(item["similarity"]) if hasattr(item["similarity"], "item") else item["similarity"]
+            "output_text": item["output_text"],
+            "similarity": float(item["similarity"]) if hasattr(item["similarity"], "item") else item["similarity"],
+            "output": item["output"]
         })
-
-    with open("useful_matches.json", "w") as f:
-        json.dump(serializable_useful, f, indent=4)
+    
+    with open("useful_matches.json", "w", encoding="utf-8") as f:
+        json.dump(serializable_useful, f, indent=4, ensure_ascii=False)
