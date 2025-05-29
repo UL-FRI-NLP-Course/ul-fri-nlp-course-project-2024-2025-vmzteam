@@ -110,23 +110,19 @@ def concatenate_prompt(relevant_lines : list) -> str:
 
 def send_prompt(instruction_prompt : str, input_query : str) -> str:
     """Sends a prompt to the LLM and returns the response."""
-    stream = ollama.chat(
+    response = ollama.chat(
         model=LANGUAGE_MODEL,
         messages=[
             {'role': 'user', 'content': instruction_prompt + input_query},
         ],
-        stream=True,
+        stream=False,  # Changed from True to False
     )
 
-    # print the response from the chatbot in real-time
+    # print the response from the chatbot
     print('Chatbot response:')
-    response = ''
-    for chunk in stream:
-        content = chunk['message']['content']
-        print(content, end='', flush=True)
-        response += content
-
-    return response
+    content = response['message']['content']
+    print(content)
+    return content
 
 def save_to_file(target_dir : str, content : str, date : datetime.datetime, prompting_technique: str) -> None:
     """Saves the content to a file."""
